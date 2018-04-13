@@ -6,19 +6,17 @@ library(readxl)
 library(tidyverse)
 library(ggmap)
 library(purrr)
-library(DT)
 library(knitr)
 library(ggplot2)
 
 providers1 <- read_excel("Indiv/Anthem_BCBS.xlsm", sheet = "IndividualProviders1", skip = 2, 
-                        col_names = c("NPI", "Specialty", "Street", "City", "State", "Zip"), 
-                        col_types = c("text", "skip", "skip", "skip", "skip", "skip", "skip", 
-                                      "text", "text", "skip", "text", "text", "skip", "text", "skip"))
-
+  col_names = c("NPI", "Specialty", "Street", "City", "State", "County", "Zip"), 
+  col_types = c("text", "skip", "skip", "skip", "skip", "skip", "skip", 
+  "text", "text", "skip", "text", "text", "text", "text", "skip"))
 providers2 <- read_excel("Indiv/Anthem_BCBS.xlsm", sheet = "IndividualProviders2", skip = 2, 
-                         col_names = c("NPI", "Specialty", "Street", "City", "State", "Zip"), 
-                         col_types = c("text", "skip", "skip", "skip", "skip", "skip", "skip", 
-                                       "text", "text", "skip", "text", "text", "skip", "text", "skip"))
+  col_names = c("NPI", "Specialty", "Street", "City", "State", "County", "Zip"), 
+  col_types = c("text", "skip", "skip", "skip", "skip", "skip", "skip", 
+  "text", "text", "skip", "text", "text", "text", "text", "skip"))
 
 # COMBINE THE TWO SHEETS
 providers_bind <- bind_rows(providers1, providers2)
@@ -26,7 +24,16 @@ providers_bind <- bind_rows(providers1, providers2)
 # NEED TO REMOVE DUPLICATES
 providers = providers_bind[!duplicated(providers_bind$NPI),]
 
-# PROVIDER TYPE TO FACTOR
+# PROVIDER SPECIALTY TO FACTOR
+providers$Specialty <- as.factor(providers$Specialty)
+
+# LIST EACH SPECIALTY CATEGORY
+unique(providers$Specialty)
+
+CO_specialty_count <- providers %>% 
+  group_by(Specialty) %>% 
+  summarise(count = n()) %>%
+  arrange(-count)
 
 # ADD CONCATENATED LOCATIONS COLUMN
 providers$locations <- paste0(providers$Street, ", ", providers$City, ", ", providers$State, ", ", providers$Zip)
