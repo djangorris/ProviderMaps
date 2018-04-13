@@ -6,7 +6,6 @@ library(readxl)
 library(tidyverse)
 library(ggmap)
 library(purrr)
-library(DT)
 library(knitr)
 library(ggplot2)
 

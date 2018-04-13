@@ -10,12 +10,12 @@ library(DT)
 library(knitr)
 library(ggplot2)
 
-providers1 <- read_excel("Anthem.xlsm", sheet = "IndividualProviders1", skip = 2, 
+providers1 <- read_excel("Indiv/Anthem_BCBS.xlsm", sheet = "IndividualProviders1", skip = 2, 
                         col_names = c("NPI", "Specialty", "Street", "City", "State", "Zip"), 
                         col_types = c("text", "skip", "skip", "skip", "skip", "skip", "skip", 
                                       "text", "text", "skip", "text", "text", "skip", "text", "skip"))
 
-providers2 <- read_excel("Anthem.xlsm", sheet = "IndividualProviders2", skip = 2, 
+providers2 <- read_excel("Indiv/Anthem_BCBS.xlsm", sheet = "IndividualProviders2", skip = 2, 
                          col_names = c("NPI", "Specialty", "Street", "City", "State", "Zip"), 
                          col_types = c("text", "skip", "skip", "skip", "skip", "skip", "skip", 
                                        "text", "text", "skip", "text", "text", "skip", "text", "skip"))
@@ -31,8 +31,11 @@ providers = providers_bind[!duplicated(providers_bind$NPI),]
 # ADD CONCATENATED LOCATIONS COLUMN
 providers$locations <- paste0(providers$Street, ", ", providers$City, ", ", providers$State, ", ", providers$Zip)
 
+###########
+# < **Right here now - need to research geocoding options** >
 # geocodes a location (find latitude and longitude) using the Google Maps API
 geo <- geocode(location = providers$locations, output="latlon", source="google")
+##############
 
 # Bringing over the longitude and latitude data
 providers$lon <- geo$lon
