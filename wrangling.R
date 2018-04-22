@@ -61,11 +61,11 @@ cols <- c("Anthem BCBS" = "blue2",
           "Denver Health" = "darkorange",
           "Kaiser" = "deepskyblue2",
           "RMHP" = "tan1")
-ggplot(data, aes(fill = Carrier, y = Total, x = Specialty, color = Carrier)) + 
+ggplot(data, aes(x = Specialty, y = Total, fill = Carrier)) + 
   geom_bar(position="dodge", stat="identity") +
   xlab("Specialty Group") +
   ylab("Number of Providers") +
   ggtitle("Providers Grouped by Similar Specialty") +
-  scale_colour_manual(values = cols)
+  scale_fill_manual(values = cols)
 
 
