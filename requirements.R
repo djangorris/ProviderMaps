@@ -8,6 +8,3 @@ library(ggmap)
 library(purrr)
 library(knitr)
 library(ggplot2)
-
-tables <- list(anthem, bright, cigna)
-all_carriers <- reduce(tables, bind_rows, AnthemBCBS = anthem, Bright = bright, Cigna = cigna)

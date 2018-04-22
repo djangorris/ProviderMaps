@@ -32,7 +32,8 @@ providers$Specialty <- ifelse(providers$Prefix %in% "CNM", 'Certified Nurse-Midw
 providers$Specialty <- ifelse(providers$Prefix %in% c("OD", "OPT"), 'Optometry ("OD", "OPT")', providers$Specialty)
 providers$Specialty <- ifelse(providers$Prefix %in% c("MT", "MST"), 'Massage Therapy ("MT", "MST")', providers$Specialty)
 providers$Specialty <- ifelse(providers$Prefix %in% c("PA", "PAC"), 'Physician Assistant ("PA", "PAC")', providers$Specialty)
-providers$Specialty <- ifelse(providers$Prefix %in% "MD", 'Doctor of Medicine ("MD")', providers$Specialty)
+providers$Specialty <- ifelse((providers$Prefix %in% "MD") & (providers$Specialty %in% "000 OTHER"), 
+                               'Doctor of Medicine ("MD")', providers$Specialty)
 providers$Specialty <- ifelse(providers$Prefix %in% "DO", 'Doctor of Osteopathic Medicine ("DO")', providers$Specialty)
 providers$Specialty <- ifelse(providers$Prefix %in% c("MFT", "LMFT"), 'Marriage and Family Therapist ("MFT", "LMFT")', providers$Specialty)
 providers$Specialty <- ifelse(providers$Prefix %in% "CNS", 'Clinical Nurse Specialist ("CNS")', providers$Specialty)
@@ -45,7 +46,7 @@ providers$Specialty <- ifelse(providers$Prefix %in% c("RN", "RNFA"), 'Registered
 providers$Specialty <- ifelse(providers$Prefix %in% "CPNP", "101 Pediatrics - Routine/Primary Care", providers$Specialty)
 providers$Specialty <- ifelse(providers$Prefix %in% "SLP", 'Doctor of Speech-Language Pathology ("SLP")', providers$Specialty)
 providers$Specialty <- ifelse(providers$Prefix %in% "ST", "103 Psychology", providers$Specialty)
-providers$Specialty <- ifelse(providers$Prefix %in% "PHD", "PHD (No specialty listed)", providers$Specialty)
+# providers$Specialty <- ifelse(providers$Prefix %in% "PHD", "PHD (No specialty listed)", providers$Specialty)
 providers$Specialty <- ifelse(providers$Prefix %in% "Not Applicable", "N/A, Non-physician", providers$Specialty)
 # providers$Specialty <- ifelse(is.na(providers$Prefix), "N/A, Non-physician", providers$Specialty)
 # ADD CONCATENATED NAME + LOCATION COLUMN TO REMOVE DUPLICATES
