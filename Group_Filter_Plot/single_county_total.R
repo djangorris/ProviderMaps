@@ -1,5 +1,5 @@
-##### PER COUNTY TOTAL  #####
-county_selected <- "Boulder"
+##### SINGLE COUNTY TOTAL  #####
+county_selected <- "Summit"
 SINGLE_COUNTY <- ALL_county_specialty_count %>% 
   filter(County == county_selected) %>% 
   summarise(Total = sum(nproviders, na.rm = TRUE))
