@@ -12,69 +12,64 @@ ALL_statewide_specialty_count <- bind_rows(ANTHEM_statewide_specialty_count,
                                            DENVER_HEALTH_statewide_specialty_count, 
                                            KAISER_statewide_specialty_count, 
                                            RMHP_statewide_specialty_count)
-
+ALL_county_specialty_count$Carrier <- as.factor(ALL_county_specialty_count$Carrier)
+ALL_statewide_specialty_count$Carrier <- as.factor(ALL_statewide_specialty_count$Carrier)
+ALL_county_specialty_count$County <- str_to_title(ALL_county_specialty_count$County)
 ### EXPORTING ###
 write_csv(ALL_county_specialty_count, path = "Indiv/ALL_county_specialty_count.csv")
 write_csv(ALL_statewide_specialty_count, path = "Indiv/ALL_statewide_specialty_count.csv")
 
 ### GROUPING ###
-# General docs
-STATEWIDE_ALL_General_Family_Internal <- ALL_statewide_specialty_count %>% 
-  filter(Specialty %in% c("001 General Practice", 
-                        "002 Family Medicine", 
-                        "003 Internal Medicine")) %>% 
-  group_by(Carrier) %>% 
-  summarise(Total = sum(count, na.rm = TRUE))
-# Contains Psychology specialty
-STATEWIDE_ALL_Psychology <- ALL_statewide_specialty_count %>% 
-  filter(Specialty %in% c("103 Psychology", 
-                          "019 Neurology, 103 Psychology", 
-                          "029 Psychiatry, 103 Psychology",
-                          "102 Licensed Clinical Social Workers, 103 Psychology", 
-                          "005 Primary Care - Physician Assistant, 103 Psychology",
-                          "010 Chiropracty, 103 Psychology", 
-                          "006 Primary Care - Nurse Practitioner, 102 Licensed Clinical Social Workers, 103 Psychology",
-                          "006 Primary Care - Nurse Practitioner, 103 Psychology")) %>% 
-  group_by(Carrier) %>% 
-  summarise(Total = sum(count, na.rm = TRUE))
-# Contains Psychiatry in specialty
-STATEWIDE_ALL_Psychiatry <- ALL_statewide_specialty_count %>% 
-  filter(Specialty %in% c("029 Psychiatry", 
-                          "019 Neurology, 029 Psychiatry", 
-                          "029 Psychiatry, 103 Psychology",
-                          "012 Endocrinology, 029 Psychiatry", 
-                          "026 Physical Medicine & Rehabilitation, 029 Psychiatry")) %>% 
-  group_by(Carrier) %>% 
-  summarise(Total = sum(count, na.rm = TRUE))
+################
+##### TOTALS #####
 
-# VISUALIZING
-data <- bind_rows("General Practice\n+Family Medicine\n+Internal Medicine" = STATEWIDE_ALL_General_Family_Internal, 
-                  "Contains Psychology" = STATEWIDE_ALL_Psychology, 
-                  "Contains Psychiatry" = STATEWIDE_ALL_Psychiatry,
-                  .id = "Specialty")
-data$Carrier <- as.factor(data$Carrier)
-cols <- c("Anthem BCBS" = "blue2", 
+
+
+
+###### SINGLE COUNTY BY SPECIALTY #####
+selected_county <- "Larimer"
+selected_specialty <- "003 Internal Medicine"
+COUNTY_ALL <- ALL_county_specialty_count %>% 
+  group_by(Specialty, County) %>% 
+  filter(Specialty == selected_specialty, County == selected_county)
+# plot
+cols <- c("Anthem BCBS" = "blue", 
           "Bright" = "deeppink3", 
           "Cigna" = "forestgreen",
-          "Denver Health" = "darkorange",
+          "Denver Health" = "navyblue",
           "Kaiser" = "deepskyblue2",
-          "RMHP" = "tan1")
-# Specialty categories faceted side by side
-ggplot(data, aes(x = Carrier, y = Total, fill = Carrier)) + 
-  geom_bar(position="dodge", stat="identity") +    
-  facet_wrap(~Specialty) +
-  xlab("Specialty Group") +
+          "RMHP" = "darkorange")
+ggplot(COUNTY_ALL, aes(x = Carrier, y = nproviders, fill = Carrier)) +
+  geom_bar(position="dodge", stat="identity") +
+  xlab("Insurance Carrier") +
   ylab("Number of Providers") +
-  ggtitle("Providers Grouped by Similar Specialty") +
+  ggtitle(str_c(selected_county, " County ", selected_specialty, " Providers") +
   scale_fill_manual(values = cols)
 
-# Side by side specialty categories, but not faceted
-# ggplot(data, aes(x = Specialty, y = Total, fill = Carrier)) + 
-#   geom_bar(position="dodge", stat="identity") +
-#   xlab("Specialty Group") +
-#   ylab("Number of Providers") +
-#   ggtitle("Providers Grouped by Similar Specialty") +
-#   scale_fill_manual(values = cols)
+
+
+
+### STATEWIDE BY COUNTY ###
+selected_specialty <- c("001 General Practice", 
+                        "002 Family Medicine", 
+                        "003 Internal Medicine")
+STATEWIDE_ALL <- ALL_statewide_specialty_count %>% 
+  filter(Specialty %in% selected_specialty) %>% 
+  group_by(Carrier) %>% 
+  summarise(Total = sum(count, na.rm = TRUE))
+cols <- c("Anthem BCBS" = "blue", 
+          "Bright" = "deeppink3", 
+          "Cigna" = "forestgreen",
+          "Denver Health" = "navyblue",
+          "Kaiser" = "deepskyblue2",
+          "RMHP" = "darkorange")
+ggplot(STATEWIDE_ALL, aes(x = Carrier, y = Total, fill = Carrier)) +
+  geom_bar(position="dodge", stat="identity") +
+  xlab("Insurance Carrier") +
+  ylab("Number of Providers") +
+  ggtitle("Colorado Statewide Medical Providers") +
+  scale_fill_manual(values = cols)
+
 
 
 
