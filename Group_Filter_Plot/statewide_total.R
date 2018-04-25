@@ -13,4 +13,5 @@ ggplot(STATEWIDE_ALL, aes(x = Carrier, y = Total, fill = Carrier)) +
   xlab("Insurance Carrier") +
   ylab("Number of Providers") +
   ggtitle("Colorado Statewide Medical Providers") +
-  scale_fill_manual(values = cols)
+  scale_fill_manual(values = cols) +
+  labs(caption = "Source: 2018 SERFF Health Plan Binder")
