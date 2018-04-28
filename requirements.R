@@ -13,5 +13,5 @@ library(knitr)
 library(ggplot2)
 library(stringr)
 library(magick)
-library(here) # For making the script run without a wd
-library(magrittr) # For piping the logo
+library(here)
+library(magrittr)
