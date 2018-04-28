@@ -12,35 +12,6 @@ providers2 <- read_excel(path, sheet = "IndividualProviders2", skip = 2,
                                        "text", "text", "skip", "text", "text", "text", "text", "skip"))
 # COMBINE THE TWO SHEETS
 providers <- bind_rows(providers1, providers2)
-
-
-# REPLACE "000 OTHER" WITH THEIR PROFESSIONAL NAMES
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% c("AC", "DAC", "LAC")), 'Acupuncture ("AC" "DAC" "LAC")', providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% c("AU", "AUD", "CHIS", "MA")), 'Audiology ("AU" "AUD" "CHIS" "MA")', providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% c("ACL", "LPC")), 'Counseling ("ACL" "LPC")', providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% c("ANP", "NP", "FNP", "CNP")), 'Nurse Practitioner ("ANP" "NP" "FNP" "CNP")', providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% "BCBA"), 'Board Certified Behavior Analyst ("BCBA")', providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% c("CFSA", "CST")), 'Surgical Technologist ("CFSA" "CST")', providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% "CNM"), 'Certified Nurse-Midwife ("CNM")', providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% c("OD", "OPT")), 'Optometry ("OD" "OPT")', providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% c("MT", "MST")), 'Massage Therapy ("MT" "MST")', providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% c("PA", "PAC")), 'Physician Assistant ("PA" "PAC")', providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% "MD"), 'Doctor of Medicine ("MD")', providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% "DO"), 'Doctor of Osteopathic Medicine ("DO")', providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% c("MFT", "LMFT")), 'Marriage and Family Therapist ("MFT" "LMFT")', providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% "CNS"), 'Clinical Nurse Specialist ("CNS")', providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% "RD"), 'Registered Dietitian ("RD")', providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% "CRNA"), 'Registered Nurse Anesthetist ("CRNA")', providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% "LCSW"), '102 Licensed Clinical Social Workers', providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% "OT"), 'Occupational Therapist ("OT")', providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% "PMH"), "029 Psychiatry", providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% c("RN", "RNFA")), 'Registered Nurse ("RN" "RNFA")', providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% "CPNP"), "101 Pediatrics - Routine/Primary Care", providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% "SLP"), 'Doctor of Speech-Language Pathology ("SLP")', providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% "ST"), "103 Psychology", providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% "PHD"), "PHD (No specialty listed)", providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (providers$Prefix %in% "Not Applicable"), "N/A or Non-physician", providers$Specialty)
-providers$Specialty <- ifelse((providers$Specialty %in% "000 OTHER") & (is.na(providers$Prefix)), "N/A or Non-physician", providers$Specialty)
 # ADD CONCATENATED NAME + LOCATION COLUMN TO REMOVE DUPLICATES
 providers$name_location <- paste0(providers$First_Name, " ", providers$Last_Name, ": ", providers$Street, ", ", providers$City, ", ", providers$State, ", ", providers$Zip)
 # REMOVE DUPLICATES
@@ -79,5 +50,3 @@ ANTHEM_county_specialty_count <- ANTHEM_medical_providers %>%
   group_by(Carrier, Specialty, County) %>%
   summarise(nproviders = n()) %>%
   arrange(-nproviders)
-
-
