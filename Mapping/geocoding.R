@@ -1,7 +1,12 @@
+#### FIRST MAKE SURE THERE ARE QUERIES AVAILABLE ###
+geocodeQueryCheck()
+#### MAKE SURE TO NOTE PREVIOUS DAY RUN TIME: ?????
+
+
 # FILTER SPECIALTY
 cardiovascular_dis_008 <- filter(CO_all_medical_providers, Specialty %in% "008 Cardiovascular Disease")
 # SLICE IF OVER 2500 ROWS
-SLICE_1_cardiovascular_dis_008 <- cardiovascular_dis_008[1:2500, , drop = FALSE]
+SLICE_1_cardiovascular_dis_008 <- cardiovascular_dis_008[1:2497, , drop = FALSE]
 
 #### Next day: FRIDAY | READY | SLICE_1_cardiovascular_dis_008 ####
 
