@@ -1,0 +1,309 @@
+Carrier,Specialty,count
+Anthem BCBS,000 OTHER,5486
+Anthem BCBS,002 Family Medicine,2606
+Anthem BCBS,003 Internal Medicine,1775
+Anthem BCBS,016 Gynecology (OB/GYN),1030
+Anthem BCBS,025 Orthopedic Surgery,866
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,847
+Anthem BCBS,015 General Surgery,677
+Anthem BCBS,008 Cardiovascular Disease,638
+Anthem BCBS,103 Psychology,607
+Anthem BCBS,102 Licensed Clinical Social Workers,605
+Anthem BCBS,023 Ophthalmology,536
+Anthem BCBS,010 Chiropracty,494
+Anthem BCBS,019 Neurology,374
+Anthem BCBS,014 Gastroenterology,339
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,335
+Anthem BCBS,011 Dermatology,329
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,326
+Anthem BCBS,026 Physical Medicine & Rehabilitation,279
+Anthem BCBS, 002 Family Medicine,278
+Anthem BCBS,029 Psychiatry,270
+Anthem BCBS,013 ENT/Otolaryngology,267
+Anthem BCBS,028 Podiatry,253
+Anthem BCBS, 003 Internal Medicine,228
+Anthem BCBS,007 Allergy and Immunology,221
+Anthem BCBS,030 Pulmonology,213
+Anthem BCBS, 008 Cardiovascular Disease,212
+Anthem BCBS,033 Urology,199
+Anthem BCBS, 030 Pulmonology,189
+Anthem BCBS,020 Neurological Surgery,177
+Anthem BCBS,018 Nephrology,149
+Anthem BCBS,012 Endocrinology,147
+Anthem BCBS, 021 Medical Oncology & Surgical Oncology,126
+Anthem BCBS, 016 Gynecology (OB/GYN),120
+Anthem BCBS,022 Radiation Oncology,117
+Anthem BCBS,031 Rheumatology,107
+Anthem BCBS,035 Cardiothoracic Surgery,103
+Anthem BCBS,017 Infectious Diseases,101
+Anthem BCBS,027 Plastic Surgery,101
+Anthem BCBS, 004 Geriatrics,89
+Anthem BCBS, 014 Gastroenterology,87
+Anthem BCBS, 025 Orthopedic Surgery,72
+Anthem BCBS, 017 Infectious Diseases,67
+Anthem BCBS, 026 Physical Medicine & Rehabilitation,66
+Anthem BCBS,001 General Practice,65
+Anthem BCBS, 012 Endocrinology,48
+Anthem BCBS, 015 General Surgery,48
+Anthem BCBS, 019 Neurology,44
+Anthem BCBS,034 Vascular Surgery,43
+Anthem BCBS, 029 Psychiatry,38
+Anthem BCBS, 011 Dermatology,37
+Anthem BCBS, 035 Cardiothoracic Surgery,35
+Anthem BCBS, 031 Rheumatology,33
+Anthem BCBS, 103 Psychology,32
+Anthem BCBS, 018 Nephrology,30
+Anthem BCBS, 022 Radiation Oncology,27
+Anthem BCBS, 001 General Practice,18
+Anthem BCBS, 007 Allergy and Immunology,18
+Anthem BCBS, 027 Plastic Surgery,17
+Anthem BCBS,004 Geriatrics,16
+Anthem BCBS, 034 Vascular Surgery,15
+Anthem BCBS, 102 Licensed Clinical Social Workers,12
+Anthem BCBS, 020 Neurological Surgery,10
+Anthem BCBS, 033 Urology,9
+Anthem BCBS, 010 Chiropracty,8
+Anthem BCBS, 013 ENT/Otolaryngology,3
+Anthem BCBS, 028 Podiatry,3
+Anthem BCBS, 023 Ophthalmology,2
+Anthem BCBS, Dental - General,1
+Bright,000 OTHER,3432
+Bright,002 Family Medicine,630
+Bright,010 Chiropracty,495
+Bright,102 Licensed Clinical Social Workers,426
+Bright,016 Gynecology (OB/GYN),351
+Bright,101 Pediatrics - Routine/Primary Care,345
+Bright,006 Primary Care - Nurse Practitioner,333
+Bright,025 Orthopedic Surgery,299
+Bright,008 Cardiovascular Disease,232
+Bright,005 Primary Care - Physician Assistant,220
+Bright,029 Psychiatry,212
+Bright,021 Medical Oncology & Surgical Oncology,158
+Bright,014 Gastroenterology,136
+Bright,015 General Surgery,135
+Bright,011 Dermatology,131
+Bright,023 Ophthalmology,124
+Bright,103 Psychology,113
+Bright,013 ENT/Otolaryngology,109
+Bright,018 Nephrology,109
+Bright,003 Internal Medicine,107
+Bright,019 Neurology,97
+Bright,012 Endocrinology,89
+Bright,007 Allergy and Immunology,74
+Bright,033 Urology,73
+Bright,030 Pulmonology,65
+Bright,028 Podiatry,58
+Bright,017 Infectious Diseases,51
+Bright,020 Neurological Surgery,43
+Bright,031 Rheumatology,43
+Bright,026 Physical Medicine & Rehabilitation,39
+Bright,035 Cardiothoracic Surgery,35
+Bright,022 Radiation Oncology,26
+Bright,034 Vascular Surgery,17
+Bright,004 Geriatrics,14
+Bright,027 Plastic Surgery,12
+Cigna,000 OTHER,6699
+Cigna,103 Psychology,3550
+Cigna,102 Licensed Clinical Social Workers,1426
+Cigna,003 Internal Medicine,907
+Cigna,005 Primary Care - Physician Assistant,755
+Cigna,014 Gastroenterology,701
+Cigna,002 Family Medicine,699
+Cigna,008 Cardiovascular Disease,670
+Cigna,006 Primary Care - Nurse Practitioner,653
+Cigna,029 Psychiatry,647
+Cigna,016 Gynecology (OB/GYN),625
+Cigna,026 Physical Medicine & Rehabilitation,359
+Cigna,015 General Surgery,338
+Cigna,010 Chiropracty,330
+Cigna,025 Orthopedic Surgery,302
+Cigna,101 Pediatrics - Routine/Primary Care,261
+Cigna,023 Ophthalmology,216
+Cigna,007 Allergy and Immunology,179
+Cigna, 030 Pulmonology,169
+Cigna, 003 Internal Medicine,167
+Cigna,019 Neurology,167
+Cigna,021 Medical Oncology & Surgical Oncology,153
+Cigna, 008 Cardiovascular Disease,136
+Cigna,028 Podiatry,122
+Cigna,045 Surgical Services (Ambulatory Surgical Centers and Outpatient Hospital),121
+Cigna, 101 Pediatrics - Routine/Primary Care,105
+Cigna,030 Pulmonology,101
+Cigna,013 ENT/Otolaryngology,96
+Cigna,018 Nephrology,95
+Cigna,033 Urology,86
+Cigna, 021 Medical Oncology & Surgical Oncology,67
+Cigna,017 Infectious Diseases,67
+Cigna,022 Radiation Oncology,67
+Cigna,031 Rheumatology,65
+Cigna,011 Dermatology,59
+Cigna, 026 Physical Medicine & Rehabilitation,50
+Cigna, 004 Geriatrics,49
+Cigna, 014 Gastroenterology,45
+Cigna,049 Physical Therapy (individual physical therapists providing care in Free-standing; hospital outpatient and ambulatory health care facilities),45
+Cigna,041 Cardiac Surgery Program,41
+Cigna,012 Endocrinology,37
+Cigna, 034 Vascular Surgery,28
+Cigna,027 Plastic Surgery,27
+Cigna, 019 Neurology,25
+Cigna, 035 Cardiothoracic Surgery,25
+Cigna,020 Neurological Surgery,25
+Cigna, 025 Orthopedic Surgery,22
+Cigna, 002 Family Medicine,21
+Cigna, 018 Nephrology,21
+Cigna, 017 Infectious Diseases,20
+Cigna, 022 Radiation Oncology,19
+Cigna, 049 Physical Therapy (individual physical therapists providing care in Free-standing; hospital outpatient and ambulatory health care facilities),19
+Cigna,047 Diagnostic Radiology (free-standing; hospital outpatient; ambulatory health facilities with Dx Radiology),19
+Cigna,034 Vascular Surgery,17
+Cigna, 027 Plastic Surgery,16
+Cigna, 007 Allergy and Immunology,15
+Cigna, 016 Gynecology (OB/GYN),15
+Cigna, 057 Ambulatory Health Care Facilities - Infusion Therapy/Oncology/Radiology,15
+Cigna,035 Cardiothoracic Surgery,15
+Cigna, 103 Psychology,13
+Cigna, 011 Dermatology,12
+Cigna, 015 General Surgery,12
+Cigna,004 Geriatrics,12
+Cigna, 012 Endocrinology,11
+Cigna,057 Ambulatory Health Care Facilities - Infusion Therapy/Oncology/Radiology,11
+Cigna, 006 Primary Care - Nurse Practitioner,7
+Cigna, 029 Psychiatry,7
+Cigna,001 General Practice,7
+Cigna,050 Occupational Therapist,7
+Cigna, 010 Chiropracty,6
+Cigna, 031 Rheumatology,6
+Cigna, 045 Surgical Services (Ambulatory Surgical Centers and Outpatient Hospital),6
+Cigna, 001 General Practice,5
+Cigna, 041 Cardiac Surgery Program,4
+Cigna,051 Speech Therapy,3
+Cigna, 005 Primary Care - Physician Assistant,2
+Cigna, 013 ENT/Otolaryngology,2
+Cigna, 033 Urology,2
+Cigna, 102 Licensed Clinical Social Workers,2
+Cigna, 043 Critical Care Services - Intensive Care Units (ICU),1
+Denver Health,102 Licensed Clinical Social Workers,96
+Denver Health,003 Internal Medicine,42
+Denver Health,002 Family Medicine,39
+Denver Health,029 Psychiatry,38
+Denver Health,103 Psychology,30
+Denver Health,005 Primary Care - Physician Assistant,28
+Denver Health,016 Gynecology (OB/GYN),25
+Denver Health,101 Pediatrics - Routine/Primary Care,25
+Denver Health,006 Primary Care - Nurse Practitioner,24
+Denver Health,015 General Surgery,23
+Denver Health,020 Neurological Surgery,15
+Denver Health,000 OTHER,14
+Denver Health,017 Infectious Diseases,11
+Denver Health,025 Orthopedic Surgery,11
+Denver Health,008 Cardiovascular Disease,8
+Denver Health,019 Neurology,8
+Denver Health,014 Gastroenterology,7
+Denver Health,018 Nephrology,7
+Denver Health,030 Pulmonology,7
+Denver Health,021 Medical Oncology & Surgical Oncology,6
+Denver Health,033 Urology,6
+Denver Health,011 Dermatology,4
+Denver Health,026 Physical Medicine & Rehabilitation,4
+Denver Health,031 Rheumatology,4
+Denver Health,012 Endocrinology,3
+Denver Health,013 ENT/Otolaryngology,3
+Denver Health,027 Plastic Surgery,3
+Denver Health,028 Podiatry,3
+Denver Health,023 Ophthalmology,2
+Denver Health,034 Vascular Surgery,2
+Denver Health,010 Chiropracty,1
+Kaiser,000 OTHER,18119
+Kaiser, 101 Pediatrics - Routine/Primary Care,1564
+Kaiser,029 Psychiatry,982
+Kaiser,002 Family Medicine,906
+Kaiser,003 Internal Medicine,658
+Kaiser,025 Orthopedic Surgery,631
+Kaiser,016 Gynecology (OB/GYN),539
+Kaiser,008 Cardiovascular Disease,514
+Kaiser,015 General Surgery,346
+Kaiser,014 Gastroenterology,341
+Kaiser,021 Medical Oncology & Surgical Oncology,340
+Kaiser,023 Ophthalmology,282
+Kaiser,102 Licensed Clinical Social Workers,247
+Kaiser,010 Chiropracty,245
+Kaiser,103 Psychology,245
+Kaiser,030 Pulmonology,243
+Kaiser,019 Neurology,225
+Kaiser,018 Nephrology,212
+Kaiser,001 General Practice,210
+Kaiser,011 Dermatology,189
+Kaiser,012 Endocrinology,186
+Kaiser,020 Neurological Surgery,178
+Kaiser,026 Physical Medicine & Rehabilitation,173
+Kaiser,013 ENT/Otolaryngology,165
+Kaiser,033 Urology,137
+Kaiser,101 Pediatrics - Routine/Primary Care,131
+Kaiser,007 Allergy and Immunology,112
+Kaiser,017 Infectious Diseases,87
+Kaiser,022 Radiation Oncology,81
+Kaiser,035 Cardiothoracic Surgery,73
+Kaiser,004 Geriatrics,70
+Kaiser,031 Rheumatology,70
+Kaiser,028 Podiatry,58
+Kaiser,027 Plastic Surgery,57
+Kaiser,034 Vascular Surgery,53
+Kaiser,005 Primary Care - Physician Assistant,5
+Kaiser,006 Primary Care - Nurse Practitioner,1
+RMHP,102 Licensed Clinical Social Workers,3464
+RMHP,000 OTHER,2301
+RMHP,002 Family Medicine,2242
+RMHP,016 Gynecology (OB/GYN),1325
+RMHP,103 Psychology,1118
+RMHP,003 Internal Medicine,970
+RMHP,008 Cardiovascular Disease,964
+RMHP,025 Orthopedic Surgery,964
+RMHP,101 Pediatrics - Routine/Primary Care,812
+RMHP, 103 Psychology,629
+RMHP,023 Ophthalmology,586
+RMHP,015 General Surgery,557
+RMHP,014 Gastroenterology,546
+RMHP,029 Psychiatry,422
+RMHP,011 Dermatology,371
+RMHP,030 Pulmonology,356
+RMHP,021 Medical Oncology & Surgical Oncology,340
+RMHP,028 Podiatry,318
+RMHP,007 Allergy and Immunology,297
+RMHP,019 Neurology,292
+RMHP,033 Urology,279
+RMHP,013 ENT/Otolaryngology,247
+RMHP,026 Physical Medicine & Rehabilitation,245
+RMHP,018 Nephrology,174
+RMHP,020 Neurological Surgery,158
+RMHP,012 Endocrinology,152
+RMHP,031 Rheumatology,148
+RMHP,017 Infectious Diseases,141
+RMHP,022 Radiation Oncology,132
+RMHP,035 Cardiothoracic Surgery,115
+RMHP,027 Plastic Surgery,98
+RMHP, 000 OTHER,97
+RMHP,006 Primary Care - Nurse Practitioner,87
+RMHP,034 Vascular Surgery,57
+RMHP, 101 Pediatrics - Routine/Primary Care,42
+RMHP,004 Geriatrics,42
+RMHP, 025 Orthopedic Surgery,39
+RMHP, 004 Geriatrics,34
+RMHP, 008 Cardiovascular Disease,21
+RMHP, 030 Pulmonology,20
+RMHP, 021 Medical Oncology & Surgical Oncology,18
+RMHP, 018 Nephrology,15
+RMHP, 014 Gastroenterology,14
+RMHP, 027 Plastic Surgery,13
+RMHP, 016 Gynecology (OB/GYN),9
+RMHP, 026 Physical Medicine & Rehabilitation,9
+RMHP, 034 Vascular Surgery,7
+RMHP, 015 General Surgery,6
+RMHP, 012 Endocrinology,5
+RMHP, 017 Infectious Diseases,4
+RMHP, 003 Internal Medicine,3
+RMHP, 007 Allergy and Immunology,3
+RMHP, 029 Psychiatry,2
+RMHP, 031 Rheumatology,2
+RMHP, 035 Cardiothoracic Surgery,2
+RMHP,005 Primary Care - Physician Assistant,2
+RMHP, 102 Licensed Clinical Social Workers,1

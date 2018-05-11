@@ -1,6 +1,6 @@
 ###### SINGLE COUNTY BY SINGLE SPECIALTY #####
 selected_county <- "El Paso"
-selected_specialty <- "003 Internal Medicine"
+selected_specialty <- "031 Rheumatology"
 clean_selected_county <- str_replace_all(selected_county, " ", "_")
 clean_selected_specialty <- str_replace_all(selected_specialty, " ", "_")
 COUNTY_ALL <- ALL_county_specialty_count %>%
@@ -15,9 +15,10 @@ cols <- c("Anthem BCBS" = "blue",
           "RMHP" = "darkorange")
 ggplot(COUNTY_ALL, aes(x = Carrier, y = nproviders, fill = Carrier)) +
   geom_bar(position="dodge", stat="identity") +
+  geom_text(aes(label= format(nproviders, big.mark=",", trim=TRUE)), vjust = -0.5) +
   xlab(" ") +
   ylab(NULL) +
-  ggtitle(str_c("Providers listed as ", '"', selected_specialty, '" in ', selected_county, " County ")) +
+  ggtitle(str_c("2018 Providers listed as ", '"', selected_specialty, '" in ', selected_county, " County ")) +
   scale_fill_manual(values = cols) +
   labs(caption = "  Graphic by Colorado Health Insurance Insider / @lukkyjay                                                                                                                                                           Source: SERFF") +
   theme(plot.margin = margin(5, 5, 5, 5),

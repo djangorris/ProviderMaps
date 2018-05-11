@@ -13,15 +13,13 @@ cols <- c("Anthem BCBS" = "blue",
           "RMHP" = "darkorange")
 ggplot(ind_enrollment_2017, aes(x = Carrier, y = Members, fill = Carrier)) +
   geom_bar(position="dodge", stat="identity") +
+  scale_y_continuous(labels = comma) +
   geom_text(aes(label= format(Members, big.mark=",", trim=TRUE)), vjust = -0.5) +
   xlab(" ") +
   ylab(NULL) +
-  ggtitle("Colorado Statewide Medical Membership Enrollment") +
+  ggtitle("2017 Colorado Statewide Individual Market Medical Enrollment") +
   scale_fill_manual(values = cols) +
-  labs(caption = "  Graphic by Colorado Health Insurance Insider / @lukkyjay                                                                                                                                                           Source: SERFF") +
-  theme(plot.margin = margin(5, 5, 5, 5),
-        plot.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=18, hjust=0),
-        legend.position = "none",
-        plot.caption = element_text(family = "Arial", size = 10, color = "grey", hjust = 0.5)) +
-  ggsave(filename = paste0(here("/"), "Plots/statewide_enrollment.png"),
+  labs(caption = "\n  Graphic by Colorado Health Insurance Insider | @lukkyjay                                                                                                                                                               Source: SERFF") +
+  theme_provider_maps +
+  ggsave(filename = "Plots/statewide_enrollment.png",
          width = 12, height = 8, dpi = 1200)

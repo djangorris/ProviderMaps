@@ -22,12 +22,9 @@ ggplot(STATEWIDE_ALL, aes(x = Carrier, y = ratio, fill = Carrier)) +
   geom_text(aes(label= ratio, vjust = -0.5)) +
   xlab(" ") +
   ylab("Members per Provider") +
-  ggtitle("Colorado Statewide Number of Members per Medical Provider") +
+  ggtitle("2018 Colorado Statewide Individual Market Number of Members per Medical Provider") +
   scale_fill_manual(values = cols) +
-  labs(caption = "  Graphic by Colorado Health Insurance Insider / @lukkyjay                                                                                                                                                           Source: SERFF") +
-  theme(plot.margin = margin(5, 5, 5, 5),
-        plot.title = element_text(family = "Trebuchet MS", color="#666666", face="bold", size=18, hjust=0),
-        legend.position = "none",
-        plot.caption = element_text(family = "Arial", size = 10, color = "grey", hjust = 0.5)) +
-  ggsave(filename = paste0(here("/"), "Plots/statewide_ratio.png"),
+  labs(caption = "\n  Graphic by Colorado Health Insurance Insider / @lukkyjay                                                                                                                                                           Source: SERFF") +
+  theme_provider_maps +
+  ggsave(filename = "Plots/statewide_ratio.png",
          width = 12, height = 8, dpi = 1200)

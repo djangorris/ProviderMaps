@@ -1,0 +1,4156 @@
+Carrier,Specialty,County,nproviders
+Anthem BCBS,000 OTHER,EL PASO,766
+Anthem BCBS,000 OTHER,ARAPAHOE,757
+Anthem BCBS,000 OTHER,DENVER,629
+Anthem BCBS,000 OTHER,JEFFERSON,535
+Anthem BCBS,000 OTHER,LARIMER,447
+Anthem BCBS,000 OTHER,BOULDER,419
+Anthem BCBS,003 Internal Medicine,DENVER,396
+Anthem BCBS,000 OTHER,ADAMS,322
+Anthem BCBS,003 Internal Medicine,ARAPAHOE,291
+Anthem BCBS,002 Family Medicine,DENVER,263
+Anthem BCBS,002 Family Medicine,EL PASO,248
+Anthem BCBS,000 OTHER,DOUGLAS,247
+Anthem BCBS,002 Family Medicine,LARIMER,234
+Anthem BCBS,000 OTHER,WELD,196
+Anthem BCBS,002 Family Medicine,ADAMS,196
+Anthem BCBS,000 OTHER,PUEBLO,190
+Anthem BCBS,002 Family Medicine,ARAPAHOE,189
+Anthem BCBS,002 Family Medicine,JEFFERSON,185
+Anthem BCBS,003 Internal Medicine,JEFFERSON,185
+Anthem BCBS,016 Gynecology (OB/GYN),DENVER,156
+Anthem BCBS,002 Family Medicine,BOULDER,155
+Anthem BCBS,003 Internal Medicine,EL PASO,153
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,DENVER,153
+Anthem BCBS,002 Family Medicine,WELD,150
+Anthem BCBS,016 Gynecology (OB/GYN),ARAPAHOE,141
+Anthem BCBS,000 OTHER,MESA,140
+Anthem BCBS,000 OTHER,LA PLATA,139
+Anthem BCBS,025 Orthopedic Surgery,EL PASO,138
+Anthem BCBS,023 Ophthalmology,DENVER,130
+Anthem BCBS,002 Family Medicine,MESA,124
+Anthem BCBS,002 Family Medicine,PUEBLO,120
+Anthem BCBS,025 Orthopedic Surgery,DENVER,117
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,EL PASO,116
+Anthem BCBS,003 Internal Medicine,LARIMER,111
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,ARAPAHOE,111
+Anthem BCBS,103 Psychology,DENVER,111
+Anthem BCBS,015 General Surgery,DENVER,110
+Anthem BCBS,016 Gynecology (OB/GYN),EL PASO,102
+Anthem BCBS,008 Cardiovascular Disease,ARAPAHOE,101
+Anthem BCBS,102 Licensed Clinical Social Workers,DENVER,98
+Anthem BCBS,016 Gynecology (OB/GYN),DOUGLAS,97
+Anthem BCBS,025 Orthopedic Surgery,ARAPAHOE,95
+Anthem BCBS,002 Family Medicine,DOUGLAS,94
+Anthem BCBS,019 Neurology,ARAPAHOE,92
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,ARAPAHOE,89
+Anthem BCBS,008 Cardiovascular Disease,DENVER,87
+Anthem BCBS,003 Internal Medicine,BOULDER,86
+Anthem BCBS,103 Psychology,LARIMER,78
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,DENVER,77
+Anthem BCBS,000 OTHER,BROOMFIELD,77
+Anthem BCBS,016 Gynecology (OB/GYN),LARIMER,77
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,ADAMS,77
+Anthem BCBS,016 Gynecology (OB/GYN),ADAMS,76
+Anthem BCBS,003 Internal Medicine,DOUGLAS,75
+Anthem BCBS,016 Gynecology (OB/GYN),BOULDER,75
+Anthem BCBS,102 Licensed Clinical Social Workers,EL PASO,75
+Anthem BCBS,102 Licensed Clinical Social Workers,JEFFERSON,75
+Anthem BCBS,103 Psychology,BOULDER,75
+Anthem BCBS,025 Orthopedic Surgery,LARIMER,74
+Anthem BCBS,008 Cardiovascular Disease,LARIMER,71
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,DOUGLAS,71
+Anthem BCBS,103 Psychology,ARAPAHOE,69
+Anthem BCBS,010 Chiropracty,JEFFERSON,68
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,ARAPAHOE,67
+Anthem BCBS,029 Psychiatry,ADAMS,66
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,ADAMS,64
+Anthem BCBS,015 General Surgery,JEFFERSON,64
+Anthem BCBS,023 Ophthalmology,ARAPAHOE,63
+Anthem BCBS,102 Licensed Clinical Social Workers,ARAPAHOE,62
+Anthem BCBS,102 Licensed Clinical Social Workers,BOULDER,62
+Anthem BCBS,007 Allergy and Immunology,DENVER,61
+Anthem BCBS,011 Dermatology,ARAPAHOE,61
+Anthem BCBS,010 Chiropracty,EL PASO,60
+Anthem BCBS,015 General Surgery,LARIMER,60
+Anthem BCBS,013 ENT/Otolaryngology,DENVER,59
+Anthem BCBS,102 Licensed Clinical Social Workers,LARIMER,59
+Anthem BCBS,003 Internal Medicine,PUEBLO,58
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,JEFFERSON,58
+Anthem BCBS,010 Chiropracty,ARAPAHOE,57
+Anthem BCBS,015 General Surgery,ARAPAHOE,56
+Anthem BCBS,016 Gynecology (OB/GYN),JEFFERSON,56
+Anthem BCBS,026 Physical Medicine & Rehabilitation,DENVER,56
+Anthem BCBS,030 Pulmonology,DENVER,55
+Anthem BCBS,103 Psychology,ADAMS,55
+Anthem BCBS,025 Orthopedic Surgery,JEFFERSON,54
+Anthem BCBS,025 Orthopedic Surgery,ADAMS,53
+Anthem BCBS,029 Psychiatry,DENVER,53
+Anthem BCBS,002 Family Medicine,LA PLATA,52
+Anthem BCBS,011 Dermatology,DENVER,52
+Anthem BCBS,103 Psychology,JEFFERSON,52
+Anthem BCBS,010 Chiropracty,LARIMER,51
+Anthem BCBS,015 General Surgery,EL PASO,51
+Anthem BCBS,023 Ophthalmology,LARIMER,51
+Anthem BCBS,003 Internal Medicine,ADAMS,50
+Anthem BCBS,023 Ophthalmology,BOULDER,50
+Anthem BCBS,025 Orthopedic Surgery,DOUGLAS,50
+Anthem BCBS,103 Psychology,EL PASO,50
+Anthem BCBS,008 Cardiovascular Disease,EL PASO,49
+Anthem BCBS,023 Ophthalmology,EL PASO,49
+Anthem BCBS,003 Internal Medicine,WELD,48
+Anthem BCBS,008 Cardiovascular Disease,ADAMS,48
+Anthem BCBS,008 Cardiovascular Disease,JEFFERSON,48
+Anthem BCBS,014 Gastroenterology,EL PASO,48
+Anthem BCBS,019 Neurology,DENVER,48
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,ADAMS,48
+Anthem BCBS,002 Family Medicine,BROOMFIELD,47
+Anthem BCBS,026 Physical Medicine & Rehabilitation,ARAPAHOE,47
+Anthem BCBS,000 OTHER,ALAMOSA,46
+Anthem BCBS,008 Cardiovascular Disease,DOUGLAS,46
+Anthem BCBS,010 Chiropracty,BOULDER,46
+Anthem BCBS,029 Psychiatry,ARAPAHOE,45
+Anthem BCBS,002 Family Medicine,EAGLE,44
+Anthem BCBS,014 Gastroenterology,ARAPAHOE,44
+Anthem BCBS,014 Gastroenterology,DENVER,44
+Anthem BCBS,030 Pulmonology,ADAMS,44
+Anthem BCBS,023 Ophthalmology,JEFFERSON,43
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,WELD,43
+Anthem BCBS,016 Gynecology (OB/GYN),WELD,42
+Anthem BCBS,003 Internal Medicine,MESA,41
+Anthem BCBS,008 Cardiovascular Disease,WELD,41
+Anthem BCBS,016 Gynecology (OB/GYN),PUEBLO,41
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,BOULDER,41
+Anthem BCBS,008 Cardiovascular Disease,BOULDER,40
+Anthem BCBS,011 Dermatology,BOULDER,40
+Anthem BCBS,018 Nephrology,DENVER,40
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,DENVER,40
+Anthem BCBS,025 Orthopedic Surgery,BOULDER,40
+Anthem BCBS,000 OTHER,GUNNISON,39
+Anthem BCBS,007 Allergy and Immunology,ARAPAHOE,39
+Anthem BCBS,014 Gastroenterology,BOULDER,39
+Anthem BCBS,010 Chiropracty,DENVER,38
+Anthem BCBS,015 General Surgery,ADAMS,38
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,LARIMER,38
+Anthem BCBS,002 Family Medicine,GARFIELD,37
+Anthem BCBS,010 Chiropracty,DOUGLAS,37
+Anthem BCBS,020 Neurological Surgery,ARAPAHOE,37
+Anthem BCBS,000 OTHER,DELTA,36
+Anthem BCBS,015 General Surgery,BOULDER,36
+Anthem BCBS,019 Neurology,LARIMER,36
+Anthem BCBS,023 Ophthalmology,DOUGLAS,36
+Anthem BCBS,031 Rheumatology,DENVER,36
+Anthem BCBS,033 Urology,DENVER,36
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,EL PASO,35
+Anthem BCBS,000 OTHER,GARFIELD,35
+Anthem BCBS,012 Endocrinology,ARAPAHOE,35
+Anthem BCBS,019 Neurology,JEFFERSON,35
+Anthem BCBS,000 OTHER,OTERO,34
+Anthem BCBS,011 Dermatology,EL PASO,34
+Anthem BCBS,025 Orthopedic Surgery,EAGLE,34
+Anthem BCBS,102 Licensed Clinical Social Workers,ADAMS,34
+Anthem BCBS, 030 Pulmonology,DENVER,33
+Anthem BCBS,002 Family Medicine,MONTROSE,33
+Anthem BCBS,013 ENT/Otolaryngology,ADAMS,33
+Anthem BCBS,019 Neurology,ADAMS,33
+Anthem BCBS,022 Radiation Oncology,ARAPAHOE,33
+Anthem BCBS,026 Physical Medicine & Rehabilitation,EL PASO,33
+Anthem BCBS, 003 Internal Medicine,JEFFERSON,32
+Anthem BCBS,000 OTHER,EAGLE,32
+Anthem BCBS,002 Family Medicine,MORGAN,32
+Anthem BCBS,003 Internal Medicine,GARFIELD,32
+Anthem BCBS,012 Endocrinology,ADAMS,32
+Anthem BCBS,013 ENT/Otolaryngology,ARAPAHOE,32
+Anthem BCBS,019 Neurology,EL PASO,32
+Anthem BCBS,020 Neurological Surgery,DENVER,32
+Anthem BCBS,026 Physical Medicine & Rehabilitation,BOULDER,32
+Anthem BCBS,027 Plastic Surgery,DENVER,32
+Anthem BCBS, 003 Internal Medicine,DENVER,31
+Anthem BCBS,000 OTHER,FREMONT,31
+Anthem BCBS,000 OTHER,MONTROSE,31
+Anthem BCBS,000 OTHER,PROWERS,31
+Anthem BCBS,014 Gastroenterology,ADAMS,31
+Anthem BCBS,028 Podiatry,DENVER,31
+Anthem BCBS,030 Pulmonology,LARIMER,31
+Anthem BCBS,000 OTHER,ARCHULETA,30
+Anthem BCBS,003 Internal Medicine,LA PLATA,30
+Anthem BCBS,018 Nephrology,ADAMS,30
+Anthem BCBS,000 OTHER,MORGAN,29
+Anthem BCBS,000 OTHER,SUMMIT,29
+Anthem BCBS,019 Neurology,BOULDER,29
+Anthem BCBS,023 Ophthalmology,MESA,29
+Anthem BCBS, 002 Family Medicine,EL PASO,28
+Anthem BCBS,000 OTHER,CHAFFEE,28
+Anthem BCBS,000 OTHER,ROUTT,28
+Anthem BCBS,013 ENT/Otolaryngology,EL PASO,28
+Anthem BCBS, 002 Family Medicine,JEFFERSON,27
+Anthem BCBS, 016 Gynecology (OB/GYN),DENVER,27
+Anthem BCBS,011 Dermatology,ADAMS,27
+Anthem BCBS,015 General Surgery,MESA,27
+Anthem BCBS,015 General Surgery,PUEBLO,27
+Anthem BCBS,026 Physical Medicine & Rehabilitation,ADAMS,27
+Anthem BCBS,028 Podiatry,ARAPAHOE,27
+Anthem BCBS,028 Podiatry,DOUGLAS,27
+Anthem BCBS,028 Podiatry,LARIMER,27
+Anthem BCBS,033 Urology,LARIMER,27
+Anthem BCBS,002 Family Medicine,FREMONT,26
+Anthem BCBS,014 Gastroenterology,DOUGLAS,26
+Anthem BCBS,015 General Surgery,DOUGLAS,26
+Anthem BCBS,102 Licensed Clinical Social Workers,PUEBLO,26
+Anthem BCBS, 030 Pulmonology,ARAPAHOE,25
+Anthem BCBS,002 Family Medicine,DELTA,25
+Anthem BCBS,007 Allergy and Immunology,JEFFERSON,25
+Anthem BCBS,014 Gastroenterology,LARIMER,25
+Anthem BCBS,026 Physical Medicine & Rehabilitation,JEFFERSON,25
+Anthem BCBS,029 Psychiatry,EL PASO,25
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,MESA,25
+Anthem BCBS, 008 Cardiovascular Disease,EL PASO,24
+Anthem BCBS, 021 Medical Oncology & Surgical Oncology,ARAPAHOE,24
+Anthem BCBS, 030 Pulmonology,JEFFERSON,24
+Anthem BCBS,002 Family Medicine,CHAFFEE,24
+Anthem BCBS,003 Internal Medicine,CHAFFEE,24
+Anthem BCBS,007 Allergy and Immunology,ADAMS,24
+Anthem BCBS,015 General Surgery,WELD,24
+Anthem BCBS,017 Infectious Diseases,ARAPAHOE,24
+Anthem BCBS,030 Pulmonology,EL PASO,24
+Anthem BCBS, 002 Family Medicine,ADAMS,23
+Anthem BCBS, 002 Family Medicine,DENVER,23
+Anthem BCBS, 002 Family Medicine,LARIMER,23
+Anthem BCBS, 008 Cardiovascular Disease,DENVER,23
+Anthem BCBS, 017 Infectious Diseases,ARAPAHOE,23
+Anthem BCBS, 017 Infectious Diseases,DENVER,23
+Anthem BCBS,015 General Surgery,LOGAN,23
+Anthem BCBS, 002 Family Medicine,ARAPAHOE,22
+Anthem BCBS, 003 Internal Medicine,EL PASO,22
+Anthem BCBS, 008 Cardiovascular Disease,ARAPAHOE,22
+Anthem BCBS, 014 Gastroenterology,DENVER,22
+Anthem BCBS, 014 Gastroenterology,EL PASO,22
+Anthem BCBS, 021 Medical Oncology & Surgical Oncology,DENVER,22
+Anthem BCBS,016 Gynecology (OB/GYN),MESA,22
+Anthem BCBS,022 Radiation Oncology,DENVER,22
+Anthem BCBS,025 Orthopedic Surgery,MESA,22
+Anthem BCBS,030 Pulmonology,ARAPAHOE,22
+Anthem BCBS, 003 Internal Medicine,ARAPAHOE,21
+Anthem BCBS, 004 Geriatrics,JEFFERSON,21
+Anthem BCBS,000 OTHER,TELLER,21
+Anthem BCBS,002 Family Medicine,GRAND,21
+Anthem BCBS,002 Family Medicine,LOGAN,21
+Anthem BCBS,003 Internal Medicine,FREMONT,21
+Anthem BCBS,017 Infectious Diseases,ADAMS,21
+Anthem BCBS,017 Infectious Diseases,DENVER,21
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,EL PASO,21
+Anthem BCBS,028 Podiatry,EL PASO,21
+Anthem BCBS,002 Family Medicine,ROUTT,20
+Anthem BCBS,016 Gynecology (OB/GYN),EAGLE,20
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,BOULDER,20
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,JEFFERSON,20
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,LARIMER,20
+Anthem BCBS,025 Orthopedic Surgery,LOGAN,20
+Anthem BCBS,025 Orthopedic Surgery,PUEBLO,20
+Anthem BCBS,035 Cardiothoracic Surgery,EL PASO,20
+Anthem BCBS,102 Licensed Clinical Social Workers,LA PLATA,20
+Anthem BCBS, 004 Geriatrics,DENVER,19
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,DOUGLAS,19
+Anthem BCBS,003 Internal Medicine,ALAMOSA,19
+Anthem BCBS,011 Dermatology,JEFFERSON,19
+Anthem BCBS,012 Endocrinology,DENVER,19
+Anthem BCBS,013 ENT/Otolaryngology,DOUGLAS,19
+Anthem BCBS,028 Podiatry,BOULDER,19
+Anthem BCBS,103 Psychology,DOUGLAS,19
+Anthem BCBS,103 Psychology,WELD,19
+Anthem BCBS, 004 Geriatrics,ARAPAHOE,18
+Anthem BCBS, 030 Pulmonology,LARIMER,18
+Anthem BCBS,002 Family Medicine,TELLER,18
+Anthem BCBS,010 Chiropracty,ADAMS,18
+Anthem BCBS,010 Chiropracty,WELD,18
+Anthem BCBS,019 Neurology,DOUGLAS,18
+Anthem BCBS,028 Podiatry,JEFFERSON,18
+Anthem BCBS,033 Urology,EL PASO,18
+Anthem BCBS, 003 Internal Medicine,ADAMS,17
+Anthem BCBS, 003 Internal Medicine,BOULDER,17
+Anthem BCBS, 008 Cardiovascular Disease,LARIMER,17
+Anthem BCBS,002 Family Medicine,PHILLIPS,17
+Anthem BCBS,002 Family Medicine,RIO GRANDE,17
+Anthem BCBS,008 Cardiovascular Disease,MESA,17
+Anthem BCBS,012 Endocrinology,EL PASO,17
+Anthem BCBS,013 ENT/Otolaryngology,BROOMFIELD,17
+Anthem BCBS,014 Gastroenterology,JEFFERSON,17
+Anthem BCBS,020 Neurological Surgery,JEFFERSON,17
+Anthem BCBS,023 Ophthalmology,PUEBLO,17
+Anthem BCBS,027 Plastic Surgery,ARAPAHOE,17
+Anthem BCBS,033 Urology,ADAMS,17
+Anthem BCBS,103 Psychology,MESA,17
+Anthem BCBS, 008 Cardiovascular Disease,CHAFFEE,16
+Anthem BCBS,002 Family Medicine,ALAMOSA,16
+Anthem BCBS,002 Family Medicine,MONTEZUMA,16
+Anthem BCBS,002 Family Medicine,SUMMIT,16
+Anthem BCBS,003 Internal Medicine,EAGLE,16
+Anthem BCBS,007 Allergy and Immunology,LARIMER,16
+Anthem BCBS,010 Chiropracty,PUEBLO,16
+Anthem BCBS,014 Gastroenterology,BROOMFIELD,16
+Anthem BCBS,018 Nephrology,ARAPAHOE,16
+Anthem BCBS,020 Neurological Surgery,LARIMER,16
+Anthem BCBS,025 Orthopedic Surgery,LA PLATA,16
+Anthem BCBS,028 Podiatry,ADAMS,16
+Anthem BCBS, 016 Gynecology (OB/GYN),EL PASO,15
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,LARIMER,15
+Anthem BCBS,000 OTHER,MONTEZUMA,15
+Anthem BCBS,010 Chiropracty,MESA,15
+Anthem BCBS,011 Dermatology,LARIMER,15
+Anthem BCBS,013 ENT/Otolaryngology,JEFFERSON,15
+Anthem BCBS,016 Gynecology (OB/GYN),LA PLATA,15
+Anthem BCBS,020 Neurological Surgery,ADAMS,15
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,WELD,15
+Anthem BCBS,033 Urology,ARAPAHOE,15
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,PUEBLO,15
+Anthem BCBS,102 Licensed Clinical Social Workers,WELD,15
+Anthem BCBS, 002 Family Medicine,BOULDER,14
+Anthem BCBS, 016 Gynecology (OB/GYN),ARAPAHOE,14
+Anthem BCBS, 025 Orthopedic Surgery,ARAPAHOE,14
+Anthem BCBS, 030 Pulmonology,BOULDER,14
+Anthem BCBS, 030 Pulmonology,LA PLATA,14
+Anthem BCBS,002 Family Medicine,OTERO,14
+Anthem BCBS,002 Family Medicine,YUMA,14
+Anthem BCBS,003 Internal Medicine,MONTROSE,14
+Anthem BCBS,007 Allergy and Immunology,BOULDER,14
+Anthem BCBS,008 Cardiovascular Disease,LA PLATA,14
+Anthem BCBS,013 ENT/Otolaryngology,LARIMER,14
+Anthem BCBS,015 General Surgery,EAGLE,14
+Anthem BCBS,015 General Surgery,FREMONT,14
+Anthem BCBS,020 Neurological Surgery,EL PASO,14
+Anthem BCBS,029 Psychiatry,BOULDER,14
+Anthem BCBS,029 Psychiatry,LARIMER,14
+Anthem BCBS,035 Cardiothoracic Surgery,DENVER,14
+Anthem BCBS, 002 Family Medicine,DOUGLAS,13
+Anthem BCBS, 002 Family Medicine,WELD,13
+Anthem BCBS, 003 Internal Medicine,LARIMER,13
+Anthem BCBS, 008 Cardiovascular Disease,DOUGLAS,13
+Anthem BCBS, 026 Physical Medicine & Rehabilitation,DENVER,13
+Anthem BCBS, 030 Pulmonology,MESA,13
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,BROOMFIELD,13
+Anthem BCBS,000 OTHER,GRAND,13
+Anthem BCBS,011 Dermatology,DOUGLAS,13
+Anthem BCBS,011 Dermatology,EAGLE,13
+Anthem BCBS,011 Dermatology,PUEBLO,13
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,DOUGLAS,13
+Anthem BCBS,022 Radiation Oncology,BOULDER,13
+Anthem BCBS,026 Physical Medicine & Rehabilitation,LARIMER,13
+Anthem BCBS,029 Psychiatry,JEFFERSON,13
+Anthem BCBS,034 Vascular Surgery,DENVER,13
+Anthem BCBS,035 Cardiothoracic Surgery,ARAPAHOE,13
+Anthem BCBS, 003 Internal Medicine,PUEBLO,12
+Anthem BCBS, 016 Gynecology (OB/GYN),ADAMS,12
+Anthem BCBS, 021 Medical Oncology & Surgical Oncology,JEFFERSON,12
+Anthem BCBS, 021 Medical Oncology & Surgical Oncology,MESA,12
+Anthem BCBS, 029 Psychiatry,LARIMER,12
+Anthem BCBS, 031 Rheumatology,DENVER,12
+Anthem BCBS,001 General Practice,EL PASO,12
+Anthem BCBS,002 Family Medicine,RIO BLANCO,12
+Anthem BCBS,007 Allergy and Immunology,EL PASO,12
+Anthem BCBS,015 General Surgery,GARFIELD,12
+Anthem BCBS,016 Gynecology (OB/GYN),GARFIELD,12
+Anthem BCBS,020 Neurological Surgery,BOULDER,12
+Anthem BCBS,020 Neurological Surgery,DOUGLAS,12
+Anthem BCBS,028 Podiatry,MESA,12
+Anthem BCBS,029 Psychiatry,PUEBLO,12
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,GARFIELD,12
+Anthem BCBS,102 Licensed Clinical Social Workers,DOUGLAS,12
+Anthem BCBS,103 Psychology,BROOMFIELD,12
+Anthem BCBS, 003 Internal Medicine,DOUGLAS,11
+Anthem BCBS, 012 Endocrinology,DENVER,11
+Anthem BCBS, 026 Physical Medicine & Rehabilitation,ARAPAHOE,11
+Anthem BCBS, 030 Pulmonology,ADAMS,11
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,JEFFERSON,11
+Anthem BCBS,002 Family Medicine,GUNNISON,11
+Anthem BCBS,002 Family Medicine,MOFFAT,11
+Anthem BCBS,003 Internal Medicine,BROOMFIELD,11
+Anthem BCBS,003 Internal Medicine,LOGAN,11
+Anthem BCBS,012 Endocrinology,LARIMER,11
+Anthem BCBS,013 ENT/Otolaryngology,BOULDER,11
+Anthem BCBS,014 Gastroenterology,MESA,11
+Anthem BCBS,015 General Surgery,CHAFFEE,11
+Anthem BCBS,018 Nephrology,EL PASO,11
+Anthem BCBS,018 Nephrology,JEFFERSON,11
+Anthem BCBS,025 Orthopedic Surgery,BROOMFIELD,11
+Anthem BCBS,025 Orthopedic Surgery,WELD,11
+Anthem BCBS,028 Podiatry,PUEBLO,11
+Anthem BCBS,031 Rheumatology,DOUGLAS,11
+Anthem BCBS,031 Rheumatology,EL PASO,11
+Anthem BCBS,033 Urology,BOULDER,11
+Anthem BCBS,034 Vascular Surgery,EL PASO,11
+Anthem BCBS,035 Cardiothoracic Surgery,PUEBLO,11
+Anthem BCBS,103 Psychology,PUEBLO,11
+Anthem BCBS, 008 Cardiovascular Disease,PUEBLO,10
+Anthem BCBS, 012 Endocrinology,ARAPAHOE,10
+Anthem BCBS, 014 Gastroenterology,DOUGLAS,10
+Anthem BCBS, 015 General Surgery,DENVER,10
+Anthem BCBS, 021 Medical Oncology & Surgical Oncology,EL PASO,10
+Anthem BCBS, 021 Medical Oncology & Surgical Oncology,LARIMER,10
+Anthem BCBS, 030 Pulmonology,EL PASO,10
+Anthem BCBS,000 OTHER,LOGAN,10
+Anthem BCBS,001 General Practice,BOULDER,10
+Anthem BCBS,003 Internal Medicine,DELTA,10
+Anthem BCBS,003 Internal Medicine,MONTEZUMA,10
+Anthem BCBS,003 Internal Medicine,TELLER,10
+Anthem BCBS,014 Gastroenterology,PUEBLO,10
+Anthem BCBS,015 General Surgery,LA PLATA,10
+Anthem BCBS,016 Gynecology (OB/GYN),MORGAN,10
+Anthem BCBS,019 Neurology,PUEBLO,10
+Anthem BCBS,019 Neurology,WELD,10
+Anthem BCBS,025 Orthopedic Surgery,GARFIELD,10
+Anthem BCBS,025 Orthopedic Surgery,PITKIN,10
+Anthem BCBS,030 Pulmonology,BOULDER,10
+Anthem BCBS,031 Rheumatology,ARAPAHOE,10
+Anthem BCBS,033 Urology,PUEBLO,10
+Anthem BCBS,035 Cardiothoracic Surgery,LARIMER,10
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,LA PLATA,10
+Anthem BCBS, 002 Family Medicine,MESA,9
+Anthem BCBS, 002 Family Medicine,PUEBLO,9
+Anthem BCBS, 003 Internal Medicine,MESA,9
+Anthem BCBS, 008 Cardiovascular Disease,JEFFERSON,9
+Anthem BCBS, 008 Cardiovascular Disease,TELLER,9
+Anthem BCBS, 014 Gastroenterology,ARAPAHOE,9
+Anthem BCBS, 016 Gynecology (OB/GYN),WELD,9
+Anthem BCBS, 021 Medical Oncology & Surgical Oncology,BOULDER,9
+Anthem BCBS,000 OTHER,LAS ANIMAS,9
+Anthem BCBS,000 OTHER,MOFFAT,9
+Anthem BCBS,002 Family Medicine,ARCHULETA,9
+Anthem BCBS,002 Family Medicine,LAS ANIMAS,9
+Anthem BCBS,003 Internal Medicine,MORGAN,9
+Anthem BCBS,004 Geriatrics,ADAMS,9
+Anthem BCBS,008 Cardiovascular Disease,YUMA,9
+Anthem BCBS,010 Chiropracty,LA PLATA,9
+Anthem BCBS,011 Dermatology,WELD,9
+Anthem BCBS,014 Gastroenterology,WELD,9
+Anthem BCBS,015 General Surgery,BROOMFIELD,9
+Anthem BCBS,016 Gynecology (OB/GYN),DELTA,9
+Anthem BCBS,023 Ophthalmology,WELD,9
+Anthem BCBS,025 Orthopedic Surgery,ROUTT,9
+Anthem BCBS,027 Plastic Surgery,EL PASO,9
+Anthem BCBS,030 Pulmonology,JEFFERSON,9
+Anthem BCBS,031 Rheumatology,ADAMS,9
+Anthem BCBS,033 Urology,DOUGLAS,9
+Anthem BCBS,035 Cardiothoracic Surgery,JEFFERSON,9
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,BROOMFIELD,9
+Anthem BCBS,102 Licensed Clinical Social Workers,BROOMFIELD,9
+Anthem BCBS, 002 Family Medicine,TELLER,8
+Anthem BCBS, 003 Internal Medicine,LA PLATA,8
+Anthem BCBS, 004 Geriatrics,ADAMS,8
+Anthem BCBS, 004 Geriatrics,DOUGLAS,8
+Anthem BCBS, 008 Cardiovascular Disease,FREMONT,8
+Anthem BCBS, 011 Dermatology,ARAPAHOE,8
+Anthem BCBS, 015 General Surgery,EL PASO,8
+Anthem BCBS, 016 Gynecology (OB/GYN),JEFFERSON,8
+Anthem BCBS, 019 Neurology,ARAPAHOE,8
+Anthem BCBS, 025 Orthopedic Surgery,DENVER,8
+Anthem BCBS, 029 Psychiatry,ARAPAHOE,8
+Anthem BCBS,000 OTHER,PARK,8
+Anthem BCBS,000 OTHER,YUMA,8
+Anthem BCBS,002 Family Medicine,CONEJOS,8
+Anthem BCBS,002 Family Medicine,HUERFANO,8
+Anthem BCBS,002 Family Medicine,PITKIN,8
+Anthem BCBS,002 Family Medicine,SEDGWICK,8
+Anthem BCBS,003 Internal Medicine,ROUTT,8
+Anthem BCBS,007 Allergy and Immunology,DOUGLAS,8
+Anthem BCBS,008 Cardiovascular Disease,MORGAN,8
+Anthem BCBS,011 Dermatology,MESA,8
+Anthem BCBS,012 Endocrinology,BOULDER,8
+Anthem BCBS,016 Gynecology (OB/GYN),ALAMOSA,8
+Anthem BCBS,016 Gynecology (OB/GYN),BROOMFIELD,8
+Anthem BCBS,016 Gynecology (OB/GYN),SUMMIT,8
+Anthem BCBS,018 Nephrology,LARIMER,8
+Anthem BCBS,022 Radiation Oncology,LARIMER,8
+Anthem BCBS,023 Ophthalmology,ADAMS,8
+Anthem BCBS,023 Ophthalmology,ALAMOSA,8
+Anthem BCBS,025 Orthopedic Surgery,FREMONT,8
+Anthem BCBS,025 Orthopedic Surgery,SUMMIT,8
+Anthem BCBS,026 Physical Medicine & Rehabilitation,MESA,8
+Anthem BCBS,029 Psychiatry,DOUGLAS,8
+Anthem BCBS,033 Urology,WELD,8
+Anthem BCBS,035 Cardiothoracic Surgery,MESA,8
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,ROUTT,8
+Anthem BCBS, 002 Family Medicine,EAGLE,7
+Anthem BCBS, 002 Family Medicine,GRAND,7
+Anthem BCBS, 004 Geriatrics,EL PASO,7
+Anthem BCBS, 018 Nephrology,DENVER,7
+Anthem BCBS, 025 Orthopedic Surgery,BOULDER,7
+Anthem BCBS, 025 Orthopedic Surgery,EL PASO,7
+Anthem BCBS, 026 Physical Medicine & Rehabilitation,EL PASO,7
+Anthem BCBS, 026 Physical Medicine & Rehabilitation,LARIMER,7
+Anthem BCBS, 030 Pulmonology,WELD,7
+Anthem BCBS, 035 Cardiothoracic Surgery,DENVER,7
+Anthem BCBS, 035 Cardiothoracic Surgery,EL PASO,7
+Anthem BCBS, 035 Cardiothoracic Surgery,WELD,7
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,BOULDER,7
+Anthem BCBS,000 OTHER,KIT CARSON,7
+Anthem BCBS,000 OTHER,PITKIN,7
+Anthem BCBS,000 OTHER,SAN MIGUEL,7
+Anthem BCBS,002 Family Medicine,SAN MIGUEL,7
+Anthem BCBS,008 Cardiovascular Disease,ROUTT,7
+Anthem BCBS,012 Endocrinology,DOUGLAS,7
+Anthem BCBS,016 Gynecology (OB/GYN),LOGAN,7
+Anthem BCBS,017 Infectious Diseases,EL PASO,7
+Anthem BCBS,017 Infectious Diseases,JEFFERSON,7
+Anthem BCBS,018 Nephrology,MESA,7
+Anthem BCBS,019 Neurology,MESA,7
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,MESA,7
+Anthem BCBS,022 Radiation Oncology,DOUGLAS,7
+Anthem BCBS,023 Ophthalmology,LA PLATA,7
+Anthem BCBS,023 Ophthalmology,MONTROSE,7
+Anthem BCBS,026 Physical Medicine & Rehabilitation,DOUGLAS,7
+Anthem BCBS,026 Physical Medicine & Rehabilitation,WELD,7
+Anthem BCBS,027 Plastic Surgery,BOULDER,7
+Anthem BCBS,027 Plastic Surgery,MESA,7
+Anthem BCBS,028 Podiatry,LA PLATA,7
+Anthem BCBS,028 Podiatry,WELD,7
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,DELTA,7
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,EAGLE,7
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,FREMONT,7
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,MONTROSE,7
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,PITKIN,7
+Anthem BCBS,102 Licensed Clinical Social Workers,MESA,7
+Anthem BCBS, 008 Cardiovascular Disease,ALAMOSA,6
+Anthem BCBS, 008 Cardiovascular Disease,BOULDER,6
+Anthem BCBS, 008 Cardiovascular Disease,LA PLATA,6
+Anthem BCBS, 008 Cardiovascular Disease,MESA,6
+Anthem BCBS, 008 Cardiovascular Disease,WELD,6
+Anthem BCBS, 016 Gynecology (OB/GYN),DOUGLAS,6
+Anthem BCBS, 016 Gynecology (OB/GYN),MESA,6
+Anthem BCBS, 019 Neurology,DENVER,6
+Anthem BCBS, 022 Radiation Oncology,ARAPAHOE,6
+Anthem BCBS, 026 Physical Medicine & Rehabilitation,BOULDER,6
+Anthem BCBS, 027 Plastic Surgery,ARAPAHOE,6
+Anthem BCBS, 027 Plastic Surgery,DENVER,6
+Anthem BCBS, 034 Vascular Surgery,DENVER,6
+Anthem BCBS, 103 Psychology,BOULDER,6
+Anthem BCBS, 103 Psychology,LARIMER,6
+Anthem BCBS,001 General Practice,JEFFERSON,6
+Anthem BCBS,002 Family Medicine,BACA,6
+Anthem BCBS,002 Family Medicine,WASHINGTON,6
+Anthem BCBS,003 Internal Medicine,ARCHULETA,6
+Anthem BCBS,003 Internal Medicine,LAS ANIMAS,6
+Anthem BCBS,003 Internal Medicine,OTERO,6
+Anthem BCBS,003 Internal Medicine,PITKIN,6
+Anthem BCBS,003 Internal Medicine,SUMMIT,6
+Anthem BCBS,003 Internal Medicine,YUMA,6
+Anthem BCBS,008 Cardiovascular Disease,GARFIELD,6
+Anthem BCBS,010 Chiropracty,BROOMFIELD,6
+Anthem BCBS,011 Dermatology,SUMMIT,6
+Anthem BCBS,013 ENT/Otolaryngology,MESA,6
+Anthem BCBS,013 ENT/Otolaryngology,PUEBLO,6
+Anthem BCBS,013 ENT/Otolaryngology,WELD,6
+Anthem BCBS,014 Gastroenterology,LA PLATA,6
+Anthem BCBS,015 General Surgery,MONTROSE,6
+Anthem BCBS,015 General Surgery,MORGAN,6
+Anthem BCBS,015 General Surgery,SUMMIT,6
+Anthem BCBS,016 Gynecology (OB/GYN),PITKIN,6
+Anthem BCBS,018 Nephrology,BOULDER,6
+Anthem BCBS,018 Nephrology,DOUGLAS,6
+Anthem BCBS,020 Neurological Surgery,MESA,6
+Anthem BCBS,020 Neurological Surgery,WELD,6
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,LA PLATA,6
+Anthem BCBS,022 Radiation Oncology,JEFFERSON,6
+Anthem BCBS,022 Radiation Oncology,MESA,6
+Anthem BCBS,025 Orthopedic Surgery,GUNNISON,6
+Anthem BCBS,025 Orthopedic Surgery,MOFFAT,6
+Anthem BCBS,025 Orthopedic Surgery,MORGAN,6
+Anthem BCBS,025 Orthopedic Surgery,PHILLIPS,6
+Anthem BCBS,026 Physical Medicine & Rehabilitation,PUEBLO,6
+Anthem BCBS,030 Pulmonology,MESA,6
+Anthem BCBS,031 Rheumatology,BOULDER,6
+Anthem BCBS,031 Rheumatology,LARIMER,6
+Anthem BCBS,033 Urology,EAGLE,6
+Anthem BCBS,033 Urology,GARFIELD,6
+Anthem BCBS,035 Cardiothoracic Surgery,WELD,6
+Anthem BCBS,103 Psychology,LA PLATA,6
+Anthem BCBS, 003 Internal Medicine,GARFIELD,5
+Anthem BCBS, 012 Endocrinology,LARIMER,5
+Anthem BCBS, 012 Endocrinology,WELD,5
+Anthem BCBS, 014 Gastroenterology,LARIMER,5
+Anthem BCBS, 015 General Surgery,JEFFERSON,5
+Anthem BCBS, 016 Gynecology (OB/GYN),BOULDER,5
+Anthem BCBS, 016 Gynecology (OB/GYN),LARIMER,5
+Anthem BCBS, 019 Neurology,EL PASO,5
+Anthem BCBS, 021 Medical Oncology & Surgical Oncology,ADAMS,5
+Anthem BCBS, 022 Radiation Oncology,BOULDER,5
+Anthem BCBS, 022 Radiation Oncology,DENVER,5
+Anthem BCBS, 025 Orthopedic Surgery,ADAMS,5
+Anthem BCBS, 025 Orthopedic Surgery,DOUGLAS,5
+Anthem BCBS, 025 Orthopedic Surgery,JEFFERSON,5
+Anthem BCBS, 030 Pulmonology,DOUGLAS,5
+Anthem BCBS, 031 Rheumatology,ARAPAHOE,5
+Anthem BCBS, 031 Rheumatology,BOULDER,5
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,WELD,5
+Anthem BCBS, 103 Psychology,DENVER,5
+Anthem BCBS,000 OTHER,LAKE,5
+Anthem BCBS,001 General Practice,DENVER,5
+Anthem BCBS,002 Family Medicine,Larimer,5
+Anthem BCBS,003 Internal Medicine,Larimer,5
+Anthem BCBS,007 Allergy and Immunology,WELD,5
+Anthem BCBS,008 Cardiovascular Disease,EAGLE,5
+Anthem BCBS,008 Cardiovascular Disease,MONTEZUMA,5
+Anthem BCBS,008 Cardiovascular Disease,SUMMIT,5
+Anthem BCBS,010 Chiropracty,CHAFFEE,5
+Anthem BCBS,010 Chiropracty,EAGLE,5
+Anthem BCBS,010 Chiropracty,TELLER,5
+Anthem BCBS,011 Dermatology,LA PLATA,5
+Anthem BCBS,012 Endocrinology,JEFFERSON,5
+Anthem BCBS,014 Gastroenterology,GARFIELD,5
+Anthem BCBS,016 Gynecology (OB/GYN),MOFFAT,5
+Anthem BCBS,016 Gynecology (OB/GYN),MONTROSE,5
+Anthem BCBS,017 Infectious Diseases,LARIMER,5
+Anthem BCBS,017 Infectious Diseases,WELD,5
+Anthem BCBS,018 Nephrology,PUEBLO,5
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,GARFIELD,5
+Anthem BCBS,023 Ophthalmology,GARFIELD,5
+Anthem BCBS,025 Orthopedic Surgery,ALAMOSA,5
+Anthem BCBS,025 Orthopedic Surgery,MONTROSE,5
+Anthem BCBS,027 Plastic Surgery,JEFFERSON,5
+Anthem BCBS,027 Plastic Surgery,LARIMER,5
+Anthem BCBS,033 Urology,JEFFERSON,5
+Anthem BCBS,033 Urology,MESA,5
+Anthem BCBS,035 Cardiothoracic Surgery,ADAMS,5
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,Larimer,5
+Anthem BCBS,103 Psychology,SUMMIT,5
+Anthem BCBS, 002 Family Medicine,ALAMOSA,4
+Anthem BCBS, 002 Family Medicine,ARCHULETA,4
+Anthem BCBS, 002 Family Medicine,BROOMFIELD,4
+Anthem BCBS, 002 Family Medicine,LA PLATA,4
+Anthem BCBS, 002 Family Medicine,MORGAN,4
+Anthem BCBS, 002 Family Medicine,PROWERS,4
+Anthem BCBS, 003 Internal Medicine,BROOMFIELD,4
+Anthem BCBS, 003 Internal Medicine,TELLER,4
+Anthem BCBS, 003 Internal Medicine,WELD,4
+Anthem BCBS, 007 Allergy and Immunology,ARAPAHOE,4
+Anthem BCBS, 007 Allergy and Immunology,BOULDER,4
+Anthem BCBS, 011 Dermatology,ADAMS,4
+Anthem BCBS, 011 Dermatology,DENVER,4
+Anthem BCBS, 011 Dermatology,LARIMER,4
+Anthem BCBS, 011 Dermatology,WELD,4
+Anthem BCBS, 012 Endocrinology,BOULDER,4
+Anthem BCBS, 014 Gastroenterology,JEFFERSON,4
+Anthem BCBS, 015 General Surgery,LARIMER,4
+Anthem BCBS, 015 General Surgery,WELD,4
+Anthem BCBS, 017 Infectious Diseases,JEFFERSON,4
+Anthem BCBS, 017 Infectious Diseases,LA PLATA,4
+Anthem BCBS, 018 Nephrology,ARAPAHOE,4
+Anthem BCBS, 018 Nephrology,EL PASO,4
+Anthem BCBS, 019 Neurology,JEFFERSON,4
+Anthem BCBS, 022 Radiation Oncology,JEFFERSON,4
+Anthem BCBS, 025 Orthopedic Surgery,LA PLATA,4
+Anthem BCBS, 025 Orthopedic Surgery,LARIMER,4
+Anthem BCBS, 026 Physical Medicine & Rehabilitation,JEFFERSON,4
+Anthem BCBS, 029 Psychiatry,BOULDER,4
+Anthem BCBS, 029 Psychiatry,EL PASO,4
+Anthem BCBS, 035 Cardiothoracic Surgery,LARIMER,4
+Anthem BCBS, 035 Cardiothoracic Surgery,PUEBLO,4
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,ALAMOSA,4
+Anthem BCBS, 103 Psychology,ARAPAHOE,4
+Anthem BCBS,000 OTHER,CONEJOS,4
+Anthem BCBS,000 OTHER,HUERFANO,4
+Anthem BCBS,000 OTHER,Lincoln,4
+Anthem BCBS,000 OTHER,PHILLIPS,4
+Anthem BCBS,000 OTHER,RIO GRANDE,4
+Anthem BCBS,001 General Practice,WELD,4
+Anthem BCBS,004 Geriatrics,ARAPAHOE,4
+Anthem BCBS,008 Cardiovascular Disease,LOGAN,4
+Anthem BCBS,008 Cardiovascular Disease,PUEBLO,4
+Anthem BCBS,010 Chiropracty,GRAND,4
+Anthem BCBS,011 Dermatology,CHAFFEE,4
+Anthem BCBS,012 Endocrinology,WELD,4
+Anthem BCBS,013 ENT/Otolaryngology,LA PLATA,4
+Anthem BCBS,015 General Surgery,DELTA,4
+Anthem BCBS,015 General Surgery,PHILLIPS,4
+Anthem BCBS,015 General Surgery,ROUTT,4
+Anthem BCBS,016 Gynecology (OB/GYN),CHAFFEE,4
+Anthem BCBS,016 Gynecology (OB/GYN),FREMONT,4
+Anthem BCBS,016 Gynecology (OB/GYN),PHILLIPS,4
+Anthem BCBS,016 Gynecology (OB/GYN),ROUTT,4
+Anthem BCBS,017 Infectious Diseases,DOUGLAS,4
+Anthem BCBS,017 Infectious Diseases,MESA,4
+Anthem BCBS,018 Nephrology,LA PLATA,4
+Anthem BCBS,019 Neurology,LA PLATA,4
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,MONTROSE,4
+Anthem BCBS,022 Radiation Oncology,ADAMS,4
+Anthem BCBS,022 Radiation Oncology,EL PASO,4
+Anthem BCBS,022 Radiation Oncology,LOGAN,4
+Anthem BCBS,022 Radiation Oncology,WELD,4
+Anthem BCBS,023 Ophthalmology,OTERO,4
+Anthem BCBS,025 Orthopedic Surgery,MONTEZUMA,4
+Anthem BCBS,026 Physical Medicine & Rehabilitation,BROOMFIELD,4
+Anthem BCBS,027 Plastic Surgery,LA PLATA,4
+Anthem BCBS,028 Podiatry,MONTROSE,4
+Anthem BCBS,029 Psychiatry,MESA,4
+Anthem BCBS,029 Psychiatry,WELD,4
+Anthem BCBS,031 Rheumatology,WELD,4
+Anthem BCBS,033 Urology,CHAFFEE,4
+Anthem BCBS,033 Urology,LA PLATA,4
+Anthem BCBS,033 Urology,ROUTT,4
+Anthem BCBS,034 Vascular Surgery,ARAPAHOE,4
+Anthem BCBS,034 Vascular Surgery,MESA,4
+Anthem BCBS,034 Vascular Surgery,PUEBLO,4
+Anthem BCBS,102 Licensed Clinical Social Workers,MONTROSE,4
+Anthem BCBS,102 Licensed Clinical Social Workers,ROUTT,4
+Anthem BCBS,103 Psychology,DELTA,4
+Anthem BCBS,103 Psychology,EAGLE,4
+Anthem BCBS, 001 General Practice,JEFFERSON,3
+Anthem BCBS, 001 General Practice,LARIMER,3
+Anthem BCBS, 002 Family Medicine,DELTA,3
+Anthem BCBS, 002 Family Medicine,MOFFAT,3
+Anthem BCBS, 002 Family Medicine,MONTEZUMA,3
+Anthem BCBS, 002 Family Medicine,SUMMIT,3
+Anthem BCBS, 003 Internal Medicine,MONTROSE,3
+Anthem BCBS, 003 Internal Medicine,MORGAN,3
+Anthem BCBS, 007 Allergy and Immunology,DENVER,3
+Anthem BCBS, 007 Allergy and Immunology,LARIMER,3
+Anthem BCBS, 007 Allergy and Immunology,WELD,3
+Anthem BCBS, 008 Cardiovascular Disease,ADAMS,3
+Anthem BCBS, 008 Cardiovascular Disease,EAGLE,3
+Anthem BCBS, 008 Cardiovascular Disease,GARFIELD,3
+Anthem BCBS, 008 Cardiovascular Disease,LOGAN,3
+Anthem BCBS, 008 Cardiovascular Disease,SUMMIT,3
+Anthem BCBS, 008 Cardiovascular Disease,YUMA,3
+Anthem BCBS, 010 Chiropracty,ARAPAHOE,3
+Anthem BCBS, 011 Dermatology,EL PASO,3
+Anthem BCBS, 012 Endocrinology,DOUGLAS,3
+Anthem BCBS, 014 Gastroenterology,ADAMS,3
+Anthem BCBS, 014 Gastroenterology,CHAFFEE,3
+Anthem BCBS, 016 Gynecology (OB/GYN),PUEBLO,3
+Anthem BCBS, 017 Infectious Diseases,BOULDER,3
+Anthem BCBS, 018 Nephrology,ADAMS,3
+Anthem BCBS, 018 Nephrology,BOULDER,3
+Anthem BCBS, 019 Neurology,ADAMS,3
+Anthem BCBS, 019 Neurology,CHAFFEE,3
+Anthem BCBS, 020 Neurological Surgery,ARAPAHOE,3
+Anthem BCBS, 020 Neurological Surgery,DENVER,3
+Anthem BCBS, 021 Medical Oncology & Surgical Oncology,CHAFFEE,3
+Anthem BCBS, 021 Medical Oncology & Surgical Oncology,GARFIELD,3
+Anthem BCBS, 021 Medical Oncology & Surgical Oncology,LA PLATA,3
+Anthem BCBS, 021 Medical Oncology & Surgical Oncology,WELD,3
+Anthem BCBS, 025 Orthopedic Surgery,GARFIELD,3
+Anthem BCBS, 026 Physical Medicine & Rehabilitation,ADAMS,3
+Anthem BCBS, 026 Physical Medicine & Rehabilitation,WELD,3
+Anthem BCBS, 029 Psychiatry,DENVER,3
+Anthem BCBS, 030 Pulmonology,GARFIELD,3
+Anthem BCBS, 030 Pulmonology,MORGAN,3
+Anthem BCBS, 031 Rheumatology,BROOMFIELD,3
+Anthem BCBS, 031 Rheumatology,DOUGLAS,3
+Anthem BCBS, 033 Urology,DENVER,3
+Anthem BCBS, 033 Urology,LA PLATA,3
+Anthem BCBS, 034 Vascular Surgery,BOULDER,3
+Anthem BCBS, 034 Vascular Surgery,EL PASO,3
+Anthem BCBS, 035 Cardiothoracic Surgery,JEFFERSON,3
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,LA PLATA,3
+Anthem BCBS, 102 Licensed Clinical Social Workers,DENVER,3
+Anthem BCBS,000 OTHER,Park,3
+Anthem BCBS,000 OTHER,SAGUACHE,3
+Anthem BCBS,001 General Practice,ADAMS,3
+Anthem BCBS,001 General Practice,ARAPAHOE,3
+Anthem BCBS,001 General Practice,LARIMER,3
+Anthem BCBS,001 General Practice,PROWERS,3
+Anthem BCBS,002 Family Medicine,CHEYENNE,3
+Anthem BCBS,002 Family Medicine,ELBERT,3
+Anthem BCBS,002 Family Medicine,KIOWA,3
+Anthem BCBS,002 Family Medicine,LINCOLN,3
+Anthem BCBS,002 Family Medicine,OURAY,3
+Anthem BCBS,007 Allergy and Immunology,BROOMFIELD,3
+Anthem BCBS,007 Allergy and Immunology,EAGLE,3
+Anthem BCBS,007 Allergy and Immunology,PUEBLO,3
+Anthem BCBS,008 Cardiovascular Disease,ARCHULETA,3
+Anthem BCBS,008 Cardiovascular Disease,MONTROSE,3
+Anthem BCBS,010 Chiropracty,MOFFAT,3
+Anthem BCBS,010 Chiropracty,MONTEZUMA,3
+Anthem BCBS,010 Chiropracty,MORGAN,3
+Anthem BCBS,011 Dermatology,MONTROSE,3
+Anthem BCBS,013 ENT/Otolaryngology,EAGLE,3
+Anthem BCBS,013 ENT/Otolaryngology,TELLER,3
+Anthem BCBS,014 Gastroenterology,EAGLE,3
+Anthem BCBS,015 General Surgery,ALAMOSA,3
+Anthem BCBS,015 General Surgery,KIT CARSON,3
+Anthem BCBS,015 General Surgery,MONTEZUMA,3
+Anthem BCBS,015 General Surgery,OTERO,3
+Anthem BCBS,015 General Surgery,PITKIN,3
+Anthem BCBS,015 General Surgery,PROWERS,3
+Anthem BCBS,016 Gynecology (OB/GYN),Larimer,3
+Anthem BCBS,019 Neurology,GARFIELD,3
+Anthem BCBS,019 Neurology,MORGAN,3
+Anthem BCBS,020 Neurological Surgery,BROOMFIELD,3
+Anthem BCBS,020 Neurological Surgery,PUEBLO,3
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,PUEBLO,3
+Anthem BCBS,023 Ophthalmology,BROOMFIELD,3
+Anthem BCBS,023 Ophthalmology,DELTA,3
+Anthem BCBS,023 Ophthalmology,FREMONT,3
+Anthem BCBS,025 Orthopedic Surgery,ARCHULETA,3
+Anthem BCBS,025 Orthopedic Surgery,DELTA,3
+Anthem BCBS,025 Orthopedic Surgery,RIO BLANCO,3
+Anthem BCBS,025 Orthopedic Surgery,SEDGWICK,3
+Anthem BCBS,026 Physical Medicine & Rehabilitation,LA PLATA,3
+Anthem BCBS,027 Plastic Surgery,ADAMS,3
+Anthem BCBS,027 Plastic Surgery,EAGLE,3
+Anthem BCBS,027 Plastic Surgery,PUEBLO,3
+Anthem BCBS,028 Podiatry,GARFIELD,3
+Anthem BCBS,028 Podiatry,MORGAN,3
+Anthem BCBS,029 Psychiatry,LA PLATA,3
+Anthem BCBS,030 Pulmonology,DELTA,3
+Anthem BCBS,030 Pulmonology,WELD,3
+Anthem BCBS,031 Rheumatology,BROOMFIELD,3
+Anthem BCBS,031 Rheumatology,MESA,3
+Anthem BCBS,031 Rheumatology,PUEBLO,3
+Anthem BCBS,033 Urology,BROOMFIELD,3
+Anthem BCBS,033 Urology,MORGAN,3
+Anthem BCBS,034 Vascular Surgery,JEFFERSON,3
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,MONTEZUMA,3
+Anthem BCBS,102 Licensed Clinical Social Workers,CHAFFEE,3
+Anthem BCBS,102 Licensed Clinical Social Workers,FREMONT,3
+Anthem BCBS,102 Licensed Clinical Social Workers,GARFIELD,3
+Anthem BCBS,102 Licensed Clinical Social Workers,MONTEZUMA,3
+Anthem BCBS,102 Licensed Clinical Social Workers,MORGAN,3
+Anthem BCBS,102 Licensed Clinical Social Workers,OURAY,3
+Anthem BCBS,102 Licensed Clinical Social Workers,SUMMIT,3
+Anthem BCBS,103 Psychology,CHAFFEE,3
+Anthem BCBS,103 Psychology,MONTEZUMA,3
+Anthem BCBS, 001 General Practice,ARAPAHOE,2
+Anthem BCBS, 001 General Practice,ARCHULETA,2
+Anthem BCBS, 001 General Practice,PROWERS,2
+Anthem BCBS, 002 Family Medicine,CONEJOS,2
+Anthem BCBS, 002 Family Medicine,LAKE,2
+Anthem BCBS, 002 Family Medicine,PHILLIPS,2
+Anthem BCBS, 003 Internal Medicine,DELTA,2
+Anthem BCBS, 003 Internal Medicine,GUNNISON,2
+Anthem BCBS, 004 Geriatrics,BOULDER,2
+Anthem BCBS, 004 Geriatrics,LARIMER,2
+Anthem BCBS, 004 Geriatrics,LAS ANIMAS,2
+Anthem BCBS, 008 Cardiovascular Disease,ARCHULETA,2
+Anthem BCBS, 008 Cardiovascular Disease,GRAND,2
+Anthem BCBS, 008 Cardiovascular Disease,GUNNISON,2
+Anthem BCBS, 008 Cardiovascular Disease,MONTROSE,2
+Anthem BCBS, 010 Chiropracty,LARIMER,2
+Anthem BCBS, 011 Dermatology,JEFFERSON,2
+Anthem BCBS, 011 Dermatology,PUEBLO,2
+Anthem BCBS, 012 Endocrinology,ADAMS,2
+Anthem BCBS, 012 Endocrinology,JEFFERSON,2
+Anthem BCBS, 014 Gastroenterology,BOULDER,2
+Anthem BCBS, 014 Gastroenterology,BROOMFIELD,2
+Anthem BCBS, 014 Gastroenterology,WELD,2
+Anthem BCBS, 015 General Surgery,ADAMS,2
+Anthem BCBS, 015 General Surgery,ARAPAHOE,2
+Anthem BCBS, 015 General Surgery,BOULDER,2
+Anthem BCBS, 015 General Surgery,GARFIELD,2
+Anthem BCBS, 015 General Surgery,GUNNISON,2
+Anthem BCBS, 016 Gynecology (OB/GYN),GARFIELD,2
+Anthem BCBS, 016 Gynecology (OB/GYN),MORGAN,2
+Anthem BCBS, 017 Infectious Diseases,DOUGLAS,2
+Anthem BCBS, 017 Infectious Diseases,EL PASO,2
+Anthem BCBS, 017 Infectious Diseases,LARIMER,2
+Anthem BCBS, 018 Nephrology,DOUGLAS,2
+Anthem BCBS, 018 Nephrology,JEFFERSON,2
+Anthem BCBS, 019 Neurology,EAGLE,2
+Anthem BCBS, 019 Neurology,GARFIELD,2
+Anthem BCBS, 019 Neurology,MORGAN,2
+Anthem BCBS, 021 Medical Oncology & Surgical Oncology,ALAMOSA,2
+Anthem BCBS, 021 Medical Oncology & Surgical Oncology,DELTA,2
+Anthem BCBS, 021 Medical Oncology & Surgical Oncology,YUMA,2
+Anthem BCBS, 022 Radiation Oncology,ADAMS,2
+Anthem BCBS, 022 Radiation Oncology,DOUGLAS,2
+Anthem BCBS, 022 Radiation Oncology,EL PASO,2
+Anthem BCBS, 025 Orthopedic Surgery,BROOMFIELD,2
+Anthem BCBS, 026 Physical Medicine & Rehabilitation,EAGLE,2
+Anthem BCBS, 026 Physical Medicine & Rehabilitation,LA PLATA,2
+Anthem BCBS, 026 Physical Medicine & Rehabilitation,MORGAN,2
+Anthem BCBS, 027 Plastic Surgery,ADAMS,2
+Anthem BCBS, 028 Podiatry,EL PASO,2
+Anthem BCBS, 029 Psychiatry,ADAMS,2
+Anthem BCBS, 030 Pulmonology,CHAFFEE,2
+Anthem BCBS, 031 Rheumatology,LA PLATA,2
+Anthem BCBS, 034 Vascular Surgery,PUEBLO,2
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,MESA,2
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,PUEBLO,2
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,ROUTT,2
+Anthem BCBS, 103 Psychology,ADAMS,2
+Anthem BCBS, 103 Psychology,ARCHULETA,2
+Anthem BCBS, 103 Psychology,DOUGLAS,2
+Anthem BCBS, 103 Psychology,EL PASO,2
+Anthem BCBS,000 OTHER,BENT,2
+Anthem BCBS,000 OTHER,OURAY,2
+Anthem BCBS,000 OTHER,RIO BLANCO,2
+Anthem BCBS,000 OTHER,SEDGWICK,2
+Anthem BCBS,000 OTHER,WASHINGTON,2
+Anthem BCBS,001 General Practice,ALAMOSA,2
+Anthem BCBS,001 General Practice,EAGLE,2
+Anthem BCBS,001 General Practice,GARFIELD,2
+Anthem BCBS,001 General Practice,LA PLATA,2
+Anthem BCBS,002 Family Medicine,COSTILLA,2
+Anthem BCBS,002 Family Medicine,KIT CARSON,2
+Anthem BCBS,002 Family Medicine,LAKE,2
+Anthem BCBS,002 Family Medicine,Lincoln,2
+Anthem BCBS,003 Internal Medicine,GRAND,2
+Anthem BCBS,003 Internal Medicine,MOFFAT,2
+Anthem BCBS,003 Internal Medicine,PHILLIPS,2
+Anthem BCBS,003 Internal Medicine,RIO GRANDE,2
+Anthem BCBS,004 Geriatrics,EL PASO,2
+Anthem BCBS,007 Allergy and Immunology,MESA,2
+Anthem BCBS,008 Cardiovascular Disease,ALAMOSA,2
+Anthem BCBS,008 Cardiovascular Disease,CHAFFEE,2
+Anthem BCBS,008 Cardiovascular Disease,FREMONT,2
+Anthem BCBS,008 Cardiovascular Disease,GRAND,2
+Anthem BCBS,008 Cardiovascular Disease,MOFFAT,2
+Anthem BCBS,008 Cardiovascular Disease,PHILLIPS,2
+Anthem BCBS,008 Cardiovascular Disease,TELLER,2
+Anthem BCBS,010 Chiropracty,ALAMOSA,2
+Anthem BCBS,010 Chiropracty,ARCHULETA,2
+Anthem BCBS,010 Chiropracty,FREMONT,2
+Anthem BCBS,010 Chiropracty,GARFIELD,2
+Anthem BCBS,010 Chiropracty,KIT CARSON,2
+Anthem BCBS,010 Chiropracty,LOGAN,2
+Anthem BCBS,010 Chiropracty,ROUTT,2
+Anthem BCBS,011 Dermatology,BROOMFIELD,2
+Anthem BCBS,011 Dermatology,GARFIELD,2
+Anthem BCBS,012 Endocrinology,EAGLE,2
+Anthem BCBS,012 Endocrinology,MESA,2
+Anthem BCBS,012 Endocrinology,PUEBLO,2
+Anthem BCBS,013 ENT/Otolaryngology,GARFIELD,2
+Anthem BCBS,013 ENT/Otolaryngology,SUMMIT,2
+Anthem BCBS,014 Gastroenterology,CHAFFEE,2
+Anthem BCBS,015 General Surgery,ARCHULETA,2
+Anthem BCBS,015 General Surgery,GRAND,2
+Anthem BCBS,015 General Surgery,RIO BLANCO,2
+Anthem BCBS,015 General Surgery,TELLER,2
+Anthem BCBS,016 Gynecology (OB/GYN),GRAND,2
+Anthem BCBS,016 Gynecology (OB/GYN),GUNNISON,2
+Anthem BCBS,016 Gynecology (OB/GYN),MONTEZUMA,2
+Anthem BCBS,016 Gynecology (OB/GYN),PROWERS,2
+Anthem BCBS,016 Gynecology (OB/GYN),SEDGWICK,2
+Anthem BCBS,016 Gynecology (OB/GYN),YUMA,2
+Anthem BCBS,017 Infectious Diseases,BOULDER,2
+Anthem BCBS,018 Nephrology,MONTEZUMA,2
+Anthem BCBS,018 Nephrology,WELD,2
+Anthem BCBS,019 Neurology,BROOMFIELD,2
+Anthem BCBS,019 Neurology,LOGAN,2
+Anthem BCBS,019 Neurology,MONTROSE,2
+Anthem BCBS,020 Neurological Surgery,GARFIELD,2
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,ALAMOSA,2
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,DELTA,2
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,Larimer,2
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,MORGAN,2
+Anthem BCBS,022 Radiation Oncology,GARFIELD,2
+Anthem BCBS,022 Radiation Oncology,LA PLATA,2
+Anthem BCBS,023 Ophthalmology,ARCHULETA,2
+Anthem BCBS,023 Ophthalmology,EAGLE,2
+Anthem BCBS,023 Ophthalmology,LOGAN,2
+Anthem BCBS,023 Ophthalmology,ROUTT,2
+Anthem BCBS,025 Orthopedic Surgery,CHAFFEE,2
+Anthem BCBS,025 Orthopedic Surgery,GRAND,2
+Anthem BCBS,025 Orthopedic Surgery,KIT CARSON,2
+Anthem BCBS,025 Orthopedic Surgery,PROWERS,2
+Anthem BCBS,025 Orthopedic Surgery,RIO GRANDE,2
+Anthem BCBS,025 Orthopedic Surgery,TELLER,2
+Anthem BCBS,026 Physical Medicine & Rehabilitation,MONTEZUMA,2
+Anthem BCBS,026 Physical Medicine & Rehabilitation,MONTROSE,2
+Anthem BCBS,027 Plastic Surgery,DOUGLAS,2
+Anthem BCBS,028 Podiatry,BROOMFIELD,2
+Anthem BCBS,028 Podiatry,FREMONT,2
+Anthem BCBS,028 Podiatry,MONTEZUMA,2
+Anthem BCBS,028 Podiatry,RIO GRANDE,2
+Anthem BCBS,028 Podiatry,SUMMIT,2
+Anthem BCBS,030 Pulmonology,GARFIELD,2
+Anthem BCBS,031 Rheumatology,LA PLATA,2
+Anthem BCBS,033 Urology,MONTROSE,2
+Anthem BCBS,033 Urology,YUMA,2
+Anthem BCBS,034 Vascular Surgery,LARIMER,2
+Anthem BCBS,035 Cardiothoracic Surgery,BOULDER,2
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,ALAMOSA,2
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,LAS ANIMAS,2
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,MOFFAT,2
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,MORGAN,2
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,SUMMIT,2
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,TELLER,2
+Anthem BCBS,102 Licensed Clinical Social Workers,ALAMOSA,2
+Anthem BCBS,102 Licensed Clinical Social Workers,ARCHULETA,2
+Anthem BCBS,102 Licensed Clinical Social Workers,EAGLE,2
+Anthem BCBS,102 Licensed Clinical Social Workers,SAN MIGUEL,2
+Anthem BCBS,102 Licensed Clinical Social Workers,TELLER,2
+Anthem BCBS,103 Psychology,FREMONT,2
+Anthem BCBS,103 Psychology,GRAND,2
+Anthem BCBS,103 Psychology,MONTROSE,2
+Anthem BCBS,103 Psychology,ROUTT,2
+Anthem BCBS,103 Psychology,SAN MIGUEL,2
+Anthem BCBS, 001 General Practice,ADAMS,1
+Anthem BCBS, 001 General Practice,CUSTER,1
+Anthem BCBS, 001 General Practice,EL PASO,1
+Anthem BCBS, 001 General Practice,HUERFANO,1
+Anthem BCBS, 001 General Practice,PUEBLO,1
+Anthem BCBS, 001 General Practice,TELLER,1
+Anthem BCBS, 002 Family Medicine,CUSTER,1
+Anthem BCBS, 002 Family Medicine,FREMONT,1
+Anthem BCBS, 002 Family Medicine,GUNNISON,1
+Anthem BCBS, 002 Family Medicine,HUERFANO,1
+Anthem BCBS, 002 Family Medicine,Lincoln,1
+Anthem BCBS, 002 Family Medicine,PITKIN,1
+Anthem BCBS, 002 Family Medicine,RIO GRANDE,1
+Anthem BCBS, 002 Family Medicine,ROUTT,1
+Anthem BCBS, 002 Family Medicine,WASHINGTON,1
+Anthem BCBS, 002 Family Medicine,YUMA,1
+Anthem BCBS, 003 Internal Medicine,BACA,1
+Anthem BCBS, 003 Internal Medicine,EAGLE,1
+Anthem BCBS, 003 Internal Medicine,FREMONT,1
+Anthem BCBS, 003 Internal Medicine,LAS ANIMAS,1
+Anthem BCBS, 003 Internal Medicine,MONTEZUMA,1
+Anthem BCBS, 003 Internal Medicine,PHILLIPS,1
+Anthem BCBS, 003 Internal Medicine,ROUTT,1
+Anthem BCBS, 003 Internal Medicine,SAN MIGUEL,1
+Anthem BCBS, 004 Geriatrics,ALAMOSA,1
+Anthem BCBS, 004 Geriatrics,WELD,1
+Anthem BCBS, 007 Allergy and Immunology,EL PASO,1
+Anthem BCBS, 008 Cardiovascular Disease,BROOMFIELD,1
+Anthem BCBS, 008 Cardiovascular Disease,LAKE,1
+Anthem BCBS, 008 Cardiovascular Disease,MONTEZUMA,1
+Anthem BCBS, 008 Cardiovascular Disease,MORGAN,1
+Anthem BCBS, 008 Cardiovascular Disease,ROUTT,1
+Anthem BCBS, 010 Chiropracty,DENVER,1
+Anthem BCBS, 010 Chiropracty,JEFFERSON,1
+Anthem BCBS, 010 Chiropracty,WELD,1
+Anthem BCBS, 011 Dermatology,BOULDER,1
+Anthem BCBS, 011 Dermatology,EAGLE,1
+Anthem BCBS, 011 Dermatology,GARFIELD,1
+Anthem BCBS, 011 Dermatology,LAS ANIMAS,1
+Anthem BCBS, 011 Dermatology,MORGAN,1
+Anthem BCBS, 011 Dermatology,SUMMIT,1
+Anthem BCBS, 012 Endocrinology,EAGLE,1
+Anthem BCBS, 012 Endocrinology,LA PLATA,1
+Anthem BCBS, 012 Endocrinology,LOGAN,1
+Anthem BCBS, 012 Endocrinology,MESA,1
+Anthem BCBS, 012 Endocrinology,PUEBLO,1
+Anthem BCBS, 012 Endocrinology,SUMMIT,1
+Anthem BCBS, 013 ENT/Otolaryngology,DENVER,1
+Anthem BCBS, 013 ENT/Otolaryngology,DOUGLAS,1
+Anthem BCBS, 013 ENT/Otolaryngology,ROUTT,1
+Anthem BCBS, 014 Gastroenterology,LA PLATA,1
+Anthem BCBS, 014 Gastroenterology,OTERO,1
+Anthem BCBS, 014 Gastroenterology,PUEBLO,1
+Anthem BCBS, 015 General Surgery,ALAMOSA,1
+Anthem BCBS, 015 General Surgery,ARCHULETA,1
+Anthem BCBS, 015 General Surgery,DELTA,1
+Anthem BCBS, 015 General Surgery,LA PLATA,1
+Anthem BCBS, 015 General Surgery,PROWERS,1
+Anthem BCBS, 015 General Surgery,SUMMIT,1
+Anthem BCBS, 015 General Surgery,YUMA,1
+Anthem BCBS, 016 Gynecology (OB/GYN),BROOMFIELD,1
+Anthem BCBS, 016 Gynecology (OB/GYN),DELTA,1
+Anthem BCBS, 016 Gynecology (OB/GYN),GRAND,1
+Anthem BCBS, 016 Gynecology (OB/GYN),Larimer,1
+Anthem BCBS, 016 Gynecology (OB/GYN),MONTEZUMA,1
+Anthem BCBS, 016 Gynecology (OB/GYN),SUMMIT,1
+Anthem BCBS, 017 Infectious Diseases,ADAMS,1
+Anthem BCBS, 017 Infectious Diseases,ALAMOSA,1
+Anthem BCBS, 017 Infectious Diseases,CHAFFEE,1
+Anthem BCBS, 017 Infectious Diseases,PUEBLO,1
+Anthem BCBS, 018 Nephrology,CHAFFEE,1
+Anthem BCBS, 018 Nephrology,LA PLATA,1
+Anthem BCBS, 018 Nephrology,LARIMER,1
+Anthem BCBS, 018 Nephrology,MONTEZUMA,1
+Anthem BCBS, 018 Nephrology,WELD,1
+Anthem BCBS, 019 Neurology,ALAMOSA,1
+Anthem BCBS, 019 Neurology,BOULDER,1
+Anthem BCBS, 019 Neurology,LA PLATA,1
+Anthem BCBS, 019 Neurology,LARIMER,1
+Anthem BCBS, 019 Neurology,LOGAN,1
+Anthem BCBS, 019 Neurology,MOFFAT,1
+Anthem BCBS, 019 Neurology,SUMMIT,1
+Anthem BCBS, 019 Neurology,WELD,1
+Anthem BCBS, 019 Neurology,YUMA,1
+Anthem BCBS, 020 Neurological Surgery,ADAMS,1
+Anthem BCBS, 020 Neurological Surgery,DOUGLAS,1
+Anthem BCBS, 020 Neurological Surgery,LARIMER,1
+Anthem BCBS, 020 Neurological Surgery,MESA,1
+Anthem BCBS, 021 Medical Oncology & Surgical Oncology,DOUGLAS,1
+Anthem BCBS, 021 Medical Oncology & Surgical Oncology,KIT CARSON,1
+Anthem BCBS, 021 Medical Oncology & Surgical Oncology,MONTROSE,1
+Anthem BCBS, 021 Medical Oncology & Surgical Oncology,PUEBLO,1
+Anthem BCBS, 022 Radiation Oncology,MESA,1
+Anthem BCBS, 023 Ophthalmology,DENVER,1
+Anthem BCBS, 023 Ophthalmology,LARIMER,1
+Anthem BCBS, 025 Orthopedic Surgery,ALAMOSA,1
+Anthem BCBS, 025 Orthopedic Surgery,GUNNISON,1
+Anthem BCBS, 025 Orthopedic Surgery,MONTROSE,1
+Anthem BCBS, 025 Orthopedic Surgery,PITKIN,1
+Anthem BCBS, 025 Orthopedic Surgery,PUEBLO,1
+Anthem BCBS, 025 Orthopedic Surgery,SAN MIGUEL,1
+Anthem BCBS, 025 Orthopedic Surgery,WELD,1
+Anthem BCBS, 025 Orthopedic Surgery,YUMA,1
+Anthem BCBS, 026 Physical Medicine & Rehabilitation,DOUGLAS,1
+Anthem BCBS, 026 Physical Medicine & Rehabilitation,GARFIELD,1
+Anthem BCBS, 026 Physical Medicine & Rehabilitation,MESA,1
+Anthem BCBS, 026 Physical Medicine & Rehabilitation,MONTEZUMA,1
+Anthem BCBS, 026 Physical Medicine & Rehabilitation,PITKIN,1
+Anthem BCBS, 026 Physical Medicine & Rehabilitation,SUMMIT,1
+Anthem BCBS, 027 Plastic Surgery,BROOMFIELD,1
+Anthem BCBS, 027 Plastic Surgery,DOUGLAS,1
+Anthem BCBS, 027 Plastic Surgery,JEFFERSON,1
+Anthem BCBS, 028 Podiatry,BOULDER,1
+Anthem BCBS, 029 Psychiatry,ARCHULETA,1
+Anthem BCBS, 029 Psychiatry,BROOMFIELD,1
+Anthem BCBS, 029 Psychiatry,DOUGLAS,1
+Anthem BCBS, 029 Psychiatry,JEFFERSON,1
+Anthem BCBS, 029 Psychiatry,PUEBLO,1
+Anthem BCBS, 030 Pulmonology,BROOMFIELD,1
+Anthem BCBS, 030 Pulmonology,DELTA,1
+Anthem BCBS, 030 Pulmonology,LOGAN,1
+Anthem BCBS, 030 Pulmonology,MONTEZUMA,1
+Anthem BCBS, 030 Pulmonology,PHILLIPS,1
+Anthem BCBS, 030 Pulmonology,PUEBLO,1
+Anthem BCBS, 030 Pulmonology,YUMA,1
+Anthem BCBS, 031 Rheumatology,EL PASO,1
+Anthem BCBS, 031 Rheumatology,JEFFERSON,1
+Anthem BCBS, 031 Rheumatology,MESA,1
+Anthem BCBS, 033 Urology,ARAPAHOE,1
+Anthem BCBS, 033 Urology,DOUGLAS,1
+Anthem BCBS, 033 Urology,JEFFERSON,1
+Anthem BCBS, 034 Vascular Surgery,MESA,1
+Anthem BCBS, 035 Cardiothoracic Surgery,BOULDER,1
+Anthem BCBS, 035 Cardiothoracic Surgery,LA PLATA,1
+Anthem BCBS, 035 Cardiothoracic Surgery,SUMMIT,1
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,ARCHULETA,1
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,GARFIELD,1
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,GUNNISON,1
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,HUERFANO,1
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,Larimer,1
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,LAS ANIMAS,1
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,MONTEZUMA,1
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,MORGAN,1
+Anthem BCBS, 101 Pediatrics - Routine/Primary Care,SUMMIT,1
+Anthem BCBS, 102 Licensed Clinical Social Workers,ADAMS,1
+Anthem BCBS, 102 Licensed Clinical Social Workers,ARAPAHOE,1
+Anthem BCBS, 102 Licensed Clinical Social Workers,BROOMFIELD,1
+Anthem BCBS, 102 Licensed Clinical Social Workers,DOUGLAS,1
+Anthem BCBS, 102 Licensed Clinical Social Workers,JEFFERSON,1
+Anthem BCBS, 102 Licensed Clinical Social Workers,LARIMER,1
+Anthem BCBS, 102 Licensed Clinical Social Workers,MONTROSE,1
+Anthem BCBS, 102 Licensed Clinical Social Workers,PUEBLO,1
+Anthem BCBS, 102 Licensed Clinical Social Workers,WELD,1
+Anthem BCBS, 103 Psychology,CHAFFEE,1
+Anthem BCBS, 103 Psychology,JEFFERSON,1
+Anthem BCBS, 103 Psychology,SUMMIT,1
+Anthem BCBS, Dental - General,ADAMS,1
+Anthem BCBS,000 OTHER,BACA,1
+Anthem BCBS,000 OTHER,Boulder,1
+Anthem BCBS,000 OTHER,CLEAR CREEK,1
+Anthem BCBS,000 OTHER,CUSTER,1
+Anthem BCBS,000 OTHER,ELBERT,1
+Anthem BCBS,000 OTHER,GILPIN,1
+Anthem BCBS,000 OTHER,HINSDALE,1
+Anthem BCBS,000 OTHER,Larimer,1
+Anthem BCBS,001 General Practice,ARCHULETA,1
+Anthem BCBS,001 General Practice,HUERFANO,1
+Anthem BCBS,001 General Practice,KIOWA,1
+Anthem BCBS,001 General Practice,KIT CARSON,1
+Anthem BCBS,001 General Practice,MESA,1
+Anthem BCBS,001 General Practice,MONTEZUMA,1
+Anthem BCBS,001 General Practice,PITKIN,1
+Anthem BCBS,001 General Practice,TELLER,1
+Anthem BCBS,002 Family Medicine,BENT,1
+Anthem BCBS,002 Family Medicine,CUSTER,1
+Anthem BCBS,002 Family Medicine,HINSDALE,1
+Anthem BCBS,002 Family Medicine,JACKSON,1
+Anthem BCBS,002 Family Medicine,PARK,1
+Anthem BCBS,002 Family Medicine,PROWERS,1
+Anthem BCBS,002 Family Medicine,SAGUACHE,1
+Anthem BCBS,003 Internal Medicine,Adams,1
+Anthem BCBS,003 Internal Medicine,GUNNISON,1
+Anthem BCBS,003 Internal Medicine,LAKE,1
+Anthem BCBS,003 Internal Medicine,PROWERS,1
+Anthem BCBS,003 Internal Medicine,SAGUACHE,1
+Anthem BCBS,003 Internal Medicine,SAN MIGUEL,1
+Anthem BCBS,003 Internal Medicine,SEDGWICK,1
+Anthem BCBS,004 Geriatrics,DOUGLAS,1
+Anthem BCBS,007 Allergy and Immunology,GARFIELD,1
+Anthem BCBS,007 Allergy and Immunology,LA PLATA,1
+Anthem BCBS,007 Allergy and Immunology,LOGAN,1
+Anthem BCBS,007 Allergy and Immunology,MORGAN,1
+Anthem BCBS,007 Allergy and Immunology,PHILLIPS,1
+Anthem BCBS,007 Allergy and Immunology,ROUTT,1
+Anthem BCBS,008 Cardiovascular Disease,GUNNISON,1
+Anthem BCBS,008 Cardiovascular Disease,LAKE,1
+Anthem BCBS,008 Cardiovascular Disease,SAN MIGUEL,1
+Anthem BCBS,010 Chiropracty,CHEYENNE,1
+Anthem BCBS,010 Chiropracty,DELTA,1
+Anthem BCBS,010 Chiropracty,LAKE,1
+Anthem BCBS,010 Chiropracty,LAS ANIMAS,1
+Anthem BCBS,010 Chiropracty,MONTROSE,1
+Anthem BCBS,010 Chiropracty,OTERO,1
+Anthem BCBS,010 Chiropracty,OURAY,1
+Anthem BCBS,010 Chiropracty,PITKIN,1
+Anthem BCBS,010 Chiropracty,PROWERS,1
+Anthem BCBS,010 Chiropracty,RIO BLANCO,1
+Anthem BCBS,010 Chiropracty,RIO GRANDE,1
+Anthem BCBS,010 Chiropracty,SUMMIT,1
+Anthem BCBS,010 Chiropracty,YUMA,1
+Anthem BCBS,011 Dermatology,LAS ANIMAS,1
+Anthem BCBS,011 Dermatology,ROUTT,1
+Anthem BCBS,011 Dermatology,TELLER,1
+Anthem BCBS,012 Endocrinology,BROOMFIELD,1
+Anthem BCBS,012 Endocrinology,Larimer,1
+Anthem BCBS,012 Endocrinology,LOGAN,1
+Anthem BCBS,013 ENT/Otolaryngology,Adams,1
+Anthem BCBS,013 ENT/Otolaryngology,ALAMOSA,1
+Anthem BCBS,013 ENT/Otolaryngology,CHAFFEE,1
+Anthem BCBS,013 ENT/Otolaryngology,FREMONT,1
+Anthem BCBS,013 ENT/Otolaryngology,GRAND,1
+Anthem BCBS,013 ENT/Otolaryngology,MONTROSE,1
+Anthem BCBS,013 ENT/Otolaryngology,ROUTT,1
+Anthem BCBS,014 Gastroenterology,LOGAN,1
+Anthem BCBS,014 Gastroenterology,MORGAN,1
+Anthem BCBS,014 Gastroenterology,SUMMIT,1
+Anthem BCBS,015 General Surgery,BACA,1
+Anthem BCBS,015 General Surgery,GUNNISON,1
+Anthem BCBS,015 General Surgery,LAKE,1
+Anthem BCBS,015 General Surgery,Larimer,1
+Anthem BCBS,015 General Surgery,LAS ANIMAS,1
+Anthem BCBS,015 General Surgery,LINCOLN,1
+Anthem BCBS,015 General Surgery,MOFFAT,1
+Anthem BCBS,015 General Surgery,SEDGWICK,1
+Anthem BCBS,015 General Surgery,YUMA,1
+Anthem BCBS,016 Gynecology (OB/GYN),LAS ANIMAS,1
+Anthem BCBS,017 Infectious Diseases,PUEBLO,1
+Anthem BCBS,018 Nephrology,GARFIELD,1
+Anthem BCBS,019 Neurology,ALAMOSA,1
+Anthem BCBS,019 Neurology,ARCHULETA,1
+Anthem BCBS,019 Neurology,CHAFFEE,1
+Anthem BCBS,019 Neurology,EAGLE,1
+Anthem BCBS,019 Neurology,PHILLIPS,1
+Anthem BCBS,019 Neurology,PITKIN,1
+Anthem BCBS,019 Neurology,SUMMIT,1
+Anthem BCBS,019 Neurology,YUMA,1
+Anthem BCBS,020 Neurological Surgery,LA PLATA,1
+Anthem BCBS,020 Neurological Surgery,Mesa,1
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,CHAFFEE,1
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,EAGLE,1
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,LOGAN,1
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,Mesa,1
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,SUMMIT,1
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,WASHINGTON,1
+Anthem BCBS,021 Medical Oncology & Surgical Oncology,YUMA,1
+Anthem BCBS,022 Radiation Oncology,EAGLE,1
+Anthem BCBS,022 Radiation Oncology,PUEBLO,1
+Anthem BCBS,023 Ophthalmology,LAS ANIMAS,1
+Anthem BCBS,023 Ophthalmology,MONTEZUMA,1
+Anthem BCBS,023 Ophthalmology,PROWERS,1
+Anthem BCBS,025 Orthopedic Surgery,HUERFANO,1
+Anthem BCBS,025 Orthopedic Surgery,OTERO,1
+Anthem BCBS,025 Orthopedic Surgery,SAN MIGUEL,1
+Anthem BCBS,025 Orthopedic Surgery,YUMA,1
+Anthem BCBS,026 Physical Medicine & Rehabilitation,Adams,1
+Anthem BCBS,026 Physical Medicine & Rehabilitation,ALAMOSA,1
+Anthem BCBS,026 Physical Medicine & Rehabilitation,DELTA,1
+Anthem BCBS,026 Physical Medicine & Rehabilitation,EAGLE,1
+Anthem BCBS,026 Physical Medicine & Rehabilitation,GARFIELD,1
+Anthem BCBS,026 Physical Medicine & Rehabilitation,MORGAN,1
+Anthem BCBS,026 Physical Medicine & Rehabilitation,ROUTT,1
+Anthem BCBS,027 Plastic Surgery,Adams,1
+Anthem BCBS,027 Plastic Surgery,GARFIELD,1
+Anthem BCBS,027 Plastic Surgery,ROUTT,1
+Anthem BCBS,027 Plastic Surgery,WELD,1
+Anthem BCBS,028 Podiatry,ALAMOSA,1
+Anthem BCBS,028 Podiatry,ARCHULETA,1
+Anthem BCBS,028 Podiatry,CHAFFEE,1
+Anthem BCBS,028 Podiatry,EAGLE,1
+Anthem BCBS,028 Podiatry,GUNNISON,1
+Anthem BCBS,028 Podiatry,MOFFAT,1
+Anthem BCBS,028 Podiatry,PHILLIPS,1
+Anthem BCBS,028 Podiatry,ROUTT,1
+Anthem BCBS,028 Podiatry,TELLER,1
+Anthem BCBS,028 Podiatry,YUMA,1
+Anthem BCBS,029 Psychiatry,BROOMFIELD,1
+Anthem BCBS,029 Psychiatry,CHAFFEE,1
+Anthem BCBS,029 Psychiatry,GARFIELD,1
+Anthem BCBS,029 Psychiatry,MONTEZUMA,1
+Anthem BCBS,029 Psychiatry,MORGAN,1
+Anthem BCBS,029 Psychiatry,OTERO,1
+Anthem BCBS,029 Psychiatry,RIO GRANDE,1
+Anthem BCBS,029 Psychiatry,ROUTT,1
+Anthem BCBS,029 Psychiatry,SAN MIGUEL,1
+Anthem BCBS,030 Pulmonology,BROOMFIELD,1
+Anthem BCBS,030 Pulmonology,LOGAN,1
+Anthem BCBS,030 Pulmonology,MORGAN,1
+Anthem BCBS,030 Pulmonology,PUEBLO,1
+Anthem BCBS,031 Rheumatology,DELTA,1
+Anthem BCBS,031 Rheumatology,JEFFERSON,1
+Anthem BCBS,031 Rheumatology,Larimer,1
+Anthem BCBS,033 Urology,DELTA,1
+Anthem BCBS,033 Urology,FREMONT,1
+Anthem BCBS,033 Urology,LOGAN,1
+Anthem BCBS,033 Urology,MOFFAT,1
+Anthem BCBS,034 Vascular Surgery,ADAMS,1
+Anthem BCBS,034 Vascular Surgery,TELLER,1
+Anthem BCBS,035 Cardiothoracic Surgery,GARFIELD,1
+Anthem BCBS,035 Cardiothoracic Surgery,LA PLATA,1
+Anthem BCBS,035 Cardiothoracic Surgery,MOFFAT,1
+Anthem BCBS,035 Cardiothoracic Surgery,MORGAN,1
+Anthem BCBS,035 Cardiothoracic Surgery,SUMMIT,1
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,LOGAN,1
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,OTERO,1
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,PROWERS,1
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,WASHINGTON,1
+Anthem BCBS,101 Pediatrics - Routine/Primary Care,YUMA,1
+Anthem BCBS,102 Licensed Clinical Social Workers,CLEAR CREEK,1
+Anthem BCBS,102 Licensed Clinical Social Workers,COSTILLA,1
+Anthem BCBS,102 Licensed Clinical Social Workers,GRAND,1
+Anthem BCBS,102 Licensed Clinical Social Workers,HUERFANO,1
+Anthem BCBS,102 Licensed Clinical Social Workers,LAKE,1
+Anthem BCBS,102 Licensed Clinical Social Workers,LAS ANIMAS,1
+Anthem BCBS,102 Licensed Clinical Social Workers,OTERO,1
+Anthem BCBS,102 Licensed Clinical Social Workers,Park,1
+Anthem BCBS,102 Licensed Clinical Social Workers,PARK,1
+Anthem BCBS,102 Licensed Clinical Social Workers,PROWERS,1
+Anthem BCBS,102 Licensed Clinical Social Workers,RIO BLANCO,1
+Anthem BCBS,102 Licensed Clinical Social Workers,RIO GRANDE,1
+Anthem BCBS,103 Psychology,ALAMOSA,1
+Anthem BCBS,103 Psychology,Boulder,1
+Anthem BCBS,103 Psychology,PARK,1
+Anthem BCBS,103 Psychology,PITKIN,1
+Bright,000 OTHER,Arapahoe,1019
+Bright,000 OTHER,El Paso,668
+Bright,000 OTHER,Jefferson,431
+Bright,000 OTHER,Douglas,218
+Bright,000 OTHER,Denver,198
+Bright,000 OTHER,Boulder,195
+Bright,000 OTHER,Adams,192
+Bright,102 Licensed Clinical Social Workers,Arapahoe,122
+Bright,000 OTHER,Pueblo,117
+Bright,002 Family Medicine,El Paso,107
+Bright,029 Psychiatry,Arapahoe,107
+Bright,006 Primary Care - Nurse Practitioner,Jefferson,89
+Bright,010 Chiropracty,JEFFERSON,89
+Bright,000 OTHER,Summit,87
+Bright,102 Licensed Clinical Social Workers,Denver,84
+Bright,008 Cardiovascular Disease,Arapahoe,82
+Bright,025 Orthopedic Surgery,El Paso,78
+Bright,021 Medical Oncology & Surgical Oncology,Arapahoe,75
+Bright,102 Licensed Clinical Social Workers,Jefferson,73
+Bright,010 Chiropracty,ARAPAHOE,72
+Bright,101 Pediatrics - Routine/Primary Care,Arapahoe,67
+Bright,016 Gynecology (OB/GYN),Douglas,66
+Bright,101 Pediatrics - Routine/Primary Care,El Paso,66
+Bright,025 Orthopedic Surgery,Douglas,65
+Bright,102 Licensed Clinical Social Workers,Boulder,65
+Bright,000 OTHER,La Plata,64
+Bright,000 OTHER,Broomfield,63
+Bright,002 Family Medicine,Boulder,62
+Bright,010 Chiropracty,EL PASO,58
+Bright,101 Pediatrics - Routine/Primary Care,Douglas,57
+Bright,010 Chiropracty,BOULDER,56
+Bright,002 Family Medicine,Jefferson,54
+Bright,005 Primary Care - Physician Assistant,El Paso,52
+Bright,014 Gastroenterology,Arapahoe,52
+Bright,002 Family Medicine,Adams,50
+Bright,012 Endocrinology,Arapahoe,50
+Bright,002 Family Medicine,Douglas,48
+Bright,005 Primary Care - Physician Assistant,Jefferson,48
+Bright,006 Primary Care - Nurse Practitioner,El Paso,47
+Bright,000 OTHER,Teller,46
+Bright,019 Neurology,Arapahoe,46
+Bright,101 Pediatrics - Routine/Primary Care,Denver,45
+Bright,102 Licensed Clinical Social Workers,Adams,45
+Bright,103 Psychology,Arapahoe,43
+Bright,006 Primary Care - Nurse Practitioner,Adams,42
+Bright,016 Gynecology (OB/GYN),Arapahoe,42
+Bright,011 Dermatology,Arapahoe,41
+Bright,010 Chiropracty,DOUGLAS,40
+Bright,029 Psychiatry,Denver,40
+Bright,008 Cardiovascular Disease,El Paso,39
+Bright,010 Chiropracty,DENVER,39
+Bright,016 Gynecology (OB/GYN),El Paso,39
+Bright,101 Pediatrics - Routine/Primary Care,Jefferson,39
+Bright,002 Family Medicine,Arapahoe,38
+Bright,003 Internal Medicine,El Paso,38
+Bright,016 Gynecology (OB/GYN),Boulder,38
+Bright,010 Chiropracty,LARIMER,37
+Bright,030 Pulmonology,Arapahoe,36
+Bright,000 OTHER,Fremont,34
+Bright,015 General Surgery,Arapahoe,34
+Bright,025 Orthopedic Surgery,Jefferson,34
+Bright,002 Family Medicine,Pueblo,33
+Bright,015 General Surgery,Jefferson,33
+Bright,002 Family Medicine,Broomfield,32
+Bright,016 Gynecology (OB/GYN),Denver,32
+Bright,006 Primary Care - Nurse Practitioner,Broomfield,31
+Bright,013 ENT/Otolaryngology,El Paso,30
+Bright,014 Gastroenterology,Douglas,30
+Bright,000 OTHER,Eagle,29
+Bright,002 Family Medicine,Denver,28
+Bright,025 Orthopedic Surgery,Adams,27
+Bright,025 Orthopedic Surgery,Denver,27
+Bright,002 Family Medicine,La Plata,26
+Bright,013 ENT/Otolaryngology,Arapahoe,26
+Bright,102 Licensed Clinical Social Workers,El Paso,26
+Bright,002 Family Medicine,Larimer,24
+Bright,005 Primary Care - Physician Assistant,Adams,24
+Bright,008 Cardiovascular Disease,Chaffee,24
+Bright,010 Chiropracty,ADAMS,24
+Bright,017 Infectious Diseases,Arapahoe,24
+Bright,006 Primary Care - Nurse Practitioner,Boulder,23
+Bright,023 Ophthalmology,El Paso,23
+Bright,000 OTHER,Alamosa,22
+Bright,011 Dermatology,Douglas,22
+Bright,018 Nephrology,Denver,22
+Bright,006 Primary Care - Nurse Practitioner,Pueblo,21
+Bright,016 Gynecology (OB/GYN),Jefferson,21
+Bright,011 Dermatology,Jefferson,20
+Bright,021 Medical Oncology & Surgical Oncology,El Paso,20
+Bright,023 Ophthalmology,Boulder,20
+Bright,025 Orthopedic Surgery,Boulder,19
+Bright,005 Primary Care - Physician Assistant,Pueblo,18
+Bright,101 Pediatrics - Routine/Primary Care,ARAPAHOE,18
+Bright,002 Family Medicine,Weld,17
+Bright,005 Primary Care - Physician Assistant,Broomfield,17
+Bright,011 Dermatology,El Paso,17
+Bright,015 General Surgery,Douglas,17
+Bright,103 Psychology,Denver,17
+Bright,000 OTHER,Chaffee,16
+Bright,002 Family Medicine,Garfield,16
+Bright,008 Cardiovascular Disease,Denver,16
+Bright,010 Chiropracty,WELD,16
+Bright,028 Podiatry,Jefferson,16
+Bright,029 Psychiatry,El Paso,16
+Bright,029 Psychiatry,Jefferson,16
+Bright,033 Urology,Arapahoe,16
+Bright,033 Urology,El Paso,16
+Bright,002 Family Medicine,Summit,15
+Bright,007 Allergy and Immunology,Boulder,15
+Bright,010 Chiropracty,MESA,15
+Bright,010 Chiropracty,PUEBLO,15
+Bright,013 ENT/Otolaryngology,Jefferson,15
+Bright,015 General Surgery,El Paso,15
+Bright,018 Nephrology,Adams,15
+Bright,018 Nephrology,Arapahoe,15
+Bright,019 Neurology,El Paso,15
+Bright,023 Ophthalmology,DENVER,15
+Bright,007 Allergy and Immunology,Jefferson,14
+Bright,012 Endocrinology,El Paso,14
+Bright,013 ENT/Otolaryngology,Douglas,14
+Bright,014 Gastroenterology,El Paso,14
+Bright,016 Gynecology (OB/GYN),Pueblo,14
+Bright,018 Nephrology,Jefferson,14
+Bright,019 Neurology,Jefferson,14
+Bright,021 Medical Oncology & Surgical Oncology,Denver,14
+Bright,021 Medical Oncology & Surgical Oncology,Douglas,14
+Bright,023 Ophthalmology,Arapahoe,14
+Bright,025 Orthopedic Surgery,Eagle,14
+Bright,103 Psychology,Boulder,14
+Bright,007 Allergy and Immunology,Arapahoe,13
+Bright,016 Gynecology (OB/GYN),La Plata,13
+Bright,020 Neurological Surgery,Arapahoe,13
+Bright,025 Orthopedic Surgery,Arapahoe,13
+Bright,029 Psychiatry,Adams,13
+Bright,030 Pulmonology,El Paso,13
+Bright,103 Psychology,Adams,13
+Bright,002 Family Medicine,Grand,12
+Bright,003 Internal Medicine,Arapahoe,12
+Bright,006 Primary Care - Nurse Practitioner,Douglas,12
+Bright,008 Cardiovascular Disease,Douglas,12
+Bright,008 Cardiovascular Disease,Fremont,12
+Bright,018 Nephrology,Pueblo,12
+Bright,021 Medical Oncology & Surgical Oncology,Boulder,12
+Bright,029 Psychiatry,Boulder,12
+Bright,033 Urology,Douglas,12
+Bright,103 Psychology,El Paso,12
+Bright,002 Family Medicine,Fremont,11
+Bright,002 Family Medicine,Rio Grande,11
+Bright,003 Internal Medicine,Douglas,11
+Bright,008 Cardiovascular Disease,Teller,11
+Bright,013 ENT/Otolaryngology,Denver,11
+Bright,019 Neurology,Douglas,11
+Bright,023 Ophthalmology,JEFFERSON,11
+Bright,031 Rheumatology,Arapahoe,11
+Bright,000 OTHER,Grand,10
+Bright,002 Family Medicine,Alamosa,10
+Bright,003 Internal Medicine,Denver,10
+Bright,003 Internal Medicine,Jefferson,10
+Bright,016 Gynecology (OB/GYN),Weld,10
+Bright,017 Infectious Diseases,Jefferson,10
+Bright,028 Podiatry,Denver,10
+Bright,031 Rheumatology,Boulder,10
+Bright,103 Psychology,Jefferson,10
+Bright,004 Geriatrics,Jefferson,9
+Bright,005 Primary Care - Physician Assistant,Arapahoe,9
+Bright,014 Gastroenterology,Jefferson,9
+Bright,016 Gynecology (OB/GYN),Larimer,9
+Bright,026 Physical Medicine & Rehabilitation,Douglas,9
+Bright,101 Pediatrics - Routine/Primary Care,Adams,9
+Bright,101 Pediatrics - Routine/Primary Care,Broomfield,9
+Bright,006 Primary Care - Nurse Practitioner,Arapahoe,8
+Bright,006 Primary Care - Nurse Practitioner,La Plata,8
+Bright,007 Allergy and Immunology,El Paso,8
+Bright,011 Dermatology,Summit,8
+Bright,012 Endocrinology,Douglas,8
+Bright,016 Gynecology (OB/GYN),Adams,8
+Bright,016 Gynecology (OB/GYN),Alamosa,8
+Bright,016 Gynecology (OB/GYN),Garfield,8
+Bright,016 Gynecology (OB/GYN),Grand,8
+Bright,017 Infectious Diseases,Broomfield,8
+Bright,017 Infectious Diseases,Denver,8
+Bright,018 Nephrology,Douglas,8
+Bright,020 Neurological Surgery,Jefferson,8
+Bright,022 Radiation Oncology,Arapahoe,8
+Bright,023 Ophthalmology,DOUGLAS,8
+Bright,028 Podiatry,Douglas,8
+Bright,031 Rheumatology,El Paso,8
+Bright,005 Primary Care - Physician Assistant,Garfield,7
+Bright,006 Primary Care - Nurse Practitioner,Summit,7
+Bright,008 Cardiovascular Disease,Jefferson,7
+Bright,010 Chiropracty,LA PLATA,7
+Bright,014 Gastroenterology,Broomfield,7
+Bright,015 General Surgery,Boulder,7
+Bright,016 Gynecology (OB/GYN),Summit,7
+Bright,018 Nephrology,Alamosa,7
+Bright,018 Nephrology,El Paso,7
+Bright,020 Neurological Surgery,El Paso,7
+Bright,021 Medical Oncology & Surgical Oncology,Jefferson,7
+Bright,025 Orthopedic Surgery,Summit,7
+Bright,034 Vascular Surgery,Denver,7
+Bright,035 Cardiothoracic Surgery,El Paso,7
+Bright,035 Cardiothoracic Surgery,Pueblo,7
+Bright,101 Pediatrics - Routine/Primary Care,Boulder,7
+Bright,101 Pediatrics - Routine/Primary Care,La Plata,7
+Bright,002 Family Medicine,Teller,6
+Bright,003 Internal Medicine,Boulder,6
+Bright,003 Internal Medicine,Fremont,6
+Bright,005 Primary Care - Physician Assistant,Boulder,6
+Bright,005 Primary Care - Physician Assistant,Douglas,6
+Bright,006 Primary Care - Nurse Practitioner,Mesa,6
+Bright,007 Allergy and Immunology,Adams,6
+Bright,007 Allergy and Immunology,Denver,6
+Bright,008 Cardiovascular Disease,Adams,6
+Bright,010 Chiropracty,BROOMFIELD,6
+Bright,011 Dermatology,Denver,6
+Bright,012 Endocrinology,Boulder,6
+Bright,014 Gastroenterology,Adams,6
+Bright,014 Gastroenterology,Denver,6
+Bright,015 General Surgery,Denver,6
+Bright,016 Gynecology (OB/GYN),Broomfield,6
+Bright,016 Gynecology (OB/GYN),Chaffee,6
+Bright,016 Gynecology (OB/GYN),Montezuma,6
+Bright,016 Gynecology (OB/GYN),Routt,6
+Bright,018 Nephrology,Boulder,6
+Bright,020 Neurological Surgery,Boulder,6
+Bright,020 Neurological Surgery,Douglas,6
+Bright,023 Ophthalmology,BOULDER,6
+Bright,023 Ophthalmology,Jefferson,6
+Bright,023 Ophthalmology,WELD,6
+Bright,030 Pulmonology,Jefferson,6
+Bright,030 Pulmonology,La Plata,6
+Bright,031 Rheumatology,Jefferson,6
+Bright,033 Urology,Boulder,6
+Bright,035 Cardiothoracic Surgery,Denver,6
+Bright,035 Cardiothoracic Surgery,Jefferson,6
+Bright,101 Pediatrics - Routine/Primary Care,Weld,6
+Bright,002 Family Medicine,Routt,5
+Bright,003 Internal Medicine,La Plata,5
+Bright,005 Primary Care - Physician Assistant,La Plata,5
+Bright,005 Primary Care - Physician Assistant,Summit,5
+Bright,006 Primary Care - Nurse Practitioner,Denver,5
+Bright,006 Primary Care - Nurse Practitioner,Teller,5
+Bright,008 Cardiovascular Disease,Boulder,5
+Bright,008 Cardiovascular Disease,La Plata,5
+Bright,008 Cardiovascular Disease,Summit,5
+Bright,010 Chiropracty,FREMONT,5
+Bright,013 ENT/Otolaryngology,Broomfield,5
+Bright,015 General Surgery,Broomfield,5
+Bright,022 Radiation Oncology,Douglas,5
+Bright,023 Ophthalmology,Pueblo,5
+Bright,026 Physical Medicine & Rehabilitation,Arapahoe,5
+Bright,026 Physical Medicine & Rehabilitation,Jefferson,5
+Bright,031 Rheumatology,Broomfield,5
+Bright,033 Urology,Jefferson,5
+Bright,034 Vascular Surgery,El Paso,5
+Bright,000 OTHER,Weld,4
+Bright,002 Family Medicine,Montezuma,4
+Bright,002 Family Medicine,Morgan,4
+Bright,006 Primary Care - Nurse Practitioner,Fremont,4
+Bright,006 Primary Care - Nurse Practitioner,Grand,4
+Bright,006 Primary Care - Nurse Practitioner,Larimer,4
+Bright,007 Allergy and Immunology,Pueblo,4
+Bright,008 Cardiovascular Disease,Grand,4
+Bright,011 Dermatology,Pueblo,4
+Bright,014 Gastroenterology,Garfield,4
+Bright,015 General Surgery,Adams,4
+Bright,015 General Surgery,La Plata,4
+Bright,021 Medical Oncology & Surgical Oncology,La Plata,4
+Bright,021 Medical Oncology & Surgical Oncology,Pueblo,4
+Bright,022 Radiation Oncology,Boulder,4
+Bright,025 Orthopedic Surgery,La Plata,4
+Bright,025 Orthopedic Surgery,Pueblo,4
+Bright,026 Physical Medicine & Rehabilitation,Boulder,4
+Bright,026 Physical Medicine & Rehabilitation,Denver,4
+Bright,026 Physical Medicine & Rehabilitation,Pueblo,4
+Bright,028 Podiatry,Arapahoe,4
+Bright,028 Podiatry,Boulder,4
+Bright,028 Podiatry,El Paso,4
+Bright,034 Vascular Surgery,Pueblo,4
+Bright,035 Cardiothoracic Surgery,Arapahoe,4
+Bright,101 Pediatrics - Routine/Primary Care,Fremont,4
+Bright,102 Licensed Clinical Social Workers,Broomfield,4
+Bright,000 OTHER,Conejos,3
+Bright,000 OTHER,Garfield,3
+Bright,000 OTHER,Rio Grande,3
+Bright,004 Geriatrics,Adams,3
+Bright,005 Primary Care - Physician Assistant,Denver,3
+Bright,005 Primary Care - Physician Assistant,Grand,3
+Bright,005 Primary Care - Physician Assistant,Routt,3
+Bright,006 Primary Care - Nurse Practitioner,Alamosa,3
+Bright,006 Primary Care - Nurse Practitioner,Eagle,3
+Bright,007 Allergy and Immunology,Douglas,3
+Bright,007 Allergy and Immunology,Fremont,3
+Bright,010 Chiropracty,TELLER,3
+Bright,011 Dermatology,Boulder,3
+Bright,012 Endocrinology,Denver,3
+Bright,012 Endocrinology,Larimer,3
+Bright,014 Gastroenterology,Boulder,3
+Bright,014 Gastroenterology,Pueblo,3
+Bright,015 General Surgery,Pueblo,3
+Bright,016 Gynecology (OB/GYN),Fremont,3
+Bright,018 Nephrology,La Plata,3
+Bright,019 Neurology,Denver,3
+Bright,021 Medical Oncology & Surgical Oncology,Adams,3
+Bright,021 Medical Oncology & Surgical Oncology,Summit,3
+Bright,022 Radiation Oncology,Denver,3
+Bright,022 Radiation Oncology,El Paso,3
+Bright,023 Ophthalmology,Denver,3
+Bright,023 Ophthalmology,Douglas,3
+Bright,025 Orthopedic Surgery,Fremont,3
+Bright,027 Plastic Surgery,Boulder,3
+Bright,027 Plastic Surgery,El Paso,3
+Bright,028 Podiatry,Grand,3
+Bright,028 Podiatry,Weld,3
+Bright,029 Psychiatry,Douglas,3
+Bright,029 Psychiatry,Summit,3
+Bright,033 Urology,Broomfield,3
+Bright,033 Urology,Denver,3
+Bright,033 Urology,Pueblo,3
+Bright,101 Pediatrics - Routine/Primary Care,Summit,3
+Bright,000 OTHER,Larimer,2
+Bright,000 OTHER,Montezuma,2
+Bright,000 OTHER,Routt,2
+Bright,002 Family Medicine,Elbert,2
+Bright,002 Family Medicine,Lake,2
+Bright,002 Family Medicine,Lincoln,2
+Bright,002 Family Medicine,Mesa,2
+Bright,002 Family Medicine,Saguache,2
+Bright,003 Internal Medicine,Adams,2
+Bright,005 Primary Care - Physician Assistant,Montrose,2
+Bright,005 Primary Care - Physician Assistant,Rio Grande,2
+Bright,005 Primary Care - Physician Assistant,Weld,2
+Bright,006 Primary Care - Nurse Practitioner,Garfield,2
+Bright,006 Primary Care - Nurse Practitioner,Lake,2
+Bright,006 Primary Care - Nurse Practitioner,Lincoln,2
+Bright,008 Cardiovascular Disease,Lake,2
+Bright,010 Chiropracty,MORGAN,2
+Bright,011 Dermatology,Adams,2
+Bright,011 Dermatology,Broomfield,2
+Bright,011 Dermatology,Fremont,2
+Bright,011 Dermatology,Garfield,2
+Bright,012 Endocrinology,Jefferson,2
+Bright,013 ENT/Otolaryngology,Boulder,2
+Bright,013 ENT/Otolaryngology,Pueblo,2
+Bright,013 ENT/Otolaryngology,Summit,2
+Bright,014 Gastroenterology,La Plata,2
+Bright,015 General Surgery,Chaffee,2
+Bright,015 General Surgery,Fremont,2
+Bright,019 Neurology,Boulder,2
+Bright,019 Neurology,Broomfield,2
+Bright,019 Neurology,La Plata,2
+Bright,020 Neurological Surgery,Broomfield,2
+Bright,021 Medical Oncology & Surgical Oncology,Kit Carson,2
+Bright,022 Radiation Oncology,La Plata,2
+Bright,026 Physical Medicine & Rehabilitation,Adams,2
+Bright,026 Physical Medicine & Rehabilitation,Eagle,2
+Bright,027 Plastic Surgery,Arapahoe,2
+Bright,027 Plastic Surgery,Denver,2
+Bright,028 Podiatry,Eagle,2
+Bright,028 Podiatry,Summit,2
+Bright,029 Psychiatry,Broomfield,2
+Bright,030 Pulmonology,Douglas,2
+Bright,031 Rheumatology,La Plata,2
+Bright,033 Urology,La Plata,2
+Bright,033 Urology,Moffat,2
+Bright,033 Urology,Routt,2
+Bright,033 Urology,Summit,2
+Bright,035 Cardiothoracic Surgery,La Plata,2
+Bright,035 Cardiothoracic Surgery,Summit,2
+Bright,101 Pediatrics - Routine/Primary Care,Alamosa,2
+Bright,102 Licensed Clinical Social Workers,Summit,2
+Bright,103 Psychology,Summit,2
+Bright,000 OTHER,ARAPAHOE,1
+Bright,000 OTHER,Elbert,1
+Bright,000 OTHER,Lake,1
+Bright,000 OTHER,Prowers,1
+Bright,002 Family Medicine,Chaffee,1
+Bright,002 Family Medicine,Conejos,1
+Bright,002 Family Medicine,Costilla,1
+Bright,002 Family Medicine,Eagle,1
+Bright,002 Family Medicine,Jackson,1
+Bright,002 Family Medicine,Logan,1
+Bright,002 Family Medicine,Prowers,1
+Bright,003 Internal Medicine,Alamosa,1
+Bright,003 Internal Medicine,Broomfield,1
+Bright,003 Internal Medicine,Garfield,1
+Bright,003 Internal Medicine,Larimer,1
+Bright,003 Internal Medicine,Pueblo,1
+Bright,003 Internal Medicine,Rio Grande,1
+Bright,003 Internal Medicine,Summit,1
+Bright,004 Geriatrics,Alamosa,1
+Bright,004 Geriatrics,El Paso,1
+Bright,005 Primary Care - Physician Assistant,Alamosa,1
+Bright,005 Primary Care - Physician Assistant,Conejos,1
+Bright,005 Primary Care - Physician Assistant,Eagle,1
+Bright,005 Primary Care - Physician Assistant,Fremont,1
+Bright,005 Primary Care - Physician Assistant,Jackson,1
+Bright,005 Primary Care - Physician Assistant,Lake,1
+Bright,005 Primary Care - Physician Assistant,Larimer,1
+Bright,005 Primary Care - Physician Assistant,Teller,1
+Bright,006 Primary Care - Nurse Practitioner,Conejos,1
+Bright,006 Primary Care - Nurse Practitioner,Mineral,1
+Bright,006 Primary Care - Nurse Practitioner,Montrose,1
+Bright,006 Primary Care - Nurse Practitioner,Rio Grande,1
+Bright,006 Primary Care - Nurse Practitioner,Routt,1
+Bright,007 Allergy and Immunology,Broomfield,1
+Bright,007 Allergy and Immunology,Larimer,1
+Bright,008 Cardiovascular Disease,Alamosa,1
+Bright,008 Cardiovascular Disease,Sherman,1
+Bright,010 Chiropracty,Alamosa,1
+Bright,010 Chiropracty,ALAMOSA,1
+Bright,010 Chiropracty,ARCHULETA,1
+Bright,010 Chiropracty,CHAFFEE,1
+Bright,010 Chiropracty,EAGLE,1
+Bright,010 Chiropracty,KIT CARSON,1
+Bright,010 Chiropracty,LAS ANIMAS,1
+Bright,010 Chiropracty,MOFFAT,1
+Bright,010 Chiropracty,MONTROSE,1
+Bright,010 Chiropracty,Rio Grande,1
+Bright,010 Chiropracty,SUMMIT,1
+Bright,011 Dermatology,Eagle,1
+Bright,011 Dermatology,Teller,1
+Bright,012 Endocrinology,EL PASO,1
+Bright,012 Endocrinology,La Plata,1
+Bright,012 Endocrinology,Summit,1
+Bright,013 ENT/Otolaryngology,Adams,1
+Bright,013 ENT/Otolaryngology,Alamosa,1
+Bright,015 General Surgery,Alamosa,1
+Bright,015 General Surgery,EL PASO,1
+Bright,015 General Surgery,Sherman,1
+Bright,016 Gynecology (OB/GYN),Montrose,1
+Bright,017 Infectious Diseases,La Plata,1
+Bright,019 Neurology,Alamosa,1
+Bright,019 Neurology,Summit,1
+Bright,020 Neurological Surgery,Adams,1
+Bright,022 Radiation Oncology,Adams,1
+Bright,023 Ophthalmology,Adams,1
+Bright,023 Ophthalmology,Garfield,1
+Bright,023 Ophthalmology,La Plata,1
+Bright,023 Ophthalmology,Teller,1
+Bright,025 Orthopedic Surgery,Broomfield,1
+Bright,025 Orthopedic Surgery,Phillips,1
+Bright,025 Orthopedic Surgery,Rio Grande,1
+Bright,025 Orthopedic Surgery,Weld,1
+Bright,026 Physical Medicine & Rehabilitation,Alamosa,1
+Bright,026 Physical Medicine & Rehabilitation,Broomfield,1
+Bright,026 Physical Medicine & Rehabilitation,La Plata,1
+Bright,026 Physical Medicine & Rehabilitation,Summit,1
+Bright,027 Plastic Surgery,Douglas,1
+Bright,027 Plastic Surgery,Jefferson,1
+Bright,028 Podiatry,La Plata,1
+Bright,028 Podiatry,Pueblo,1
+Bright,030 Pulmonology,Boulder,1
+Bright,030 Pulmonology,EL PASO,1
+Bright,031 Rheumatology,Douglas,1
+Bright,033 Urology,Fremont,1
+Bright,034 Vascular Surgery,Jefferson,1
+Bright,035 Cardiothoracic Surgery,Sherman,1
+Bright,101 Pediatrics - Routine/Primary Care,DOUGLAS,1
+Bright,101 Pediatrics - Routine/Primary Care,Larimer,1
+Bright,101 Pediatrics - Routine/Primary Care,Otero,1
+Bright,101 Pediatrics - Routine/Primary Care,Prowers,1
+Bright,101 Pediatrics - Routine/Primary Care,Pueblo,1
+Bright,101 Pediatrics - Routine/Primary Care,Teller,1
+Bright,102 Licensed Clinical Social Workers,Alamosa,1
+Bright,102 Licensed Clinical Social Workers,Douglas,1
+Bright,102 Licensed Clinical Social Workers,La Plata,1
+Bright,102 Licensed Clinical Social Workers,Lincoln,1
+Bright,102 Licensed Clinical Social Workers,Pueblo,1
+Bright,103 Psychology,Larimer,1
+Bright,103 Psychology,Pueblo,1
+Cigna,000 OTHER,DENVER,1576
+Cigna,000 OTHER,JEFFERSON,1066
+Cigna,000 OTHER,ARAPAHOE,1006
+Cigna,000 OTHER,BOULDER,777
+Cigna,103 Psychology,ARAPAHOE,681
+Cigna,000 OTHER,ADAMS,530
+Cigna,000 OTHER,DOUGLAS,517
+Cigna,103 Psychology,EL PASO,433
+Cigna,103 Psychology,BOULDER,399
+Cigna,103 Psychology,ADAMS,376
+Cigna,103 Psychology,DENVER,366
+Cigna,000 OTHER,EL PASO,356
+Cigna,103 Psychology,JEFFERSON,312
+Cigna,003 Internal Medicine,DENVER,280
+Cigna,102 Licensed Clinical Social Workers,ARAPAHOE,277
+Cigna,008 Cardiovascular Disease,DENVER,249
+Cigna,103 Psychology,LARIMER,243
+Cigna,005 Primary Care - Physician Assistant,DENVER,242
+Cigna,102 Licensed Clinical Social Workers,DENVER,230
+Cigna,016 Gynecology (OB/GYN),DENVER,198
+Cigna,000 OTHER,LARIMER,193
+Cigna,003 Internal Medicine,ARAPAHOE,189
+Cigna,006 Primary Care - Nurse Practitioner,DENVER,181
+Cigna,102 Licensed Clinical Social Workers,BOULDER,181
+Cigna,102 Licensed Clinical Social Workers,JEFFERSON,174
+Cigna,003 Internal Medicine,JEFFERSON,172
+Cigna,000 OTHER,BROOMFIELD,166
+Cigna,002 Family Medicine,DENVER,157
+Cigna,103 Psychology,WELD,155
+Cigna,002 Family Medicine,JEFFERSON,154
+Cigna,029 Psychiatry,DENVER,142
+Cigna,005 Primary Care - Physician Assistant,ARAPAHOE,141
+Cigna,006 Primary Care - Nurse Practitioner,ARAPAHOE,141
+Cigna,000 OTHER,WELD,140
+Cigna,014 Gastroenterology,DENVER,138
+Cigna,029 Psychiatry,ADAMS,135
+Cigna,014 Gastroenterology,ARAPAHOE,127
+Cigna,005 Primary Care - Physician Assistant,JEFFERSON,124
+Cigna,008 Cardiovascular Disease,DOUGLAS,124
+Cigna,102 Licensed Clinical Social Workers,EL PASO,119
+Cigna,003 Internal Medicine,BOULDER,111
+Cigna,026 Physical Medicine & Rehabilitation,BOULDER,109
+Cigna,002 Family Medicine,ARAPAHOE,104
+Cigna,014 Gastroenterology,JEFFERSON,104
+Cigna,102 Licensed Clinical Social Workers,ADAMS,104
+Cigna,101 Pediatrics - Routine/Primary Care,DENVER,103
+Cigna,029 Psychiatry,ARAPAHOE,101
+Cigna,102 Licensed Clinical Social Workers,LARIMER,101
+Cigna,016 Gynecology (OB/GYN),JEFFERSON,99
+Cigna,015 General Surgery,DENVER,93
+Cigna,002 Family Medicine,BOULDER,89
+Cigna,025 Orthopedic Surgery,BOULDER,89
+Cigna,103 Psychology,DOUGLAS,88
+Cigna,006 Primary Care - Nurse Practitioner,JEFFERSON,85
+Cigna,008 Cardiovascular Disease,ARAPAHOE,85
+Cigna,016 Gynecology (OB/GYN),ARAPAHOE,85
+Cigna,014 Gastroenterology,DOUGLAS,81
+Cigna,103 Psychology,MESA,80
+Cigna,010 Chiropracty,JEFFERSON,77
+Cigna,026 Physical Medicine & Rehabilitation,JEFFERSON,76
+Cigna,006 Primary Care - Nurse Practitioner,DOUGLAS,75
+Cigna,014 Gastroenterology,ADAMS,73
+Cigna,010 Chiropracty,ARAPAHOE,72
+Cigna,015 General Surgery,ARAPAHOE,71
+Cigna,023 Ophthalmology,DENVER,69
+Cigna,005 Primary Care - Physician Assistant,BOULDER,67
+Cigna,015 General Surgery,JEFFERSON,67
+Cigna,019 Neurology,ARAPAHOE,65
+Cigna,014 Gastroenterology,BOULDER,63
+Cigna,016 Gynecology (OB/GYN),DOUGLAS,62
+Cigna,008 Cardiovascular Disease,JEFFERSON,61
+Cigna,025 Orthopedic Surgery,DENVER,61
+Cigna,002 Family Medicine,DOUGLAS,60
+Cigna,005 Primary Care - Physician Assistant,ADAMS,59
+Cigna,003 Internal Medicine,ADAMS,58
+Cigna,003 Internal Medicine,DOUGLAS,58
+Cigna,006 Primary Care - Nurse Practitioner,ADAMS,56
+Cigna,030 Pulmonology,DENVER,56
+Cigna,002 Family Medicine,ADAMS,54
+Cigna,016 Gynecology (OB/GYN),ADAMS,54
+Cigna,026 Physical Medicine & Rehabilitation,ARAPAHOE,54
+Cigna,029 Psychiatry,BOULDER,54
+Cigna,029 Psychiatry,EL PASO,54
+Cigna,010 Chiropracty,BOULDER,53
+Cigna,026 Physical Medicine & Rehabilitation,DENVER,53
+Cigna,000 OTHER,EAGLE,51
+Cigna, 003 Internal Medicine,JEFFERSON,50
+Cigna, 101 Pediatrics - Routine/Primary Care,DENVER,50
+Cigna,023 Ophthalmology,JEFFERSON,50
+Cigna,005 Primary Care - Physician Assistant,DOUGLAS,48
+Cigna,007 Allergy and Immunology,DENVER,47
+Cigna,029 Psychiatry,JEFFERSON,46
+Cigna,010 Chiropracty,DENVER,45
+Cigna,021 Medical Oncology & Surgical Oncology,DENVER,44
+Cigna, 030 Pulmonology,DENVER,43
+Cigna,010 Chiropracty,DOUGLAS,43
+Cigna,045 Surgical Services (Ambulatory Surgical Centers and Outpatient Hospital),DENVER,43
+Cigna,102 Licensed Clinical Social Workers,WELD,43
+Cigna,000 OTHER,MESA,40
+Cigna,008 Cardiovascular Disease,BOULDER,40
+Cigna,025 Orthopedic Surgery,JEFFERSON,40
+Cigna,016 Gynecology (OB/GYN),BOULDER,39
+Cigna,000 OTHER,MORGAN,38
+Cigna,002 Family Medicine,BROOMFIELD,38
+Cigna,015 General Surgery,DOUGLAS,38
+Cigna,025 Orthopedic Surgery,ARAPAHOE,38
+Cigna, 003 Internal Medicine,DOUGLAS,37
+Cigna,006 Primary Care - Nurse Practitioner,BOULDER,37
+Cigna,103 Psychology,MORGAN,37
+Cigna, 008 Cardiovascular Disease,DENVER,35
+Cigna, 008 Cardiovascular Disease,JEFFERSON,35
+Cigna,101 Pediatrics - Routine/Primary Care,DOUGLAS,35
+Cigna,023 Ophthalmology,ARAPAHOE,34
+Cigna,103 Psychology,YUMA,34
+Cigna,007 Allergy and Immunology,ARAPAHOE,33
+Cigna,014 Gastroenterology,BROOMFIELD,33
+Cigna,018 Nephrology,DENVER,31
+Cigna,101 Pediatrics - Routine/Primary Care,BOULDER,31
+Cigna, 030 Pulmonology,BOULDER,30
+Cigna, 030 Pulmonology,DOUGLAS,30
+Cigna, 008 Cardiovascular Disease,BOULDER,29
+Cigna,008 Cardiovascular Disease,ADAMS,29
+Cigna,021 Medical Oncology & Surgical Oncology,ARAPAHOE,29
+Cigna,025 Orthopedic Surgery,DOUGLAS,29
+Cigna, 003 Internal Medicine,DENVER,28
+Cigna,000 OTHER,PUEBLO,28
+Cigna,006 Primary Care - Nurse Practitioner,EL PASO,28
+Cigna,017 Infectious Diseases,DENVER,28
+Cigna,033 Urology,DENVER,28
+Cigna,019 Neurology,DENVER,27
+Cigna,028 Podiatry,DOUGLAS,27
+Cigna,103 Psychology,PUEBLO,27
+Cigna,007 Allergy and Immunology,JEFFERSON,26
+Cigna,010 Chiropracty,ADAMS,26
+Cigna,028 Podiatry,DENVER,26
+Cigna,102 Licensed Clinical Social Workers,MESA,26
+Cigna,000 OTHER,SUMMIT,25
+Cigna,019 Neurology,JEFFERSON,25
+Cigna,101 Pediatrics - Routine/Primary Care,ARAPAHOE,25
+Cigna,102 Licensed Clinical Social Workers,LA PLATA,25
+Cigna, 030 Pulmonology,ARAPAHOE,24
+Cigna,013 ENT/Otolaryngology,DENVER,24
+Cigna,015 General Surgery,BOULDER,24
+Cigna,029 Psychiatry,LARIMER,24
+Cigna,045 Surgical Services (Ambulatory Surgical Centers and Outpatient Hospital),ARAPAHOE,24
+Cigna,103 Psychology,EAGLE,24
+Cigna,000 OTHER,YUMA,23
+Cigna,016 Gynecology (OB/GYN),LARIMER,23
+Cigna,018 Nephrology,JEFFERSON,23
+Cigna,033 Urology,ARAPAHOE,23
+Cigna,102 Licensed Clinical Social Workers,DOUGLAS,23
+Cigna,008 Cardiovascular Disease,EL PASO,22
+Cigna,014 Gastroenterology,EAGLE,22
+Cigna,014 Gastroenterology,SUMMIT,22
+Cigna,103 Psychology,LOGAN,22
+Cigna,021 Medical Oncology & Surgical Oncology,BOULDER,21
+Cigna,026 Physical Medicine & Rehabilitation,ADAMS,21
+Cigna,103 Psychology,LA PLATA,21
+Cigna,028 Podiatry,ARAPAHOE,20
+Cigna, 003 Internal Medicine,BOULDER,19
+Cigna,007 Allergy and Immunology,DOUGLAS,19
+Cigna,028 Podiatry,JEFFERSON,19
+Cigna,101 Pediatrics - Routine/Primary Care,ADAMS,19
+Cigna,101 Pediatrics - Routine/Primary Care,JEFFERSON,19
+Cigna,102 Licensed Clinical Social Workers,PUEBLO,19
+Cigna, 021 Medical Oncology & Surgical Oncology,DENVER,18
+Cigna, 101 Pediatrics - Routine/Primary Care,ARAPAHOE,18
+Cigna,005 Primary Care - Physician Assistant,BROOMFIELD,18
+Cigna,013 ENT/Otolaryngology,JEFFERSON,18
+Cigna,021 Medical Oncology & Surgical Oncology,DOUGLAS,18
+Cigna,045 Surgical Services (Ambulatory Surgical Centers and Outpatient Hospital),DOUGLAS,18
+Cigna,103 Psychology,CHAFFEE,18
+Cigna,103 Psychology,ELBERT,18
+Cigna,103 Psychology,LINCOLN,18
+Cigna, 021 Medical Oncology & Surgical Oncology,BOULDER,17
+Cigna, 026 Physical Medicine & Rehabilitation,ARAPAHOE,17
+Cigna, 030 Pulmonology,JEFFERSON,17
+Cigna,013 ENT/Otolaryngology,DOUGLAS,17
+Cigna,022 Radiation Oncology,DENVER,17
+Cigna,023 Ophthalmology,DOUGLAS,17
+Cigna,030 Pulmonology,ARAPAHOE,17
+Cigna,033 Urology,DOUGLAS,17
+Cigna,103 Psychology,WASHINGTON,17
+Cigna,007 Allergy and Immunology,ADAMS,16
+Cigna,019 Neurology,BOULDER,16
+Cigna,025 Orthopedic Surgery,BROOMFIELD,16
+Cigna,027 Plastic Surgery,DENVER,16
+Cigna,103 Psychology,CHEYENNE,16
+Cigna,103 Psychology,KIT CARSON,16
+Cigna,103 Psychology,PHILLIPS,16
+Cigna,103 Psychology,SEDGWICK,16
+Cigna, 014 Gastroenterology,JEFFERSON,15
+Cigna,000 OTHER,LOGAN,15
+Cigna,008 Cardiovascular Disease,EAGLE,15
+Cigna,011 Dermatology,ARAPAHOE,15
+Cigna,022 Radiation Oncology,ARAPAHOE,15
+Cigna,029 Psychiatry,PUEBLO,15
+Cigna,029 Psychiatry,WELD,15
+Cigna,030 Pulmonology,BOULDER,15
+Cigna,103 Psychology,GARFIELD,15
+Cigna, 030 Pulmonology,ADAMS,14
+Cigna,011 Dermatology,DENVER,14
+Cigna,017 Infectious Diseases,ARAPAHOE,14
+Cigna,019 Neurology,DOUGLAS,14
+Cigna,031 Rheumatology,DENVER,14
+Cigna,045 Surgical Services (Ambulatory Surgical Centers and Outpatient Hospital),BOULDER,14
+Cigna, 049 Physical Therapy (individual physical therapists providing care in Free-standing; hospital outpatient and ambulatory health care facilities),DENVER,13
+Cigna,000 OTHER,ARCHULETA,13
+Cigna,000 OTHER,FREMONT,13
+Cigna,013 ENT/Otolaryngology,ARAPAHOE,13
+Cigna,015 General Surgery,ADAMS,13
+Cigna,018 Nephrology,ARAPAHOE,13
+Cigna,031 Rheumatology,BOULDER,13
+Cigna,031 Rheumatology,DOUGLAS,13
+Cigna,103 Psychology,TELLER,13
+Cigna, 008 Cardiovascular Disease,ADAMS,12
+Cigna, 014 Gastroenterology,ARAPAHOE,12
+Cigna,002 Family Medicine,EL PASO,12
+Cigna,011 Dermatology,BOULDER,12
+Cigna,012 Endocrinology,ARAPAHOE,12
+Cigna,013 ENT/Otolaryngology,ADAMS,12
+Cigna,016 Gynecology (OB/GYN),EAGLE,12
+Cigna,016 Gynecology (OB/GYN),EL PASO,12
+Cigna,018 Nephrology,BOULDER,12
+Cigna,023 Ophthalmology,BOULDER,12
+Cigna,025 Orthopedic Surgery,ADAMS,12
+Cigna,026 Physical Medicine & Rehabilitation,BROOMFIELD,12
+Cigna,026 Physical Medicine & Rehabilitation,DOUGLAS,12
+Cigna,028 Podiatry,BOULDER,12
+Cigna,034 Vascular Surgery,DENVER,12
+Cigna, 003 Internal Medicine,ARAPAHOE,11
+Cigna, 018 Nephrology,DENVER,11
+Cigna, 021 Medical Oncology & Surgical Oncology,JEFFERSON,11
+Cigna, 026 Physical Medicine & Rehabilitation,DENVER,11
+Cigna, 101 Pediatrics - Routine/Primary Care,ADAMS,11
+Cigna,000 OTHER,GARFIELD,11
+Cigna,000 OTHER,PROWERS,11
+Cigna,005 Primary Care - Physician Assistant,SUMMIT,11
+Cigna,007 Allergy and Immunology,BOULDER,11
+Cigna,007 Allergy and Immunology,BROOMFIELD,11
+Cigna,014 Gastroenterology,GARFIELD,11
+Cigna,014 Gastroenterology,KIT CARSON,11
+Cigna,014 Gastroenterology,PUEBLO,11
+Cigna,017 Infectious Diseases,BOULDER,11
+Cigna,021 Medical Oncology & Surgical Oncology,ADAMS,11
+Cigna,021 Medical Oncology & Surgical Oncology,JEFFERSON,11
+Cigna,023 Ophthalmology,LARIMER,11
+Cigna,026 Physical Medicine & Rehabilitation,WELD,11
+Cigna,028 Podiatry,ADAMS,11
+Cigna,029 Psychiatry,LA PLATA,11
+Cigna,049 Physical Therapy (individual physical therapists providing care in Free-standing; hospital outpatient and ambulatory health care facilities),ARAPAHOE,11
+Cigna,049 Physical Therapy (individual physical therapists providing care in Free-standing; hospital outpatient and ambulatory health care facilities),BOULDER,11
+Cigna, 004 Geriatrics,DENVER,10
+Cigna, 004 Geriatrics,JEFFERSON,10
+Cigna, 025 Orthopedic Surgery,DENVER,10
+Cigna,006 Primary Care - Nurse Practitioner,EAGLE,10
+Cigna,006 Primary Care - Nurse Practitioner,SUMMIT,10
+Cigna,008 Cardiovascular Disease,BACA,10
+Cigna,008 Cardiovascular Disease,RIO GRANDE,10
+Cigna,011 Dermatology,DOUGLAS,10
+Cigna,018 Nephrology,ADAMS,10
+Cigna,041 Cardiac Surgery Program,DOUGLAS,10
+Cigna,045 Surgical Services (Ambulatory Surgical Centers and Outpatient Hospital),JEFFERSON,10
+Cigna,101 Pediatrics - Routine/Primary Care,MORGAN,10
+Cigna,102 Licensed Clinical Social Workers,GARFIELD,10
+Cigna, 004 Geriatrics,ADAMS,9
+Cigna, 008 Cardiovascular Disease,ARAPAHOE,9
+Cigna, 026 Physical Medicine & Rehabilitation,ADAMS,9
+Cigna, 034 Vascular Surgery,DENVER,9
+Cigna,000 OTHER,LA PLATA,9
+Cigna,003 Internal Medicine,BROOMFIELD,9
+Cigna,006 Primary Care - Nurse Practitioner,BROOMFIELD,9
+Cigna,010 Chiropracty,BROOMFIELD,9
+Cigna,012 Endocrinology,DENVER,9
+Cigna,013 ENT/Otolaryngology,BOULDER,9
+Cigna,015 General Surgery,CHAFFEE,9
+Cigna,022 Radiation Oncology,BOULDER,9
+Cigna,022 Radiation Oncology,JEFFERSON,9
+Cigna,029 Psychiatry,DOUGLAS,9
+Cigna,029 Psychiatry,MESA,9
+Cigna,033 Urology,BOULDER,9
+Cigna,047 Diagnostic Radiology (free-standing; hospital outpatient; ambulatory health facilities with Dx Radiology),DENVER,9
+Cigna,102 Licensed Clinical Social Workers,ROUTT,9
+Cigna, 016 Gynecology (OB/GYN),DENVER,8
+Cigna, 034 Vascular Surgery,JEFFERSON,8
+Cigna, 035 Cardiothoracic Surgery,JEFFERSON,8
+Cigna, 101 Pediatrics - Routine/Primary Care,DOUGLAS,8
+Cigna,000 OTHER,KIT CARSON,8
+Cigna,000 OTHER,TELLER,8
+Cigna,005 Primary Care - Physician Assistant,EAGLE,8
+Cigna,005 Primary Care - Physician Assistant,PUEBLO,8
+Cigna,007 Allergy and Immunology,LARIMER,8
+Cigna,008 Cardiovascular Disease,KIT CARSON,8
+Cigna,008 Cardiovascular Disease,LA PLATA,8
+Cigna,015 General Surgery,EL PASO,8
+Cigna,023 Ophthalmology,ADAMS,8
+Cigna,023 Ophthalmology,MESA,8
+Cigna,041 Cardiac Surgery Program,DENVER,8
+Cigna,101 Pediatrics - Routine/Primary Care,EL PASO,8
+Cigna,102 Licensed Clinical Social Workers,CHAFFEE,8
+Cigna,102 Licensed Clinical Social Workers,EAGLE,8
+Cigna,103 Psychology,FREMONT,8
+Cigna,103 Psychology,MONTROSE,8
+Cigna, 003 Internal Medicine,ADAMS,7
+Cigna, 004 Geriatrics,ARAPAHOE,7
+Cigna, 017 Infectious Diseases,ARAPAHOE,7
+Cigna, 027 Plastic Surgery,DENVER,7
+Cigna, 034 Vascular Surgery,BOULDER,7
+Cigna,000 OTHER,CHEYENNE,7
+Cigna,000 OTHER,ELBERT,7
+Cigna,000 OTHER,LINCOLN,7
+Cigna,000 OTHER,PHILLIPS,7
+Cigna,000 OTHER,SEDGWICK,7
+Cigna,000 OTHER,WASHINGTON,7
+Cigna,003 Internal Medicine,MESA,7
+Cigna,007 Allergy and Immunology,WELD,7
+Cigna,017 Infectious Diseases,DOUGLAS,7
+Cigna,026 Physical Medicine & Rehabilitation,LARIMER,7
+Cigna,031 Rheumatology,BROOMFIELD,7
+Cigna,031 Rheumatology,JEFFERSON,7
+Cigna,041 Cardiac Surgery Program,ARAPAHOE,7
+Cigna,049 Physical Therapy (individual physical therapists providing care in Free-standing; hospital outpatient and ambulatory health care facilities),JEFFERSON,7
+Cigna,103 Psychology,LAKE,7
+Cigna,103 Psychology,MOFFAT,7
+Cigna,103 Psychology,ROUTT,7
+Cigna, 004 Geriatrics,BROOMFIELD,6
+Cigna, 007 Allergy and Immunology,JEFFERSON,6
+Cigna, 008 Cardiovascular Disease,DOUGLAS,6
+Cigna, 019 Neurology,BOULDER,6
+Cigna, 021 Medical Oncology & Surgical Oncology,ARAPAHOE,6
+Cigna, 022 Radiation Oncology,ADAMS,6
+Cigna, 026 Physical Medicine & Rehabilitation,JEFFERSON,6
+Cigna, 030 Pulmonology,YUMA,6
+Cigna, 057 Ambulatory Health Care Facilities - Infusion Therapy/Oncology/Radiology,DENVER,6
+Cigna, 101 Pediatrics - Routine/Primary Care,BOULDER,6
+Cigna, 103 Psychology,JEFFERSON,6
+Cigna,000 OTHER,MOFFAT,6
+Cigna,005 Primary Care - Physician Assistant,EL PASO,6
+Cigna,006 Primary Care - Nurse Practitioner,GARFIELD,6
+Cigna,012 Endocrinology,BOULDER,6
+Cigna,020 Neurological Surgery,DENVER,6
+Cigna,022 Radiation Oncology,ADAMS,6
+Cigna,027 Plastic Surgery,ARAPAHOE,6
+Cigna,030 Pulmonology,ADAMS,6
+Cigna,031 Rheumatology,LARIMER,6
+Cigna,035 Cardiothoracic Surgery,DENVER,6
+Cigna,102 Licensed Clinical Social Workers,FREMONT,6
+Cigna,103 Psychology,DELTA,6
+Cigna,103 Psychology,PARK,6
+Cigna,103 Psychology,SUMMIT,6
+Cigna, 003 Internal Medicine,BROOMFIELD,5
+Cigna, 004 Geriatrics,DOUGLAS,5
+Cigna, 014 Gastroenterology,ADAMS,5
+Cigna, 014 Gastroenterology,DENVER,5
+Cigna, 019 Neurology,JEFFERSON,5
+Cigna, 035 Cardiothoracic Surgery,DENVER,5
+Cigna,000 OTHER,MONTEZUMA,5
+Cigna,000 OTHER,MONTROSE,5
+Cigna,001 General Practice,JEFFERSON,5
+Cigna,002 Family Medicine,ALAMOSA,5
+Cigna,003 Internal Medicine,PUEBLO,5
+Cigna,006 Primary Care - Nurse Practitioner,KIT CARSON,5
+Cigna,006 Primary Care - Nurse Practitioner,PUEBLO,5
+Cigna,012 Endocrinology,JEFFERSON,5
+Cigna,016 Gynecology (OB/GYN),BROOMFIELD,5
+Cigna,016 Gynecology (OB/GYN),WELD,5
+Cigna,017 Infectious Diseases,JEFFERSON,5
+Cigna,018 Nephrology,DOUGLAS,5
+Cigna,019 Neurology,PITKIN,5
+Cigna,021 Medical Oncology & Surgical Oncology,WELD,5
+Cigna,022 Radiation Oncology,DOUGLAS,5
+Cigna,031 Rheumatology,ARAPAHOE,5
+Cigna,034 Vascular Surgery,MESA,5
+Cigna,049 Physical Therapy (individual physical therapists providing care in Free-standing; hospital outpatient and ambulatory health care facilities),DENVER,5
+Cigna,101 Pediatrics - Routine/Primary Care,BROOMFIELD,5
+Cigna,102 Licensed Clinical Social Workers,ELBERT,5
+Cigna,102 Licensed Clinical Social Workers,LINCOLN,5
+Cigna,103 Psychology,ARCHULETA,5
+Cigna, 003 Internal Medicine,EL PASO,4
+Cigna, 007 Allergy and Immunology,BOULDER,4
+Cigna, 008 Cardiovascular Disease,MESA,4
+Cigna, 011 Dermatology,JEFFERSON,4
+Cigna, 015 General Surgery,JEFFERSON,4
+Cigna, 017 Infectious Diseases,DENVER,4
+Cigna, 025 Orthopedic Surgery,ARAPAHOE,4
+Cigna, 029 Psychiatry,BOULDER,4
+Cigna, 031 Rheumatology,DENVER,4
+Cigna, 057 Ambulatory Health Care Facilities - Infusion Therapy/Oncology/Radiology,DOUGLAS,4
+Cigna, 101 Pediatrics - Routine/Primary Care,MORGAN,4
+Cigna,000 OTHER,LAS ANIMAS,4
+Cigna,000 OTHER,ROUTT,4
+Cigna,002 Family Medicine,PUEBLO,4
+Cigna,002 Family Medicine,WELD,4
+Cigna,004 Geriatrics,DENVER,4
+Cigna,004 Geriatrics,JEFFERSON,4
+Cigna,005 Primary Care - Physician Assistant,GARFIELD,4
+Cigna,005 Primary Care - Physician Assistant,KIT CARSON,4
+Cigna,011 Dermatology,JEFFERSON,4
+Cigna,016 Gynecology (OB/GYN),LA PLATA,4
+Cigna,016 Gynecology (OB/GYN),MORGAN,4
+Cigna,019 Neurology,ADAMS,4
+Cigna,020 Neurological Surgery,DOUGLAS,4
+Cigna,021 Medical Oncology & Surgical Oncology,LARIMER,4
+Cigna,022 Radiation Oncology,EL PASO,4
+Cigna,025 Orthopedic Surgery,EL PASO,4
+Cigna,025 Orthopedic Surgery,WELD,4
+Cigna,033 Urology,ADAMS,4
+Cigna,041 Cardiac Surgery Program,ADAMS,4
+Cigna,045 Surgical Services (Ambulatory Surgical Centers and Outpatient Hospital),ADAMS,4
+Cigna,047 Diagnostic Radiology (free-standing; hospital outpatient; ambulatory health facilities with Dx Radiology),ARAPAHOE,4
+Cigna,049 Physical Therapy (individual physical therapists providing care in Free-standing; hospital outpatient and ambulatory health care facilities),ADAMS,4
+Cigna,102 Licensed Clinical Social Workers,GRAND,4
+Cigna,102 Licensed Clinical Social Workers,MONTEZUMA,4
+Cigna,102 Licensed Clinical Social Workers,MORGAN,4
+Cigna,103 Psychology,GRAND,4
+Cigna,103 Psychology,MONTEZUMA,4
+Cigna,103 Psychology,PITKIN,4
+Cigna, 001 General Practice,ARAPAHOE,3
+Cigna, 002 Family Medicine,ARAPAHOE,3
+Cigna, 002 Family Medicine,DENVER,3
+Cigna, 002 Family Medicine,EL PASO,3
+Cigna, 002 Family Medicine,JEFFERSON,3
+Cigna, 006 Primary Care - Nurse Practitioner,ARAPAHOE,3
+Cigna, 006 Primary Care - Nurse Practitioner,DENVER,3
+Cigna, 011 Dermatology,DENVER,3
+Cigna, 012 Endocrinology,ARAPAHOE,3
+Cigna, 012 Endocrinology,DENVER,3
+Cigna, 014 Gastroenterology,BROOMFIELD,3
+Cigna, 014 Gastroenterology,DOUGLAS,3
+Cigna, 016 Gynecology (OB/GYN),EL PASO,3
+Cigna, 017 Infectious Diseases,DOUGLAS,3
+Cigna, 017 Infectious Diseases,JEFFERSON,3
+Cigna, 018 Nephrology,ARAPAHOE,3
+Cigna, 018 Nephrology,DOUGLAS,3
+Cigna, 018 Nephrology,JEFFERSON,3
+Cigna, 019 Neurology,ARAPAHOE,3
+Cigna, 019 Neurology,DENVER,3
+Cigna, 019 Neurology,EL PASO,3
+Cigna, 021 Medical Oncology & Surgical Oncology,CHAFFEE,3
+Cigna, 021 Medical Oncology & Surgical Oncology,ROUTT,3
+Cigna, 022 Radiation Oncology,ARAPAHOE,3
+Cigna, 022 Radiation Oncology,EAGLE,3
+Cigna, 034 Vascular Surgery,DOUGLAS,3
+Cigna, 035 Cardiothoracic Surgery,ADAMS,3
+Cigna, 041 Cardiac Surgery Program,DENVER,3
+Cigna, 057 Ambulatory Health Care Facilities - Infusion Therapy/Oncology/Radiology,ARAPAHOE,3
+Cigna, 103 Psychology,MESA,3
+Cigna,002 Family Medicine,LARIMER,3
+Cigna,002 Family Medicine,MESA,3
+Cigna,003 Internal Medicine,ROUTT,3
+Cigna,005 Primary Care - Physician Assistant,LARIMER,3
+Cigna,005 Primary Care - Physician Assistant,MESA,3
+Cigna,005 Primary Care - Physician Assistant,WELD,3
+Cigna,008 Cardiovascular Disease,SUMMIT,3
+Cigna,010 Chiropracty,EL PASO,3
+Cigna,012 Endocrinology,ADAMS,3
+Cigna,016 Gynecology (OB/GYN),ALAMOSA,3
+Cigna,016 Gynecology (OB/GYN),CHAFFEE,3
+Cigna,016 Gynecology (OB/GYN),GARFIELD,3
+Cigna,016 Gynecology (OB/GYN),OTERO,3
+Cigna,019 Neurology,LA PLATA,3
+Cigna,020 Neurological Surgery,ARAPAHOE,3
+Cigna,020 Neurological Surgery,CHAFFEE,3
+Cigna,020 Neurological Surgery,EL PASO,3
+Cigna,023 Ophthalmology,EL PASO,3
+Cigna,026 Physical Medicine & Rehabilitation,EL PASO,3
+Cigna,027 Plastic Surgery,DOUGLAS,3
+Cigna,028 Podiatry,BROOMFIELD,3
+Cigna,028 Podiatry,GRAND,3
+Cigna,029 Psychiatry,GARFIELD,3
+Cigna,029 Psychiatry,MORGAN,3
+Cigna,029 Psychiatry,SUMMIT,3
+Cigna,029 Psychiatry,YUMA,3
+Cigna,030 Pulmonology,JEFFERSON,3
+Cigna,035 Cardiothoracic Surgery,ARAPAHOE,3
+Cigna,041 Cardiac Surgery Program,JEFFERSON,3
+Cigna,045 Surgical Services (Ambulatory Surgical Centers and Outpatient Hospital),BROOMFIELD,3
+Cigna,049 Physical Therapy (individual physical therapists providing care in Free-standing; hospital outpatient and ambulatory health care facilities),LARIMER,3
+Cigna,050 Occupational Therapist,ARAPAHOE,3
+Cigna,050 Occupational Therapist,DENVER,3
+Cigna,057 Ambulatory Health Care Facilities - Infusion Therapy/Oncology/Radiology,ARAPAHOE,3
+Cigna,057 Ambulatory Health Care Facilities - Infusion Therapy/Oncology/Radiology,JEFFERSON,3
+Cigna,101 Pediatrics - Routine/Primary Care,EAGLE,3
+Cigna,102 Licensed Clinical Social Workers,MONTROSE,3
+Cigna,102 Licensed Clinical Social Workers,PARK,3
+Cigna,102 Licensed Clinical Social Workers,RIO BLANCO,3
+Cigna,102 Licensed Clinical Social Workers,TELLER,3
+Cigna,103 Psychology,ALAMOSA,3
+Cigna,103 Psychology,OTERO,3
+Cigna, 002 Family Medicine,ADAMS,2
+Cigna, 002 Family Medicine,BOULDER,2
+Cigna, 003 Internal Medicine,PUEBLO,2
+Cigna, 004 Geriatrics,BOULDER,2
+Cigna, 007 Allergy and Immunology,ADAMS,2
+Cigna, 007 Allergy and Immunology,ARAPAHOE,2
+Cigna, 008 Cardiovascular Disease,GARFIELD,2
+Cigna, 010 Chiropracty,DENVER,2
+Cigna, 010 Chiropracty,JEFFERSON,2
+Cigna, 011 Dermatology,ARAPAHOE,2
+Cigna, 012 Endocrinology,ADAMS,2
+Cigna, 014 Gastroenterology,BOULDER,2
+Cigna, 015 General Surgery,BOULDER,2
+Cigna, 015 General Surgery,GARFIELD,2
+Cigna, 016 Gynecology (OB/GYN),ARAPAHOE,2
+Cigna, 017 Infectious Diseases,BOULDER,2
+Cigna, 019 Neurology,BROOMFIELD,2
+Cigna, 019 Neurology,DOUGLAS,2
+Cigna, 021 Medical Oncology & Surgical Oncology,DOUGLAS,2
+Cigna, 022 Radiation Oncology,BOULDER,2
+Cigna, 025 Orthopedic Surgery,BOULDER,2
+Cigna, 025 Orthopedic Surgery,BROOMFIELD,2
+Cigna, 025 Orthopedic Surgery,DOUGLAS,2
+Cigna, 026 Physical Medicine & Rehabilitation,BROOMFIELD,2
+Cigna, 026 Physical Medicine & Rehabilitation,DOUGLAS,2
+Cigna, 027 Plastic Surgery,BOULDER,2
+Cigna, 027 Plastic Surgery,BROOMFIELD,2
+Cigna, 027 Plastic Surgery,JEFFERSON,2
+Cigna, 029 Psychiatry,GARFIELD,2
+Cigna, 030 Pulmonology,EL PASO,2
+Cigna, 031 Rheumatology,DOUGLAS,2
+Cigna, 033 Urology,JEFFERSON,2
+Cigna, 035 Cardiothoracic Surgery,ARAPAHOE,2
+Cigna, 035 Cardiothoracic Surgery,BOULDER,2
+Cigna, 035 Cardiothoracic Surgery,EL PASO,2
+Cigna, 045 Surgical Services (Ambulatory Surgical Centers and Outpatient Hospital),ARAPAHOE,2
+Cigna, 045 Surgical Services (Ambulatory Surgical Centers and Outpatient Hospital),DENVER,2
+Cigna, 049 Physical Therapy (individual physical therapists providing care in Free-standing; hospital outpatient and ambulatory health care facilities),ARAPAHOE,2
+Cigna, 049 Physical Therapy (individual physical therapists providing care in Free-standing; hospital outpatient and ambulatory health care facilities),DOUGLAS,2
+Cigna, 057 Ambulatory Health Care Facilities - Infusion Therapy/Oncology/Radiology,EL PASO,2
+Cigna, 101 Pediatrics - Routine/Primary Care,EL PASO,2
+Cigna, 101 Pediatrics - Routine/Primary Care,JEFFERSON,2
+Cigna, 101 Pediatrics - Routine/Primary Care,LAS ANIMAS,2
+Cigna, 103 Psychology,BOULDER,2
+Cigna,000 OTHER,ALAMOSA,2
+Cigna,000 OTHER,CHAFFEE,2
+Cigna,000 OTHER,OTERO,2
+Cigna,000 OTHER,PARK,2
+Cigna,000 OTHER,PITKIN,2
+Cigna,001 General Practice,DENVER,2
+Cigna,002 Family Medicine,LA PLATA,2
+Cigna,003 Internal Medicine,EAGLE,2
+Cigna,003 Internal Medicine,GARFIELD,2
+Cigna,003 Internal Medicine,LARIMER,2
+Cigna,003 Internal Medicine,LAS ANIMAS,2
+Cigna,003 Internal Medicine,WELD,2
+Cigna,004 Geriatrics,ADAMS,2
+Cigna,005 Primary Care - Physician Assistant,MORGAN,2
+Cigna,005 Primary Care - Physician Assistant,YUMA,2
+Cigna,006 Primary Care - Nurse Practitioner,LARIMER,2
+Cigna,008 Cardiovascular Disease,MORGAN,2
+Cigna,012 Endocrinology,EAGLE,2
+Cigna,013 ENT/Otolaryngology,WELD,2
+Cigna,014 Gastroenterology,LARIMER,2
+Cigna,014 Gastroenterology,MESA,2
+Cigna,015 General Surgery,BROOMFIELD,2
+Cigna,015 General Surgery,LOGAN,2
+Cigna,016 Gynecology (OB/GYN),MESA,2
+Cigna,016 Gynecology (OB/GYN),MONTEZUMA,2
+Cigna,016 Gynecology (OB/GYN),PROWERS,2
+Cigna,016 Gynecology (OB/GYN),PUEBLO,2
+Cigna,019 Neurology,BROOMFIELD,2
+Cigna,020 Neurological Surgery,BOULDER,2
+Cigna,021 Medical Oncology & Surgical Oncology,EAGLE,2
+Cigna,021 Medical Oncology & Surgical Oncology,LOGAN,2
+Cigna,021 Medical Oncology & Surgical Oncology,ROUTT,2
+Cigna,023 Ophthalmology,BROOMFIELD,2
+Cigna,025 Orthopedic Surgery,EAGLE,2
+Cigna,025 Orthopedic Surgery,YUMA,2
+Cigna,029 Psychiatry,EAGLE,2
+Cigna,029 Psychiatry,GRAND,2
+Cigna,029 Psychiatry,ROUTT,2
+Cigna,030 Pulmonology,DOUGLAS,2
+Cigna,033 Urology,BROOMFIELD,2
+Cigna,035 Cardiothoracic Surgery,ADAMS,2
+Cigna,035 Cardiothoracic Surgery,BOULDER,2
+Cigna,041 Cardiac Surgery Program,CONEJOS,2
+Cigna,041 Cardiac Surgery Program,EAGLE,2
+Cigna,045 Surgical Services (Ambulatory Surgical Centers and Outpatient Hospital),PITKIN,2
+Cigna,047 Diagnostic Radiology (free-standing; hospital outpatient; ambulatory health facilities with Dx Radiology),BOULDER,2
+Cigna,047 Diagnostic Radiology (free-standing; hospital outpatient; ambulatory health facilities with Dx Radiology),JEFFERSON,2
+Cigna,049 Physical Therapy (individual physical therapists providing care in Free-standing; hospital outpatient and ambulatory health care facilities),DOUGLAS,2
+Cigna,057 Ambulatory Health Care Facilities - Infusion Therapy/Oncology/Radiology,ADAMS,2
+Cigna,057 Ambulatory Health Care Facilities - Infusion Therapy/Oncology/Radiology,BOULDER,2
+Cigna,102 Licensed Clinical Social Workers,ARCHULETA,2
+Cigna,102 Licensed Clinical Social Workers,LAKE,2
+Cigna,102 Licensed Clinical Social Workers,LAS ANIMAS,2
+Cigna,102 Licensed Clinical Social Workers,LOGAN,2
+Cigna,102 Licensed Clinical Social Workers,OURAY,2
+Cigna,102 Licensed Clinical Social Workers,PITKIN,2
+Cigna,102 Licensed Clinical Social Workers,SEDGWICK,2
+Cigna,102 Licensed Clinical Social Workers,SUMMIT,2
+Cigna,102 Licensed Clinical Social Workers,WASHINGTON,2
+Cigna,102 Licensed Clinical Social Workers,YUMA,2
+Cigna,103 Psychology,CLEAR CREEK,2
+Cigna,103 Psychology,CONEJOS,2
+Cigna,103 Psychology,PROWERS,2
+Cigna, 001 General Practice,ADAMS,1
+Cigna, 001 General Practice,JEFFERSON,1
+Cigna, 002 Family Medicine,BROOMFIELD,1
+Cigna, 002 Family Medicine,DOUGLAS,1
+Cigna, 002 Family Medicine,LARIMER,1
+Cigna, 002 Family Medicine,TELLER,1
+Cigna, 002 Family Medicine,WELD,1
+Cigna, 003 Internal Medicine,LARIMER,1
+Cigna, 003 Internal Medicine,PROWERS,1
+Cigna, 003 Internal Medicine,WELD,1
+Cigna, 003 Internal Medicine,YUMA,1
+Cigna, 005 Primary Care - Physician Assistant,DENVER,1
+Cigna, 005 Primary Care - Physician Assistant,JEFFERSON,1
+Cigna, 006 Primary Care - Nurse Practitioner,JEFFERSON,1
+Cigna, 007 Allergy and Immunology,DENVER,1
+Cigna, 008 Cardiovascular Disease,BACA,1
+Cigna, 008 Cardiovascular Disease,EAGLE,1
+Cigna, 008 Cardiovascular Disease,LA PLATA,1
+Cigna, 008 Cardiovascular Disease,RIO GRANDE,1
+Cigna, 010 Chiropracty,ADAMS,1
+Cigna, 010 Chiropracty,ARAPAHOE,1
+Cigna, 011 Dermatology,ADAMS,1
+Cigna, 011 Dermatology,LARIMER,1
+Cigna, 011 Dermatology,WELD,1
+Cigna, 012 Endocrinology,BOULDER,1
+Cigna, 012 Endocrinology,DOUGLAS,1
+Cigna, 012 Endocrinology,JEFFERSON,1
+Cigna, 013 ENT/Otolaryngology,DENVER,1
+Cigna, 013 ENT/Otolaryngology,DOUGLAS,1
+Cigna, 015 General Surgery,ADAMS,1
+Cigna, 015 General Surgery,CHAFFEE,1
+Cigna, 015 General Surgery,DELTA,1
+Cigna, 015 General Surgery,DENVER,1
+Cigna, 016 Gynecology (OB/GYN),ADAMS,1
+Cigna, 016 Gynecology (OB/GYN),BOULDER,1
+Cigna, 017 Infectious Diseases,ADAMS,1
+Cigna, 018 Nephrology,BOULDER,1
+Cigna, 019 Neurology,ADAMS,1
+Cigna, 021 Medical Oncology & Surgical Oncology,ADAMS,1
+Cigna, 021 Medical Oncology & Surgical Oncology,CUSTER,1
+Cigna, 021 Medical Oncology & Surgical Oncology,DELTA,1
+Cigna, 021 Medical Oncology & Surgical Oncology,EAGLE,1
+Cigna, 021 Medical Oncology & Surgical Oncology,LAKE,1
+Cigna, 021 Medical Oncology & Surgical Oncology,LARIMER,1
+Cigna, 021 Medical Oncology & Surgical Oncology,MONTEZUMA,1
+Cigna, 022 Radiation Oncology,DOUGLAS,1
+Cigna, 022 Radiation Oncology,JEFFERSON,1
+Cigna, 022 Radiation Oncology,LARIMER,1
+Cigna, 022 Radiation Oncology,LOGAN,1
+Cigna, 022 Radiation Oncology,WELD,1
+Cigna, 025 Orthopedic Surgery,ADAMS,1
+Cigna, 025 Orthopedic Surgery,JEFFERSON,1
+Cigna, 026 Physical Medicine & Rehabilitation,ALAMOSA,1
+Cigna, 026 Physical Medicine & Rehabilitation,BOULDER,1
+Cigna, 026 Physical Medicine & Rehabilitation,CONEJOS,1
+Cigna, 027 Plastic Surgery,ADAMS,1
+Cigna, 027 Plastic Surgery,ARAPAHOE,1
+Cigna, 027 Plastic Surgery,DOUGLAS,1
+Cigna, 029 Psychiatry,ADAMS,1
+Cigna, 030 Pulmonology,BROOMFIELD,1
+Cigna, 030 Pulmonology,MESA,1
+Cigna, 030 Pulmonology,WELD,1
+Cigna, 034 Vascular Surgery,CHAFFEE,1
+Cigna, 035 Cardiothoracic Surgery,CHAFFEE,1
+Cigna, 035 Cardiothoracic Surgery,EAGLE,1
+Cigna, 035 Cardiothoracic Surgery,MESA,1
+Cigna, 041 Cardiac Surgery Program,ADAMS,1
+Cigna, 043 Critical Care Services - Intensive Care Units (ICU),ADAMS,1
+Cigna, 045 Surgical Services (Ambulatory Surgical Centers and Outpatient Hospital),EAGLE,1
+Cigna, 045 Surgical Services (Ambulatory Surgical Centers and Outpatient Hospital),JEFFERSON,1
+Cigna, 049 Physical Therapy (individual physical therapists providing care in Free-standing; hospital outpatient and ambulatory health care facilities),EL PASO,1
+Cigna, 049 Physical Therapy (individual physical therapists providing care in Free-standing; hospital outpatient and ambulatory health care facilities),JEFFERSON,1
+Cigna, 101 Pediatrics - Routine/Primary Care,LARIMER,1
+Cigna, 101 Pediatrics - Routine/Primary Care,WELD,1
+Cigna, 102 Licensed Clinical Social Workers,DENVER,1
+Cigna, 102 Licensed Clinical Social Workers,LA PLATA,1
+Cigna, 103 Psychology,DENVER,1
+Cigna, 103 Psychology,PUEBLO,1
+Cigna,000 OTHER,DELTA,1
+Cigna,000 OTHER,GRAND,1
+Cigna,000 OTHER,RIO BLANCO,1
+Cigna,002 Family Medicine,CHEYENNE,1
+Cigna,002 Family Medicine,CONEJOS,1
+Cigna,002 Family Medicine,ELBERT,1
+Cigna,002 Family Medicine,GARFIELD,1
+Cigna,002 Family Medicine,LINCOLN,1
+Cigna,002 Family Medicine,MONTEZUMA,1
+Cigna,002 Family Medicine,MORGAN,1
+Cigna,002 Family Medicine,OTERO,1
+Cigna,002 Family Medicine,TELLER,1
+Cigna,002 Family Medicine,YUMA,1
+Cigna,003 Internal Medicine,BACA,1
+Cigna,003 Internal Medicine,DELTA,1
+Cigna,003 Internal Medicine,LA PLATA,1
+Cigna,003 Internal Medicine,RIO GRANDE,1
+Cigna,003 Internal Medicine,YUMA,1
+Cigna,004 Geriatrics,ARAPAHOE,1
+Cigna,004 Geriatrics,BROOMFIELD,1
+Cigna,005 Primary Care - Physician Assistant,CONEJOS,1
+Cigna,005 Primary Care - Physician Assistant,PHILLIPS,1
+Cigna,006 Primary Care - Nurse Practitioner,CHAFFEE,1
+Cigna,006 Primary Care - Nurse Practitioner,TELLER,1
+Cigna,006 Primary Care - Nurse Practitioner,WELD,1
+Cigna,007 Allergy and Immunology,LOGAN,1
+Cigna,008 Cardiovascular Disease,CONEJOS,1
+Cigna,008 Cardiovascular Disease,LARIMER,1
+Cigna,008 Cardiovascular Disease,MESA,1
+Cigna,008 Cardiovascular Disease,TELLER,1
+Cigna,010 Chiropracty,GRAND,1
+Cigna,010 Chiropracty,WELD,1
+Cigna,011 Dermatology,ADAMS,1
+Cigna,011 Dermatology,BROOMFIELD,1
+Cigna,011 Dermatology,CHAFFEE,1
+Cigna,011 Dermatology,MONTROSE,1
+Cigna,013 ENT/Otolaryngology,EL PASO,1
+Cigna,014 Gastroenterology,EL PASO,1
+Cigna,015 General Surgery,ALAMOSA,1
+Cigna,015 General Surgery,CONEJOS,1
+Cigna,015 General Surgery,EAGLE,1
+Cigna,015 General Surgery,GRAND,1
+Cigna,015 General Surgery,KIT CARSON,1
+Cigna,015 General Surgery,LARIMER,1
+Cigna,015 General Surgery,LINCOLN,1
+Cigna,015 General Surgery,PITKIN,1
+Cigna,015 General Surgery,ROUTT,1
+Cigna,015 General Surgery,WELD,1
+Cigna,015 General Surgery,YUMA,1
+Cigna,016 Gynecology (OB/GYN),LOGAN,1
+Cigna,016 Gynecology (OB/GYN),SUMMIT,1
+Cigna,016 Gynecology (OB/GYN),YUMA,1
+Cigna,017 Infectious Diseases,BROOMFIELD,1
+Cigna,017 Infectious Diseases,EAGLE,1
+Cigna,018 Nephrology,EL PASO,1
+Cigna,019 Neurology,ARCHULETA,1
+Cigna,019 Neurology,EAGLE,1
+Cigna,019 Neurology,EL PASO,1
+Cigna,019 Neurology,GARFIELD,1
+Cigna,019 Neurology,MOFFAT,1
+Cigna,019 Neurology,SUMMIT,1
+Cigna,020 Neurological Surgery,ADAMS,1
+Cigna,020 Neurological Surgery,CUSTER,1
+Cigna,020 Neurological Surgery,LAKE,1
+Cigna,020 Neurological Surgery,LARIMER,1
+Cigna,021 Medical Oncology & Surgical Oncology,EL PASO,1
+Cigna,021 Medical Oncology & Surgical Oncology,LA PLATA,1
+Cigna,021 Medical Oncology & Surgical Oncology,MESA,1
+Cigna,021 Medical Oncology & Surgical Oncology,MORGAN,1
+Cigna,022 Radiation Oncology,LARIMER,1
+Cigna,022 Radiation Oncology,WELD,1
+Cigna,023 Ophthalmology,EAGLE,1
+Cigna,023 Ophthalmology,GARFIELD,1
+Cigna,025 Orthopedic Surgery,ALAMOSA,1
+Cigna,025 Orthopedic Surgery,CONEJOS,1
+Cigna,025 Orthopedic Surgery,FREMONT,1
+Cigna,025 Orthopedic Surgery,KIT CARSON,1
+Cigna,025 Orthopedic Surgery,SUMMIT,1
+Cigna,026 Physical Medicine & Rehabilitation,LA PLATA,1
+Cigna,027 Plastic Surgery,ADAMS,1
+Cigna,027 Plastic Surgery,JEFFERSON,1
+Cigna,028 Podiatry,MESA,1
+Cigna,029 Psychiatry,ARCHULETA,1
+Cigna,029 Psychiatry,CHEYENNE,1
+Cigna,029 Psychiatry,ELBERT,1
+Cigna,029 Psychiatry,FREMONT,1
+Cigna,029 Psychiatry,KIT CARSON,1
+Cigna,029 Psychiatry,LAKE,1
+Cigna,029 Psychiatry,LINCOLN,1
+Cigna,029 Psychiatry,LOGAN,1
+Cigna,029 Psychiatry,MOFFAT,1
+Cigna,029 Psychiatry,OTERO,1
+Cigna,029 Psychiatry,PHILLIPS,1
+Cigna,029 Psychiatry,PROWERS,1
+Cigna,029 Psychiatry,SEDGWICK,1
+Cigna,029 Psychiatry,WASHINGTON,1
+Cigna,030 Pulmonology,MESA,1
+Cigna,030 Pulmonology,PITKIN,1
+Cigna,033 Urology,JEFFERSON,1
+Cigna,033 Urology,LARIMER,1
+Cigna,033 Urology,WELD,1
+Cigna,035 Cardiothoracic Surgery,EL PASO,1
+Cigna,035 Cardiothoracic Surgery,JEFFERSON,1
+Cigna,041 Cardiac Surgery Program,BACA,1
+Cigna,041 Cardiac Surgery Program,KIT CARSON,1
+Cigna,041 Cardiac Surgery Program,LINCOLN,1
+Cigna,041 Cardiac Surgery Program,RIO GRANDE,1
+Cigna,041 Cardiac Surgery Program,SUMMIT,1
+Cigna,045 Surgical Services (Ambulatory Surgical Centers and Outpatient Hospital),CHAFFEE,1
+Cigna,045 Surgical Services (Ambulatory Surgical Centers and Outpatient Hospital),EL PASO,1
+Cigna,045 Surgical Services (Ambulatory Surgical Centers and Outpatient Hospital),LARIMER,1
+Cigna,047 Diagnostic Radiology (free-standing; hospital outpatient; ambulatory health facilities with Dx Radiology),BROOMFIELD,1
+Cigna,047 Diagnostic Radiology (free-standing; hospital outpatient; ambulatory health facilities with Dx Radiology),DOUGLAS,1
+Cigna,049 Physical Therapy (individual physical therapists providing care in Free-standing; hospital outpatient and ambulatory health care facilities),BROOMFIELD,1
+Cigna,049 Physical Therapy (individual physical therapists providing care in Free-standing; hospital outpatient and ambulatory health care facilities),EL PASO,1
+Cigna,050 Occupational Therapist,ADAMS,1
+Cigna,051 Speech Therapy,BOULDER,1
+Cigna,051 Speech Therapy,DENVER,1
+Cigna,051 Speech Therapy,JEFFERSON,1
+Cigna,057 Ambulatory Health Care Facilities - Infusion Therapy/Oncology/Radiology,DOUGLAS,1
+Cigna,101 Pediatrics - Routine/Primary Care,RIO BLANCO,1
+Cigna,101 Pediatrics - Routine/Primary Care,SUMMIT,1
+Cigna,101 Pediatrics - Routine/Primary Care,WELD,1
+Cigna,102 Licensed Clinical Social Workers,BROOMFIELD,1
+Cigna,102 Licensed Clinical Social Workers,CHEYENNE,1
+Cigna,102 Licensed Clinical Social Workers,CUSTER,1
+Cigna,102 Licensed Clinical Social Workers,GILPIN,1
+Cigna,102 Licensed Clinical Social Workers,HUERFANO,1
+Cigna,102 Licensed Clinical Social Workers,KIT CARSON,1
+Cigna,102 Licensed Clinical Social Workers,PHILLIPS,1
+Cigna,102 Licensed Clinical Social Workers,PROWERS,1
+Cigna,102 Licensed Clinical Social Workers,SAN MIGUEL,1
+Cigna,103 Psychology,GILPIN,1
+Cigna,103 Psychology,GUNNISON,1
+Cigna,103 Psychology,JACKSON,1
+Cigna,103 Psychology,RIO GRANDE,1
+Cigna,103 Psychology,SAN MIGUEL,1
+Denver Health,102 Licensed Clinical Social Workers,Denver,96
+Denver Health,003 Internal Medicine,Denver,42
+Denver Health,002 Family Medicine,Denver,39
+Denver Health,029 Psychiatry,Denver,38
+Denver Health,103 Psychology,Denver,30
+Denver Health,005 Primary Care - Physician Assistant,Denver,28
+Denver Health,101 Pediatrics - Routine/Primary Care,Denver,25
+Denver Health,016 Gynecology (OB/GYN),Denver,24
+Denver Health,006 Primary Care - Nurse Practitioner,Denver,23
+Denver Health,015 General Surgery,Denver,22
+Denver Health,000 OTHER,Denver,14
+Denver Health,020 Neurological Surgery,Denver,14
+Denver Health,017 Infectious Diseases,Denver,11
+Denver Health,025 Orthopedic Surgery,Denver,11
+Denver Health,008 Cardiovascular Disease,Denver,8
+Denver Health,014 Gastroenterology,Denver,7
+Denver Health,018 Nephrology,Denver,7
+Denver Health,019 Neurology,Denver,7
+Denver Health,030 Pulmonology,Denver,7
+Denver Health,021 Medical Oncology & Surgical Oncology,Denver,6
+Denver Health,033 Urology,Denver,6
+Denver Health,011 Dermatology,Denver,4
+Denver Health,026 Physical Medicine & Rehabilitation,Denver,4
+Denver Health,031 Rheumatology,Denver,4
+Denver Health,012 Endocrinology,Denver,3
+Denver Health,013 ENT/Otolaryngology,Denver,3
+Denver Health,027 Plastic Surgery,Denver,3
+Denver Health,028 Podiatry,Denver,3
+Denver Health,023 Ophthalmology,Denver,2
+Denver Health,034 Vascular Surgery,Denver,2
+Denver Health,006 Primary Care - Nurse Practitioner,Grand,1
+Denver Health,010 Chiropracty,Denver,1
+Denver Health,015 General Surgery,Boulder,1
+Denver Health,016 Gynecology (OB/GYN),Adams,1
+Denver Health,019 Neurology,Adams,1
+Denver Health,020 Neurological Surgery,Adams,1
+Kaiser,000 OTHER,Jefferson,5852
+Kaiser,000 OTHER,Arapahoe,2405
+Kaiser,000 OTHER,Denver,2385
+Kaiser,000 OTHER,Adams,1995
+Kaiser,000 OTHER,El Paso,1353
+Kaiser,000 OTHER,Boulder,990
+Kaiser,000 OTHER,Larimer,783
+Kaiser,000 OTHER,Douglas,758
+Kaiser,000 OTHER,Pueblo,417
+Kaiser,000 OTHER,Weld,390
+Kaiser, 101 Pediatrics - Routine/Primary Care,El Paso,365
+Kaiser,000 OTHER,Clear Creek,363
+Kaiser,029 Psychiatry,Jefferson,326
+Kaiser,002 Family Medicine,El Paso,294
+Kaiser, 101 Pediatrics - Routine/Primary Care,Adams,203
+Kaiser,029 Psychiatry,Arapahoe,195
+Kaiser,000 OTHER,Broomfield,194
+Kaiser, 101 Pediatrics - Routine/Primary Care,Denver,185
+Kaiser,003 Internal Medicine,Adams,167
+Kaiser, 101 Pediatrics - Routine/Primary Care,Pueblo,164
+Kaiser,025 Orthopedic Surgery,El Paso,162
+Kaiser, 101 Pediatrics - Routine/Primary Care,Jefferson,140
+Kaiser,025 Orthopedic Surgery,Larimer,140
+Kaiser,102 Licensed Clinical Social Workers,El Paso,121
+Kaiser,003 Internal Medicine,Denver,119
+Kaiser,002 Family Medicine,Pueblo,107
+Kaiser,021 Medical Oncology & Surgical Oncology,Adams,107
+Kaiser,019 Neurology,Adams,101
+Kaiser, 101 Pediatrics - Routine/Primary Care,Arapahoe,100
+Kaiser, 101 Pediatrics - Routine/Primary Care,Larimer,97
+Kaiser,016 Gynecology (OB/GYN),El Paso,92
+Kaiser,014 Gastroenterology,El Paso,87
+Kaiser,030 Pulmonology,Adams,87
+Kaiser,012 Endocrinology,Adams,86
+Kaiser,016 Gynecology (OB/GYN),Adams,85
+Kaiser,008 Cardiovascular Disease,Denver,84
+Kaiser,008 Cardiovascular Disease,El Paso,84
+Kaiser,016 Gynecology (OB/GYN),Denver,83
+Kaiser,025 Orthopedic Surgery,Denver,83
+Kaiser,029 Psychiatry,Denver,82
+Kaiser,021 Medical Oncology & Surgical Oncology,Denver,80
+Kaiser,002 Family Medicine,Larimer,79
+Kaiser,103 Psychology,El Paso,78
+Kaiser,029 Psychiatry,Adams,76
+Kaiser,029 Psychiatry,El Paso,74
+Kaiser,003 Internal Medicine,Jefferson,72
+Kaiser,000 OTHER,Eagle,71
+Kaiser,003 Internal Medicine,El Paso,71
+Kaiser,008 Cardiovascular Disease,Adams,69
+Kaiser,026 Physical Medicine & Rehabilitation,El Paso,69
+Kaiser, 101 Pediatrics - Routine/Primary Care,Boulder,68
+Kaiser,002 Family Medicine,Jefferson,68
+Kaiser,002 Family Medicine,Denver,66
+Kaiser,003 Internal Medicine,Arapahoe,66
+Kaiser,014 Gastroenterology,Adams,63
+Kaiser,018 Nephrology,Adams,62
+Kaiser, 101 Pediatrics - Routine/Primary Care,Eagle,60
+Kaiser,029 Psychiatry,Boulder,60
+Kaiser,023 Ophthalmology,Adams,59
+Kaiser,003 Internal Medicine,Pueblo,57
+Kaiser,008 Cardiovascular Disease,Arapahoe,57
+Kaiser,029 Psychiatry,Douglas,57
+Kaiser,015 General Surgery,Adams,53
+Kaiser,015 General Surgery,Denver,53
+Kaiser,002 Family Medicine,Eagle,51
+Kaiser,000 OTHER,Fremont,50
+Kaiser,008 Cardiovascular Disease,Larimer,50
+Kaiser,010 Chiropracty,Jefferson,50
+Kaiser,015 General Surgery,Boulder,50
+Kaiser,015 General Surgery,El Paso,50
+Kaiser, 101 Pediatrics - Routine/Primary Care,Weld,49
+Kaiser,007 Allergy and Immunology,El Paso,49
+Kaiser,020 Neurological Surgery,Adams,49
+Kaiser,023 Ophthalmology,Denver,49
+Kaiser,023 Ophthalmology,Larimer,49
+Kaiser,103 Psychology,Boulder,49
+Kaiser, 101 Pediatrics - Routine/Primary Care,Douglas,48
+Kaiser,016 Gynecology (OB/GYN),Eagle,47
+Kaiser,103 Psychology,Larimer,47
+Kaiser,025 Orthopedic Surgery,Adams,46
+Kaiser,001 General Practice,Jefferson,45
+Kaiser,010 Chiropracty,Arapahoe,45
+Kaiser,021 Medical Oncology & Surgical Oncology,Boulder,45
+Kaiser,001 General Practice,Arapahoe,44
+Kaiser,029 Psychiatry,Pueblo,44
+Kaiser,017 Infectious Diseases,Adams,43
+Kaiser,002 Family Medicine,Weld,42
+Kaiser,023 Ophthalmology,El Paso,39
+Kaiser,000 OTHER,Summit,38
+Kaiser,000 OTHER,Teller,38
+Kaiser,030 Pulmonology,Denver,38
+Kaiser,011 Dermatology,El Paso,37
+Kaiser,101 Pediatrics - Routine/Primary Care,Denver,37
+Kaiser,002 Family Medicine,Adams,36
+Kaiser,003 Internal Medicine,Boulder,36
+Kaiser,010 Chiropracty,El Paso,36
+Kaiser,014 Gastroenterology,Douglas,36
+Kaiser,015 General Surgery,Douglas,36
+Kaiser,018 Nephrology,Denver,36
+Kaiser,025 Orthopedic Surgery,Douglas,36
+Kaiser, 101 Pediatrics - Routine/Primary Care,Fremont,35
+Kaiser,000 OTHER,Garfield,35
+Kaiser,004 Geriatrics,Adams,35
+Kaiser,008 Cardiovascular Disease,Weld,35
+Kaiser,011 Dermatology,Larimer,35
+Kaiser,014 Gastroenterology,Denver,35
+Kaiser,016 Gynecology (OB/GYN),Boulder,35
+Kaiser,002 Family Medicine,Arapahoe,34
+Kaiser,025 Orthopedic Surgery,Boulder,34
+Kaiser,016 Gynecology (OB/GYN),Garfield,33
+Kaiser,001 General Practice,Adams,32
+Kaiser,002 Family Medicine,Boulder,32
+Kaiser,002 Family Medicine,Douglas,32
+Kaiser,102 Licensed Clinical Social Workers,Boulder,32
+Kaiser,014 Gastroenterology,Arapahoe,31
+Kaiser,016 Gynecology (OB/GYN),Arapahoe,31
+Kaiser,021 Medical Oncology & Surgical Oncology,Douglas,31
+Kaiser,011 Dermatology,Adams,30
+Kaiser,025 Orthopedic Surgery,Weld,30
+Kaiser,035 Cardiothoracic Surgery,El Paso,30
+Kaiser,001 General Practice,Boulder,29
+Kaiser,012 Endocrinology,Denver,29
+Kaiser,013 ENT/Otolaryngology,El Paso,29
+Kaiser,016 Gynecology (OB/GYN),Douglas,29
+Kaiser,019 Neurology,El Paso,29
+Kaiser,014 Gastroenterology,Larimer,28
+Kaiser,016 Gynecology (OB/GYN),Larimer,28
+Kaiser,101 Pediatrics - Routine/Primary Care,Jefferson,28
+Kaiser,002 Family Medicine,Fremont,27
+Kaiser,013 ENT/Otolaryngology,Denver,27
+Kaiser,015 General Surgery,Larimer,27
+Kaiser,018 Nephrology,Jefferson,27
+Kaiser,019 Neurology,Denver,27
+Kaiser,025 Orthopedic Surgery,Pueblo,27
+Kaiser,102 Licensed Clinical Social Workers,Pueblo,27
+Kaiser,008 Cardiovascular Disease,Boulder,26
+Kaiser,016 Gynecology (OB/GYN),Weld,26
+Kaiser,013 ENT/Otolaryngology,Adams,25
+Kaiser,102 Licensed Clinical Social Workers,Larimer,25
+Kaiser,008 Cardiovascular Disease,Douglas,24
+Kaiser,008 Cardiovascular Disease,Jefferson,24
+Kaiser,016 Gynecology (OB/GYN),Jefferson,24
+Kaiser,030 Pulmonology,El Paso,24
+Kaiser,030 Pulmonology,Larimer,24
+Kaiser,033 Urology,El Paso,24
+Kaiser, 101 Pediatrics - Routine/Primary Care,Teller,23
+Kaiser,002 Family Medicine,Teller,23
+Kaiser,011 Dermatology,Boulder,23
+Kaiser,021 Medical Oncology & Surgical Oncology,El Paso,23
+Kaiser,026 Physical Medicine & Rehabilitation,Adams,23
+Kaiser,029 Psychiatry,Larimer,23
+Kaiser,101 Pediatrics - Routine/Primary Care,Arapahoe,23
+Kaiser,015 General Surgery,Weld,22
+Kaiser,018 Nephrology,Larimer,22
+Kaiser,022 Radiation Oncology,Adams,22
+Kaiser,031 Rheumatology,Adams,22
+Kaiser,033 Urology,Denver,22
+Kaiser,001 General Practice,Douglas,21
+Kaiser,010 Chiropracty,Boulder,21
+Kaiser,013 ENT/Otolaryngology,Boulder,21
+Kaiser,015 General Surgery,Arapahoe,21
+Kaiser,016 Gynecology (OB/GYN),Pueblo,21
+Kaiser,020 Neurological Surgery,Denver,21
+Kaiser,026 Physical Medicine & Rehabilitation,Larimer,21
+Kaiser,029 Psychiatry,Clear Creek,21
+Kaiser,008 Cardiovascular Disease,Fremont,20
+Kaiser,019 Neurology,Arapahoe,20
+Kaiser,020 Neurological Surgery,Boulder,20
+Kaiser,023 Ophthalmology,Pueblo,20
+Kaiser,025 Orthopedic Surgery,Arapahoe,20
+Kaiser,030 Pulmonology,Arapahoe,20
+Kaiser,001 General Practice,Denver,19
+Kaiser,008 Cardiovascular Disease,Pueblo,19
+Kaiser,010 Chiropracty,Denver,19
+Kaiser,020 Neurological Surgery,El Paso,19
+Kaiser,003 Internal Medicine,Larimer,18
+Kaiser,011 Dermatology,Denver,18
+Kaiser,017 Infectious Diseases,Denver,18
+Kaiser,023 Ophthalmology,Jefferson,18
+Kaiser,025 Orthopedic Surgery,Eagle,18
+Kaiser,026 Physical Medicine & Rehabilitation,Denver,18
+Kaiser,027 Plastic Surgery,Denver,18
+Kaiser,028 Podiatry,El Paso,18
+Kaiser,033 Urology,Adams,18
+Kaiser, 101 Pediatrics - Routine/Primary Care,Garfield,17
+Kaiser,014 Gastroenterology,Boulder,17
+Kaiser,014 Gastroenterology,Weld,17
+Kaiser,020 Neurological Surgery,Douglas,17
+Kaiser,101 Pediatrics - Routine/Primary Care,Adams,17
+Kaiser,003 Internal Medicine,Douglas,16
+Kaiser,010 Chiropracty,Adams,16
+Kaiser,013 ENT/Otolaryngology,Larimer,16
+Kaiser,018 Nephrology,El Paso,16
+Kaiser,033 Urology,Larimer,16
+Kaiser,034 Vascular Surgery,Denver,16
+Kaiser,034 Vascular Surgery,El Paso,16
+Kaiser,103 Psychology,Pueblo,16
+Kaiser,010 Chiropracty,Larimer,15
+Kaiser,011 Dermatology,Arapahoe,15
+Kaiser,013 ENT/Otolaryngology,Douglas,15
+Kaiser,030 Pulmonology,Jefferson,15
+Kaiser,101 Pediatrics - Routine/Primary Care,Boulder,15
+Kaiser,007 Allergy and Immunology,Adams,14
+Kaiser,008 Cardiovascular Disease,Eagle,14
+Kaiser,012 Endocrinology,Larimer,14
+Kaiser,018 Nephrology,Arapahoe,14
+Kaiser,021 Medical Oncology & Surgical Oncology,Arapahoe,14
+Kaiser,021 Medical Oncology & Surgical Oncology,Larimer,14
+Kaiser,025 Orthopedic Surgery,Garfield,14
+Kaiser,026 Physical Medicine & Rehabilitation,Pueblo,14
+Kaiser,031 Rheumatology,Denver,14
+Kaiser,035 Cardiothoracic Surgery,Adams,14
+Kaiser,004 Geriatrics,Jefferson,13
+Kaiser,007 Allergy and Immunology,Pueblo,13
+Kaiser,014 Gastroenterology,Jefferson,13
+Kaiser,015 General Surgery,Pueblo,13
+Kaiser,022 Radiation Oncology,Denver,13
+Kaiser,103 Psychology,Douglas,13
+Kaiser,007 Allergy and Immunology,Denver,12
+Kaiser,010 Chiropracty,Pueblo,12
+Kaiser,012 Endocrinology,El Paso,12
+Kaiser,012 Endocrinology,Weld,12
+Kaiser,023 Ophthalmology,Douglas,12
+Kaiser,027 Plastic Surgery,Adams,12
+Kaiser,012 Endocrinology,Arapahoe,11
+Kaiser,018 Nephrology,Weld,11
+Kaiser,021 Medical Oncology & Surgical Oncology,Weld,11
+Kaiser,023 Ophthalmology,Boulder,11
+Kaiser,026 Physical Medicine & Rehabilitation,Arapahoe,11
+Kaiser,030 Pulmonology,Boulder,11
+Kaiser,033 Urology,Douglas,11
+Kaiser,034 Vascular Surgery,Pueblo,11
+Kaiser,103 Psychology,Weld,11
+Kaiser,018 Nephrology,Boulder,10
+Kaiser,020 Neurological Surgery,Eagle,10
+Kaiser,020 Neurological Surgery,Garfield,10
+Kaiser,027 Plastic Surgery,Larimer,10
+Kaiser,029 Psychiatry,Weld,10
+Kaiser,031 Rheumatology,Boulder,10
+Kaiser,103 Psychology,Jefferson,10
+Kaiser,003 Internal Medicine,Eagle,9
+Kaiser,003 Internal Medicine,Garfield,9
+Kaiser,004 Geriatrics,Denver,9
+Kaiser,010 Chiropracty,Douglas,9
+Kaiser,011 Dermatology,Pueblo,9
+Kaiser,011 Dermatology,Weld,9
+Kaiser,012 Endocrinology,Boulder,9
+Kaiser,014 Gastroenterology,Pueblo,9
+Kaiser,015 General Surgery,Fremont,9
+Kaiser,019 Neurology,Jefferson,9
+Kaiser,019 Neurology,Pueblo,9
+Kaiser,020 Neurological Surgery,Larimer,9
+Kaiser,028 Podiatry,Larimer,9
+Kaiser,028 Podiatry,Pueblo,9
+Kaiser,033 Urology,Eagle,9
+Kaiser,103 Psychology,Broomfield,9
+Kaiser, 101 Pediatrics - Routine/Primary Care,Summit,8
+Kaiser,001 General Practice,Larimer,8
+Kaiser,002 Family Medicine,Garfield,8
+Kaiser,003 Internal Medicine,Fremont,8
+Kaiser,019 Neurology,Larimer,8
+Kaiser,020 Neurological Surgery,Arapahoe,8
+Kaiser,022 Radiation Oncology,Douglas,8
+Kaiser,022 Radiation Oncology,El Paso,8
+Kaiser,022 Radiation Oncology,Larimer,8
+Kaiser,033 Urology,Boulder,8
+Kaiser,034 Vascular Surgery,Adams,8
+Kaiser,035 Cardiothoracic Surgery,Pueblo,8
+Kaiser,102 Licensed Clinical Social Workers,Teller,8
+Kaiser,003 Internal Medicine,Weld,7
+Kaiser,007 Allergy and Immunology,Jefferson,7
+Kaiser,010 Chiropracty,Weld,7
+Kaiser,012 Endocrinology,Douglas,7
+Kaiser,018 Nephrology,Pueblo,7
+Kaiser,019 Neurology,Boulder,7
+Kaiser,022 Radiation Oncology,Weld,7
+Kaiser,023 Ophthalmology,Arapahoe,7
+Kaiser,027 Plastic Surgery,El Paso,7
+Kaiser,029 Psychiatry,Broomfield,7
+Kaiser,030 Pulmonology,Weld,7
+Kaiser,031 Rheumatology,El Paso,7
+Kaiser,033 Urology,Pueblo,7
+Kaiser,035 Cardiothoracic Surgery,Denver,7
+Kaiser,101 Pediatrics - Routine/Primary Care,Douglas,7
+Kaiser,002 Family Medicine,Summit,6
+Kaiser,008 Cardiovascular Disease,Garfield,6
+Kaiser,013 ENT/Otolaryngology,Arapahoe,6
+Kaiser,013 ENT/Otolaryngology,Eagle,6
+Kaiser,017 Infectious Diseases,El Paso,6
+Kaiser,017 Infectious Diseases,Pueblo,6
+Kaiser,019 Neurology,Weld,6
+Kaiser,020 Neurological Surgery,Pueblo,6
+Kaiser,022 Radiation Oncology,Boulder,6
+Kaiser,023 Ophthalmology,Weld,6
+Kaiser,026 Physical Medicine & Rehabilitation,Jefferson,6
+Kaiser,033 Urology,Weld,6
+Kaiser,102 Licensed Clinical Social Workers,Broomfield,6
+Kaiser,102 Licensed Clinical Social Workers,Weld,6
+Kaiser,007 Allergy and Immunology,Douglas,5
+Kaiser,012 Endocrinology,Pueblo,5
+Kaiser,013 ENT/Otolaryngology,Pueblo,5
+Kaiser,015 General Surgery,Eagle,5
+Kaiser,021 Medical Oncology & Surgical Oncology,Jefferson,5
+Kaiser,023 Ophthalmology,Fremont,5
+Kaiser,025 Orthopedic Surgery,Fremont,5
+Kaiser,025 Orthopedic Surgery,Jefferson,5
+Kaiser,026 Physical Medicine & Rehabilitation,Boulder,5
+Kaiser,028 Podiatry,Weld,5
+Kaiser,031 Rheumatology,Broomfield,5
+Kaiser,033 Urology,Arapahoe,5
+Kaiser,033 Urology,Jefferson,5
+Kaiser,035 Cardiothoracic Surgery,Larimer,5
+Kaiser,001 General Practice,El Paso,4
+Kaiser,001 General Practice,Pueblo,4
+Kaiser,004 Geriatrics,Larimer,4
+Kaiser,005 Primary Care - Physician Assistant,El Paso,4
+Kaiser,007 Allergy and Immunology,Boulder,4
+Kaiser,010 Chiropracty,Fremont,4
+Kaiser,013 ENT/Otolaryngology,Broomfield,4
+Kaiser,013 ENT/Otolaryngology,Teller,4
+Kaiser,013 ENT/Otolaryngology,Weld,4
+Kaiser,015 General Surgery,Garfield,4
+Kaiser,017 Infectious Diseases,Larimer,4
+Kaiser,018 Nephrology,Douglas,4
+Kaiser,019 Neurology,Douglas,4
+Kaiser,020 Neurological Surgery,Weld,4
+Kaiser,021 Medical Oncology & Surgical Oncology,Pueblo,4
+Kaiser,023 Ophthalmology,Teller,4
+Kaiser,025 Orthopedic Surgery,Broomfield,4
+Kaiser,025 Orthopedic Surgery,Summit,4
+Kaiser,028 Podiatry,Adams,4
+Kaiser,028 Podiatry,Denver,4
+Kaiser,029 Psychiatry,Eagle,4
+Kaiser,030 Pulmonology,Eagle,4
+Kaiser,030 Pulmonology,Garfield,4
+Kaiser,035 Cardiothoracic Surgery,Weld,4
+Kaiser,102 Licensed Clinical Social Workers,Douglas,4
+Kaiser,102 Licensed Clinical Social Workers,Eagle,4
+Kaiser,102 Licensed Clinical Social Workers,Fremont,4
+Kaiser,102 Licensed Clinical Social Workers,Summit,4
+Kaiser,103 Psychology,Adams,4
+Kaiser,103 Psychology,Teller,4
+Kaiser,004 Geriatrics,El Paso,3
+Kaiser,010 Chiropracty,Broomfield,3
+Kaiser,010 Chiropracty,Teller,3
+Kaiser,011 Dermatology,Teller,3
+Kaiser,013 ENT/Otolaryngology,Jefferson,3
+Kaiser,014 Gastroenterology,Eagle,3
+Kaiser,016 Gynecology (OB/GYN),Fremont,3
+Kaiser,017 Infectious Diseases,Boulder,3
+Kaiser,017 Infectious Diseases,Weld,3
+Kaiser,018 Nephrology,Eagle,3
+Kaiser,020 Neurological Surgery,Fremont,3
+Kaiser,021 Medical Oncology & Surgical Oncology,Garfield,3
+Kaiser,021 Medical Oncology & Surgical Oncology,Summit,3
+Kaiser,022 Radiation Oncology,Arapahoe,3
+Kaiser,025 Orthopedic Surgery,Teller,3
+Kaiser,030 Pulmonology,Pueblo,3
+Kaiser,030 Pulmonology,Summit,3
+Kaiser,031 Rheumatology,Jefferson,3
+Kaiser,031 Rheumatology,Larimer,3
+Kaiser,033 Urology,Garfield,3
+Kaiser,102 Licensed Clinical Social Workers,Adams,3
+Kaiser,103 Psychology,Fremont,3
+Kaiser,000 OTHER,Elbert,2
+Kaiser,001 General Practice,Weld,2
+Kaiser,003 Internal Medicine,Summit,2
+Kaiser,004 Geriatrics,Arapahoe,2
+Kaiser,004 Geriatrics,Douglas,2
+Kaiser,007 Allergy and Immunology,Arapahoe,2
+Kaiser,007 Allergy and Immunology,Larimer,2
+Kaiser,007 Allergy and Immunology,Summit,2
+Kaiser,008 Cardiovascular Disease,Summit,2
+Kaiser,011 Dermatology,Broomfield,2
+Kaiser,011 Dermatology,Douglas,2
+Kaiser,011 Dermatology,Eagle,2
+Kaiser,011 Dermatology,Fremont,2
+Kaiser,015 General Surgery,Teller,2
+Kaiser,016 Gynecology (OB/GYN),Summit,2
+Kaiser,019 Neurology,Eagle,2
+Kaiser,022 Radiation Oncology,Garfield,2
+Kaiser,022 Radiation Oncology,Jefferson,2
+Kaiser,022 Radiation Oncology,Pueblo,2
+Kaiser,026 Physical Medicine & Rehabilitation,Eagle,2
+Kaiser,026 Physical Medicine & Rehabilitation,Teller,2
+Kaiser,026 Physical Medicine & Rehabilitation,Weld,2
+Kaiser,027 Plastic Surgery,Douglas,2
+Kaiser,027 Plastic Surgery,Pueblo,2
+Kaiser,027 Plastic Surgery,Weld,2
+Kaiser,028 Podiatry,Eagle,2
+Kaiser,028 Podiatry,Garfield,2
+Kaiser,029 Psychiatry,Summit,2
+Kaiser,030 Pulmonology,Broomfield,2
+Kaiser,031 Rheumatology,Eagle,2
+Kaiser,031 Rheumatology,Weld,2
+Kaiser,033 Urology,Summit,2
+Kaiser,035 Cardiothoracic Surgery,Eagle,2
+Kaiser,035 Cardiothoracic Surgery,Fremont,2
+Kaiser,101 Pediatrics - Routine/Primary Care,El Paso,2
+Kaiser,101 Pediatrics - Routine/Primary Care,Larimer,2
+Kaiser,102 Licensed Clinical Social Workers,Arapahoe,2
+Kaiser, 101 Pediatrics - Routine/Primary Care,Broomfield,1
+Kaiser, 101 Pediatrics - Routine/Primary Care,Elbert,1
+Kaiser,001 General Practice,Eagle,1
+Kaiser,001 General Practice,Summit,1
+Kaiser,002 Family Medicine,Elbert,1
+Kaiser,003 Internal Medicine,Broomfield,1
+Kaiser,004 Geriatrics,Boulder,1
+Kaiser,004 Geriatrics,Broomfield,1
+Kaiser,005 Primary Care - Physician Assistant,Weld,1
+Kaiser,006 Primary Care - Nurse Practitioner,El Paso,1
+Kaiser,007 Allergy and Immunology,Fremont,1
+Kaiser,007 Allergy and Immunology,Teller,1
+Kaiser,010 Chiropracty,Archuleta,1
+Kaiser,010 Chiropracty,Eagle,1
+Kaiser,010 Chiropracty,Grand,1
+Kaiser,010 Chiropracty,Mesa,1
+Kaiser,010 Chiropracty,Pitkin,1
+Kaiser,011 Dermatology,Jefferson,1
+Kaiser,011 Dermatology,Summit,1
+Kaiser,012 Endocrinology,Eagle,1
+Kaiser,014 Gastroenterology,Broomfield,1
+Kaiser,014 Gastroenterology,Fremont,1
+Kaiser,015 General Surgery,Summit,1
+Kaiser,017 Infectious Diseases,Douglas,1
+Kaiser,017 Infectious Diseases,Garfield,1
+Kaiser,017 Infectious Diseases,Jefferson,1
+Kaiser,017 Infectious Diseases,Summit,1
+Kaiser,019 Neurology,Fremont,1
+Kaiser,019 Neurology,Garfield,1
+Kaiser,019 Neurology,Summit,1
+Kaiser,020 Neurological Surgery,Broomfield,1
+Kaiser,020 Neurological Surgery,Jefferson,1
+Kaiser,023 Ophthalmology,Eagle,1
+Kaiser,023 Ophthalmology,Garfield,1
+Kaiser,023 Ophthalmology,Summit,1
+Kaiser,027 Plastic Surgery,Arapahoe,1
+Kaiser,027 Plastic Surgery,Boulder,1
+Kaiser,027 Plastic Surgery,Broomfield,1
+Kaiser,027 Plastic Surgery,Eagle,1
+Kaiser,028 Podiatry,Boulder,1
+Kaiser,028 Podiatry,Douglas,1
+Kaiser,028 Podiatry,Fremont,1
+Kaiser,028 Podiatry,Jefferson,1
+Kaiser,028 Podiatry,Teller,1
+Kaiser,029 Psychiatry,Fremont,1
+Kaiser,030 Pulmonology,Douglas,1
+Kaiser,031 Rheumatology,Douglas,1
+Kaiser,031 Rheumatology,Pueblo,1
+Kaiser,033 Urology,Fremont,1
+Kaiser,034 Vascular Surgery,Larimer,1
+Kaiser,034 Vascular Surgery,Weld,1
+Kaiser,035 Cardiothoracic Surgery,Garfield,1
+Kaiser,102 Licensed Clinical Social Workers,Jefferson,1
+Kaiser,103 Psychology,Denver,1
+RMHP,102 Licensed Clinical Social Workers,Arapahoe,932
+RMHP,102 Licensed Clinical Social Workers,Weld,571
+RMHP,000 OTHER,El Paso,353
+RMHP,103 Psychology,Weld,315
+RMHP,000 OTHER,Arapahoe,296
+RMHP,000 OTHER,Jefferson,283
+RMHP,000 OTHER,Denver,257
+RMHP,102 Licensed Clinical Social Workers,Douglas,244
+RMHP,016 Gynecology (OB/GYN),Arapahoe,241
+RMHP,102 Licensed Clinical Social Workers,Denver,226
+RMHP,002 Family Medicine,Jefferson,213
+RMHP,002 Family Medicine,Larimer,211
+RMHP,102 Licensed Clinical Social Workers,El Paso,201
+RMHP,016 Gynecology (OB/GYN),Denver,196
+RMHP,000 OTHER,Adams,188
+RMHP,003 Internal Medicine,Denver,186
+RMHP,000 OTHER,Larimer,182
+RMHP,102 Licensed Clinical Social Workers,Jefferson,182
+RMHP,002 Family Medicine,El Paso,177
+RMHP,002 Family Medicine,Arapahoe,176
+RMHP,002 Family Medicine,Denver,174
+RMHP,103 Psychology,Arapahoe,170
+RMHP, 103 Psychology,Weld,165
+RMHP,002 Family Medicine,Boulder,157
+RMHP,008 Cardiovascular Disease,Denver,142
+RMHP,102 Licensed Clinical Social Workers,Adams,139
+RMHP, 103 Psychology,Arapahoe,138
+RMHP,002 Family Medicine,Adams,134
+RMHP,025 Orthopedic Surgery,El Paso,130
+RMHP,101 Pediatrics - Routine/Primary Care,Adams,127
+RMHP,016 Gynecology (OB/GYN),Douglas,125
+RMHP,002 Family Medicine,Weld,122
+RMHP,000 OTHER,Douglas,119
+RMHP,016 Gynecology (OB/GYN),Adams,118
+RMHP,003 Internal Medicine,Arapahoe,116
+RMHP,025 Orthopedic Surgery,Douglas,116
+RMHP,008 Cardiovascular Disease,Adams,113
+RMHP,003 Internal Medicine,Adams,111
+RMHP,016 Gynecology (OB/GYN),Larimer,110
+RMHP,008 Cardiovascular Disease,Larimer,108
+RMHP,103 Psychology,Denver,107
+RMHP,003 Internal Medicine,Jefferson,105
+RMHP,000 OTHER,Pueblo,100
+RMHP,101 Pediatrics - Routine/Primary Care,Denver,100
+RMHP,008 Cardiovascular Disease,Arapahoe,99
+RMHP,002 Family Medicine,Douglas,96
+RMHP,002 Family Medicine,Mesa,95
+RMHP,000 OTHER,Weld,94
+RMHP,000 OTHER,Boulder,93
+RMHP,023 Ophthalmology,Denver,93
+RMHP,000 OTHER,Mesa,88
+RMHP,002 Family Medicine,Pueblo,88
+RMHP,021 Medical Oncology & Surgical Oncology,Adams,88
+RMHP,014 Gastroenterology,Adams,87
+RMHP,030 Pulmonology,Denver,87
+RMHP,016 Gynecology (OB/GYN),Jefferson,85
+RMHP,025 Orthopedic Surgery,Arapahoe,85
+RMHP,025 Orthopedic Surgery,Denver,84
+RMHP,102 Licensed Clinical Social Workers,Boulder,84
+RMHP,101 Pediatrics - Routine/Primary Care,Arapahoe,83
+RMHP,019 Neurology,Adams,82
+RMHP,025 Orthopedic Surgery,Larimer,82
+RMHP,008 Cardiovascular Disease,Douglas,80
+RMHP,023 Ophthalmology,Jefferson,80
+RMHP,016 Gynecology (OB/GYN),El Paso,79
+RMHP,025 Orthopedic Surgery,Adams,79
+RMHP,025 Orthopedic Surgery,Boulder,77
+RMHP,008 Cardiovascular Disease,Jefferson,76
+RMHP,030 Pulmonology,Adams,75
+RMHP,102 Licensed Clinical Social Workers,Larimer,75
+RMHP,103 Psychology,El Paso,75
+RMHP,029 Psychiatry,Denver,73
+RMHP,101 Pediatrics - Routine/Primary Care,El Paso,73
+RMHP,101 Pediatrics - Routine/Primary Care,Larimer,73
+RMHP,103 Psychology,Larimer,68
+RMHP,007 Allergy and Immunology,Denver,67
+RMHP,003 Internal Medicine,Larimer,66
+RMHP,101 Pediatrics - Routine/Primary Care,Douglas,65
+RMHP,012 Endocrinology,Adams,64
+RMHP,015 General Surgery,Jefferson,64
+RMHP,008 Cardiovascular Disease,El Paso,63
+RMHP,011 Dermatology,Arapahoe,63
+RMHP,101 Pediatrics - Routine/Primary Care,Jefferson,63
+RMHP,102 Licensed Clinical Social Workers,Morgan,63
+RMHP,102 Licensed Clinical Social Workers,Mesa,61
+RMHP,102 Licensed Clinical Social Workers,Yuma,61
+RMHP,103 Psychology,Boulder,61
+RMHP,003 Internal Medicine,Boulder,60
+RMHP,003 Internal Medicine,El Paso,60
+RMHP,014 Gastroenterology,El Paso,60
+RMHP,015 General Surgery,Denver,60
+RMHP,103 Psychology,Jefferson,60
+RMHP,008 Cardiovascular Disease,Boulder,59
+RMHP,016 Gynecology (OB/GYN),Boulder,59
+RMHP,016 Gynecology (OB/GYN),Eagle,59
+RMHP,015 General Surgery,Adams,58
+RMHP,023 Ophthalmology,Arapahoe,58
+RMHP,023 Ophthalmology,Larimer,58
+RMHP,025 Orthopedic Surgery,Jefferson,58
+RMHP,102 Licensed Clinical Social Workers,Chaffee,56
+RMHP,002 Family Medicine,Eagle,53
+RMHP,023 Ophthalmology,Boulder,53
+RMHP,029 Psychiatry,Arapahoe,53
+RMHP,014 Gastroenterology,Boulder,51
+RMHP,023 Ophthalmology,Adams,51
+RMHP,023 Ophthalmology,El Paso,50
+RMHP,002 Family Medicine,Broomfield,49
+RMHP,003 Internal Medicine,Douglas,49
+RMHP,101 Pediatrics - Routine/Primary Care,Boulder,49
+RMHP,102 Licensed Clinical Social Workers,Pueblo,49
+RMHP,014 Gastroenterology,Douglas,47
+RMHP,103 Psychology,Adams,47
+RMHP,103 Psychology,Douglas,47
+RMHP,014 Gastroenterology,Jefferson,46
+RMHP,015 General Surgery,Larimer,46
+RMHP,016 Gynecology (OB/GYN),Garfield,44
+RMHP,029 Psychiatry,El Paso,44
+RMHP,011 Dermatology,Adams,43
+RMHP,014 Gastroenterology,Arapahoe,43
+RMHP,021 Medical Oncology & Surgical Oncology,Denver,43
+RMHP, 103 Psychology,Jefferson,42
+RMHP,014 Gastroenterology,Broomfield,42
+RMHP,014 Gastroenterology,Larimer,42
+RMHP,015 General Surgery,El Paso,42
+RMHP,011 Dermatology,Boulder,41
+RMHP,017 Infectious Diseases,Adams,41
+RMHP,102 Licensed Clinical Social Workers,Alamosa,41
+RMHP, 103 Psychology,Denver,40
+RMHP,014 Gastroenterology,Denver,40
+RMHP,016 Gynecology (OB/GYN),Weld,39
+RMHP,023 Ophthalmology,Mesa,39
+RMHP,028 Podiatry,Denver,39
+RMHP,026 Physical Medicine & Rehabilitation,Adams,38
+RMHP,026 Physical Medicine & Rehabilitation,Arapahoe,38
+RMHP, 103 Psychology,Adams,37
+RMHP,016 Gynecology (OB/GYN),Mesa,37
+RMHP,018 Nephrology,Adams,37
+RMHP,029 Psychiatry,Mesa,37
+RMHP,030 Pulmonology,Larimer,37
+RMHP,033 Urology,Larimer,37
+RMHP, 103 Psychology,Douglas,36
+RMHP,007 Allergy and Immunology,Adams,36
+RMHP,011 Dermatology,Denver,36
+RMHP,013 ENT/Otolaryngology,Adams,36
+RMHP,015 General Surgery,Boulder,36
+RMHP,021 Medical Oncology & Surgical Oncology,El Paso,36
+RMHP,029 Psychiatry,Adams,36
+RMHP,007 Allergy and Immunology,Douglas,35
+RMHP,007 Allergy and Immunology,Larimer,34
+RMHP,011 Dermatology,El Paso,34
+RMHP,015 General Surgery,Arapahoe,34
+RMHP,102 Licensed Clinical Social Workers,Logan,34
+RMHP,002 Family Medicine,Garfield,33
+RMHP,013 ENT/Otolaryngology,El Paso,33
+RMHP,028 Podiatry,Douglas,33
+RMHP,102 Licensed Clinical Social Workers,Lincoln,33
+RMHP,102 Licensed Clinical Social Workers,La Plata,32
+RMHP,013 ENT/Otolaryngology,Denver,31
+RMHP,026 Physical Medicine & Rehabilitation,Denver,31
+RMHP,101 Pediatrics - Routine/Primary Care,Weld,31
+RMHP,102 Licensed Clinical Social Workers,Elbert,31
+RMHP,007 Allergy and Immunology,Jefferson,30
+RMHP,101 Pediatrics - Routine/Primary Care,Mesa,30
+RMHP,102 Licensed Clinical Social Workers,Cheyenne,30
+RMHP,102 Licensed Clinical Social Workers,Fremont,30
+RMHP,102 Licensed Clinical Social Workers,Phillips,30
+RMHP,102 Licensed Clinical Social Workers,Sedgwick,30
+RMHP,102 Licensed Clinical Social Workers,Washington,30
+RMHP,002 Family Medicine,La Plata,29
+RMHP,003 Internal Medicine,Pueblo,29
+RMHP,019 Neurology,El Paso,29
+RMHP,019 Neurology,Jefferson,29
+RMHP,025 Orthopedic Surgery,Weld,29
+RMHP,028 Podiatry,Larimer,29
+RMHP,033 Urology,Denver,29
+RMHP,002 Family Medicine,Summit,28
+RMHP,020 Neurological Surgery,Adams,28
+RMHP,028 Podiatry,Jefferson,28
+RMHP,103 Psychology,Mesa,28
+RMHP, 103 Psychology,El Paso,27
+RMHP,015 General Surgery,Douglas,27
+RMHP,023 Ophthalmology,Douglas,27
+RMHP,025 Orthopedic Surgery,Eagle,27
+RMHP,026 Physical Medicine & Rehabilitation,Jefferson,27
+RMHP,002 Family Medicine,Grand,26
+RMHP,013 ENT/Otolaryngology,Douglas,26
+RMHP,014 Gastroenterology,Weld,26
+RMHP,018 Nephrology,Denver,26
+RMHP,022 Radiation Oncology,Denver,26
+RMHP, 000 OTHER,Arapahoe,25
+RMHP,003 Internal Medicine,Weld,25
+RMHP,011 Dermatology,Jefferson,25
+RMHP,015 General Surgery,Weld,25
+RMHP,019 Neurology,Larimer,25
+RMHP,033 Urology,Boulder,25
+RMHP, 103 Psychology,Mesa,24
+RMHP,002 Family Medicine,Fremont,24
+RMHP,019 Neurology,Denver,24
+RMHP,021 Medical Oncology & Surgical Oncology,Arapahoe,24
+RMHP,021 Medical Oncology & Surgical Oncology,Boulder,24
+RMHP,021 Medical Oncology & Surgical Oncology,Jefferson,24
+RMHP,027 Plastic Surgery,Denver,24
+RMHP,029 Psychiatry,Larimer,24
+RMHP,030 Pulmonology,El Paso,24
+RMHP,033 Urology,Arapahoe,24
+RMHP,102 Licensed Clinical Social Workers,Lake,24
+RMHP,000 OTHER,Alamosa,23
+RMHP,019 Neurology,Arapahoe,23
+RMHP,026 Physical Medicine & Rehabilitation,Boulder,23
+RMHP,026 Physical Medicine & Rehabilitation,El Paso,23
+RMHP,028 Podiatry,Weld,23
+RMHP,031 Rheumatology,Jefferson,23
+RMHP,102 Licensed Clinical Social Workers,Custer,23
+RMHP,000 OTHER,Broomfield,22
+RMHP,002 Family Medicine,Chaffee,22
+RMHP,011 Dermatology,Larimer,22
+RMHP,028 Podiatry,Boulder,22
+RMHP,029 Psychiatry,Pueblo,22
+RMHP, 000 OTHER,Denver,21
+RMHP,000 OTHER,Montrose,21
+RMHP,002 Family Medicine,Delta,21
+RMHP,013 ENT/Otolaryngology,Boulder,21
+RMHP,013 ENT/Otolaryngology,Jefferson,21
+RMHP,017 Infectious Diseases,Denver,21
+RMHP,021 Medical Oncology & Surgical Oncology,Douglas,21
+RMHP,028 Podiatry,Arapahoe,21
+RMHP,028 Podiatry,El Paso,21
+RMHP,031 Rheumatology,Adams,21
+RMHP,101 Pediatrics - Routine/Primary Care,Garfield,21
+RMHP,000 OTHER,Otero,20
+RMHP,002 Family Medicine,Logan,20
+RMHP,002 Family Medicine,Phillips,20
+RMHP,002 Family Medicine,Routt,20
+RMHP,007 Allergy and Immunology,Arapahoe,20
+RMHP,008 Cardiovascular Disease,Mesa,20
+RMHP,020 Neurological Surgery,Arapahoe,20
+RMHP,020 Neurological Surgery,Boulder,20
+RMHP,020 Neurological Surgery,Douglas,20
+RMHP,022 Radiation Oncology,Adams,20
+RMHP,028 Podiatry,Adams,20
+RMHP,030 Pulmonology,Jefferson,20
+RMHP,033 Urology,Adams,20
+RMHP,101 Pediatrics - Routine/Primary Care,Eagle,20
+RMHP,102 Licensed Clinical Social Workers,Broomfield,20
+RMHP,002 Family Medicine,Morgan,19
+RMHP,002 Family Medicine,Rio Grande,19
+RMHP,004 Geriatrics,Adams,19
+RMHP,008 Cardiovascular Disease,Weld,19
+RMHP,016 Gynecology (OB/GYN),Pueblo,19
+RMHP,025 Orthopedic Surgery,Pueblo,19
+RMHP,000 OTHER,Fremont,18
+RMHP,000 OTHER,Prowers,18
+RMHP,003 Internal Medicine,Broomfield,18
+RMHP,007 Allergy and Immunology,El Paso,18
+RMHP,011 Dermatology,Douglas,18
+RMHP,015 General Surgery,Pueblo,18
+RMHP,018 Nephrology,Douglas,18
+RMHP,021 Medical Oncology & Surgical Oncology,Larimer,18
+RMHP,022 Radiation Oncology,Jefferson,18
+RMHP,025 Orthopedic Surgery,Mesa,18
+RMHP,029 Psychiatry,Jefferson,18
+RMHP,035 Cardiothoracic Surgery,Denver,18
+RMHP,035 Cardiothoracic Surgery,El Paso,18
+RMHP, 103 Psychology,Boulder,17
+RMHP,002 Family Medicine,Montezuma,17
+RMHP,002 Family Medicine,Teller,17
+RMHP,002 Family Medicine,Yuma,17
+RMHP,003 Internal Medicine,Eagle,17
+RMHP,008 Cardiovascular Disease,Logan,17
+RMHP,011 Dermatology,Pueblo,17
+RMHP,013 ENT/Otolaryngology,Arapahoe,17
+RMHP,015 General Surgery,Mesa,17
+RMHP,019 Neurology,Boulder,17
+RMHP,020 Neurological Surgery,Larimer,17
+RMHP,025 Orthopedic Surgery,Prowers,17
+RMHP,029 Psychiatry,Boulder,17
+RMHP,030 Pulmonology,Arapahoe,17
+RMHP,030 Pulmonology,Boulder,17
+RMHP,031 Rheumatology,Boulder,17
+RMHP,033 Urology,Eagle,17
+RMHP,033 Urology,El Paso,17
+RMHP,034 Vascular Surgery,Denver,17
+RMHP,002 Family Medicine,Alamosa,16
+RMHP,002 Family Medicine,Otero,16
+RMHP,008 Cardiovascular Disease,Eagle,16
+RMHP,016 Gynecology (OB/GYN),La Plata,16
+RMHP,017 Infectious Diseases,Arapahoe,16
+RMHP,019 Neurology,Douglas,16
+RMHP,000 OTHER,Garfield,15
+RMHP,006 Primary Care - Nurse Practitioner,Boulder,15
+RMHP,006 Primary Care - Nurse Practitioner,El Paso,15
+RMHP,007 Allergy and Immunology,Boulder,15
+RMHP,008 Cardiovascular Disease,Broomfield,15
+RMHP,008 Cardiovascular Disease,Morgan,15
+RMHP,008 Cardiovascular Disease,Yuma,15
+RMHP,011 Dermatology,Eagle,15
+RMHP,012 Endocrinology,Larimer,15
+RMHP,014 Gastroenterology,Mesa,15
+RMHP,022 Radiation Oncology,Arapahoe,15
+RMHP,029 Psychiatry,Douglas,15
+RMHP,031 Rheumatology,Douglas,15
+RMHP,031 Rheumatology,Larimer,15
+RMHP,014 Gastroenterology,Chaffee,14
+RMHP,015 General Surgery,Logan,14
+RMHP,016 Gynecology (OB/GYN),Summit,14
+RMHP,017 Infectious Diseases,Broomfield,14
+RMHP,020 Neurological Surgery,El Paso,14
+RMHP,023 Ophthalmology,Pueblo,14
+RMHP,025 Orthopedic Surgery,La Plata,14
+RMHP,025 Orthopedic Surgery,Logan,14
+RMHP,026 Physical Medicine & Rehabilitation,Weld,14
+RMHP,028 Podiatry,Pueblo,14
+RMHP,029 Psychiatry,La Plata,14
+RMHP,030 Pulmonology,Weld,14
+RMHP,031 Rheumatology,Denver,14
+RMHP,035 Cardiothoracic Surgery,Larimer,14
+RMHP,101 Pediatrics - Routine/Primary Care,Broomfield,14
+RMHP,102 Licensed Clinical Social Workers,Summit,14
+RMHP,000 OTHER,Eagle,13
+RMHP,006 Primary Care - Nurse Practitioner,Arapahoe,13
+RMHP,008 Cardiovascular Disease,Garfield,13
+RMHP,008 Cardiovascular Disease,Phillips,13
+RMHP,013 ENT/Otolaryngology,Larimer,13
+RMHP,015 General Surgery,Garfield,13
+RMHP,018 Nephrology,Arapahoe,13
+RMHP,018 Nephrology,Jefferson,13
+RMHP,018 Nephrology,Pueblo,13
+RMHP,022 Radiation Oncology,Boulder,13
+RMHP,023 Ophthalmology,Weld,13
+RMHP,025 Orthopedic Surgery,Routt,13
+RMHP,030 Pulmonology,Douglas,13
+RMHP,030 Pulmonology,Mesa,13
+RMHP,035 Cardiothoracic Surgery,Pueblo,13
+RMHP,102 Licensed Clinical Social Workers,Delta,13
+RMHP,102 Licensed Clinical Social Workers,Garfield,13
+RMHP,103 Psychology,Broomfield,13
+RMHP,103 Psychology,Pueblo,13
+RMHP, 000 OTHER,Jefferson,12
+RMHP,000 OTHER,La Plata,12
+RMHP,002 Family Medicine,Montrose,12
+RMHP,003 Internal Medicine,Garfield,12
+RMHP,003 Internal Medicine,La Plata,12
+RMHP,003 Internal Medicine,Mesa,12
+RMHP,003 Internal Medicine,Routt,12
+RMHP,018 Nephrology,El Paso,12
+RMHP,020 Neurological Surgery,Jefferson,12
+RMHP,025 Orthopedic Surgery,Broomfield,12
+RMHP,025 Orthopedic Surgery,Summit,12
+RMHP,026 Physical Medicine & Rehabilitation,Larimer,12
+RMHP,027 Plastic Surgery,Arapahoe,12
+RMHP,029 Psychiatry,Weld,12
+RMHP,033 Urology,Garfield,12
+RMHP,000 OTHER,Summit,11
+RMHP,002 Family Medicine,Moffat,11
+RMHP,008 Cardiovascular Disease,Pueblo,11
+RMHP,015 General Surgery,Fremont,11
+RMHP,021 Medical Oncology & Surgical Oncology,Weld,11
+RMHP,025 Orthopedic Surgery,Gunnison,11
+RMHP,031 Rheumatology,El Paso,11
+RMHP,033 Urology,Weld,11
+RMHP,034 Vascular Surgery,El Paso,11
+RMHP,102 Licensed Clinical Social Workers,Montrose,11
+RMHP,102 Licensed Clinical Social Workers,Routt,11
+RMHP, 103 Psychology,Pueblo,10
+RMHP,000 OTHER,Chaffee,10
+RMHP,002 Family Medicine,Huerfano,10
+RMHP,004 Geriatrics,Jefferson,10
+RMHP,008 Cardiovascular Disease,Sedgwick,10
+RMHP,011 Dermatology,Summit,10
+RMHP,012 Endocrinology,Arapahoe,10
+RMHP,012 Endocrinology,Denver,10
+RMHP,012 Endocrinology,Jefferson,10
+RMHP,012 Endocrinology,Weld,10
+RMHP,015 General Surgery,Eagle,10
+RMHP,016 Gynecology (OB/GYN),Moffat,10
+RMHP,018 Nephrology,Larimer,10
+RMHP,021 Medical Oncology & Surgical Oncology,Mesa,10
+RMHP,027 Plastic Surgery,Adams,10
+RMHP,033 Urology,Douglas,10
+RMHP,102 Licensed Clinical Social Workers,Teller,10
+RMHP, 000 OTHER,Douglas,9
+RMHP, 025 Orthopedic Surgery,Boulder,9
+RMHP, 103 Psychology,Larimer,9
+RMHP,000 OTHER,Routt,9
+RMHP,007 Allergy and Immunology,Broomfield,9
+RMHP,008 Cardiovascular Disease,Routt,9
+RMHP,011 Dermatology,Weld,9
+RMHP,012 Endocrinology,Boulder,9
+RMHP,017 Infectious Diseases,El Paso,9
+RMHP,017 Infectious Diseases,Jefferson,9
+RMHP,022 Radiation Oncology,El Paso,9
+RMHP,027 Plastic Surgery,El Paso,9
+RMHP,028 Podiatry,Mesa,9
+RMHP,033 Urology,Chaffee,9
+RMHP,035 Cardiothoracic Surgery,Weld,9
+RMHP,101 Pediatrics - Routine/Primary Care,La Plata,9
+RMHP,103 Psychology,Chaffee,9
+RMHP,103 Psychology,Morgan,9
+RMHP,103 Psychology,Yuma,9
+RMHP, 000 OTHER,Boulder,8
+RMHP, 000 OTHER,El Paso,8
+RMHP, 004 Geriatrics,Adams,8
+RMHP, 004 Geriatrics,Jefferson,8
+RMHP, 103 Psychology,Chaffee,8
+RMHP,000 OTHER,Delta,8
+RMHP,002 Family Medicine,Kit Carson,8
+RMHP,002 Family Medicine,Rio Blanco,8
+RMHP,003 Internal Medicine,Montezuma,8
+RMHP,003 Internal Medicine,Montrose,8
+RMHP,007 Allergy and Immunology,Pueblo,8
+RMHP,011 Dermatology,Fremont,8
+RMHP,015 General Surgery,Chaffee,8
+RMHP,017 Infectious Diseases,Boulder,8
+RMHP,018 Nephrology,Alamosa,8
+RMHP,023 Ophthalmology,La Plata,8
+RMHP,025 Orthopedic Surgery,Fremont,8
+RMHP,025 Orthopedic Surgery,Garfield,8
+RMHP,027 Plastic Surgery,Jefferson,8
+RMHP,031 Rheumatology,Arapahoe,8
+RMHP,034 Vascular Surgery,Adams,8
+RMHP,034 Vascular Surgery,Pueblo,8
+RMHP,035 Cardiothoracic Surgery,Adams,8
+RMHP,101 Pediatrics - Routine/Primary Care,Pueblo,8
+RMHP, 025 Orthopedic Surgery,Denver,7
+RMHP, 030 Pulmonology,Denver,7
+RMHP, 101 Pediatrics - Routine/Primary Care,Larimer,7
+RMHP, 103 Psychology,Yuma,7
+RMHP,002 Family Medicine,Archuleta,7
+RMHP,002 Family Medicine,Clear Creek,7
+RMHP,002 Family Medicine,Las Animas,7
+RMHP,002 Family Medicine,Prowers,7
+RMHP,002 Family Medicine,Saguache,7
+RMHP,003 Internal Medicine,Morgan,7
+RMHP,006 Primary Care - Nurse Practitioner,Adams,7
+RMHP,007 Allergy and Immunology,Weld,7
+RMHP,013 ENT/Otolaryngology,Weld,7
+RMHP,014 Gastroenterology,Pueblo,7
+RMHP,015 General Surgery,Morgan,7
+RMHP,016 Gynecology (OB/GYN),Chaffee,7
+RMHP,016 Gynecology (OB/GYN),Pitkin,7
+RMHP,018 Nephrology,Boulder,7
+RMHP,019 Neurology,Chaffee,7
+RMHP,022 Radiation Oncology,Mesa,7
+RMHP,029 Psychiatry,Morgan,7
+RMHP,031 Rheumatology,Broomfield,7
+RMHP,033 Urology,Moffat,7
+RMHP,033 Urology,Pueblo,7
+RMHP,033 Urology,Teller,7
+RMHP,101 Pediatrics - Routine/Primary Care,Delta,7
+RMHP,101 Pediatrics - Routine/Primary Care,Montrose,7
+RMHP,102 Licensed Clinical Social Workers,Archuleta,7
+RMHP,102 Licensed Clinical Social Workers,Eagle,7
+RMHP,102 Licensed Clinical Social Workers,Prowers,7
+RMHP,103 Psychology,Summit,7
+RMHP, 025 Orthopedic Surgery,Larimer,6
+RMHP, 101 Pediatrics - Routine/Primary Care,Boulder,6
+RMHP, 101 Pediatrics - Routine/Primary Care,Douglas,6
+RMHP, 103 Psychology,Alamosa,6
+RMHP, 103 Psychology,Morgan,6
+RMHP,000 OTHER,Montezuma,6
+RMHP,002 Family Medicine,Gunnison,6
+RMHP,002 Family Medicine,Lake,6
+RMHP,002 Family Medicine,Washington,6
+RMHP,003 Internal Medicine,Fremont,6
+RMHP,003 Internal Medicine,Pitkin,6
+RMHP,006 Primary Care - Nurse Practitioner,La Plata,6
+RMHP,008 Cardiovascular Disease,La Plata,6
+RMHP,008 Cardiovascular Disease,Summit,6
+RMHP,011 Dermatology,Mesa,6
+RMHP,012 Endocrinology,El Paso,6
+RMHP,015 General Surgery,Delta,6
+RMHP,016 Gynecology (OB/GYN),Broomfield,6
+RMHP,016 Gynecology (OB/GYN),Montrose,6
+RMHP,016 Gynecology (OB/GYN),Prowers,6
+RMHP,017 Infectious Diseases,Douglas,6
+RMHP,017 Infectious Diseases,Larimer,6
+RMHP,019 Neurology,Pueblo,6
+RMHP,019 Neurology,Weld,6
+RMHP,020 Neurological Surgery,Denver,6
+RMHP,023 Ophthalmology,Garfield,6
+RMHP,023 Ophthalmology,Montezuma,6
+RMHP,025 Orthopedic Surgery,Grand,6
+RMHP,025 Orthopedic Surgery,Montrose,6
+RMHP,025 Orthopedic Surgery,Morgan,6
+RMHP,026 Physical Medicine & Rehabilitation,Douglas,6
+RMHP,026 Physical Medicine & Rehabilitation,Mesa,6
+RMHP,028 Podiatry,Broomfield,6
+RMHP,029 Psychiatry,Yuma,6
+RMHP,030 Pulmonology,La Plata,6
+RMHP,031 Rheumatology,Weld,6
+RMHP,033 Urology,Grand,6
+RMHP,033 Urology,Pitkin,6
+RMHP,034 Vascular Surgery,Mesa,6
+RMHP,035 Cardiothoracic Surgery,Jefferson,6
+RMHP,101 Pediatrics - Routine/Primary Care,Fremont,6
+RMHP,101 Pediatrics - Routine/Primary Care,Routt,6
+RMHP,102 Licensed Clinical Social Workers,Otero,6
+RMHP,103 Psychology,Alamosa,6
+RMHP,103 Psychology,La Plata,6
+RMHP,103 Psychology,Montrose,6
+RMHP, 000 OTHER,Adams,5
+RMHP, 014 Gastroenterology,Denver,5
+RMHP, 018 Nephrology,Larimer,5
+RMHP, 101 Pediatrics - Routine/Primary Care,Adams,5
+RMHP,000 OTHER,Custer,5
+RMHP,000 OTHER,Moffat,5
+RMHP,002 Family Medicine,Conejos,5
+RMHP,002 Family Medicine,Pitkin,5
+RMHP,003 Internal Medicine,Alamosa,5
+RMHP,003 Internal Medicine,Logan,5
+RMHP,003 Internal Medicine,Otero,5
+RMHP,006 Primary Care - Nurse Practitioner,Denver,5
+RMHP,006 Primary Care - Nurse Practitioner,Douglas,5
+RMHP,008 Cardiovascular Disease,Grand,5
+RMHP,008 Cardiovascular Disease,Montezuma,5
+RMHP,011 Dermatology,Chaffee,5
+RMHP,012 Endocrinology,Pueblo,5
+RMHP,013 ENT/Otolaryngology,Eagle,5
+RMHP,013 ENT/Otolaryngology,Mesa,5
+RMHP,013 ENT/Otolaryngology,Pueblo,5
+RMHP,014 Gastroenterology,La Plata,5
+RMHP,015 General Surgery,Alamosa,5
+RMHP,015 General Surgery,Broomfield,5
+RMHP,015 General Surgery,La Plata,5
+RMHP,015 General Surgery,Summit,5
+RMHP,016 Gynecology (OB/GYN),Delta,5
+RMHP,016 Gynecology (OB/GYN),Morgan,5
+RMHP,019 Neurology,Broomfield,5
+RMHP,019 Neurology,Mesa,5
+RMHP,020 Neurological Surgery,Mesa,5
+RMHP,020 Neurological Surgery,Weld,5
+RMHP,021 Medical Oncology & Surgical Oncology,Chaffee,5
+RMHP,021 Medical Oncology & Surgical Oncology,La Plata,5
+RMHP,021 Medical Oncology & Surgical Oncology,Pueblo,5
+RMHP,022 Radiation Oncology,Eagle,5
+RMHP,023 Ophthalmology,Archuleta,5
+RMHP,025 Orthopedic Surgery,Alamosa,5
+RMHP,025 Orthopedic Surgery,Moffat,5
+RMHP,026 Physical Medicine & Rehabilitation,Pueblo,5
+RMHP,027 Plastic Surgery,Boulder,5
+RMHP,027 Plastic Surgery,Douglas,5
+RMHP,027 Plastic Surgery,Larimer,5
+RMHP,027 Plastic Surgery,Mesa,5
+RMHP,028 Podiatry,La Plata,5
+RMHP,028 Podiatry,Logan,5
+RMHP,030 Pulmonology,Morgan,5
+RMHP,033 Urology,Broomfield,5
+RMHP,033 Urology,Mesa,5
+RMHP,035 Cardiothoracic Surgery,Boulder,5
+RMHP,035 Cardiothoracic Surgery,Mesa,5
+RMHP,101 Pediatrics - Routine/Primary Care,Moffat,5
+RMHP,101 Pediatrics - Routine/Primary Care,Pitkin,5
+RMHP,103 Psychology,Logan,5
+RMHP, 004 Geriatrics,Arapahoe,4
+RMHP, 008 Cardiovascular Disease,El Paso,4
+RMHP, 008 Cardiovascular Disease,Larimer,4
+RMHP, 021 Medical Oncology & Surgical Oncology,Adams,4
+RMHP, 025 Orthopedic Surgery,Mesa,4
+RMHP, 027 Plastic Surgery,Denver,4
+RMHP, 101 Pediatrics - Routine/Primary Care,Arapahoe,4
+RMHP, 101 Pediatrics - Routine/Primary Care,Routt,4
+RMHP, 103 Psychology,Broomfield,4
+RMHP, 103 Psychology,Delta,4
+RMHP, 103 Psychology,Elbert,4
+RMHP, 103 Psychology,Lincoln,4
+RMHP,000 OTHER,Kit Carson,4
+RMHP,002 Family Medicine,San Miguel,4
+RMHP,003 Internal Medicine,Delta,4
+RMHP,003 Internal Medicine,Las Animas,4
+RMHP,004 Geriatrics,Arapahoe,4
+RMHP,004 Geriatrics,Boulder,4
+RMHP,007 Allergy and Immunology,Fremont,4
+RMHP,007 Allergy and Immunology,Logan,4
+RMHP,008 Cardiovascular Disease,Alamosa,4
+RMHP,011 Dermatology,La Plata,4
+RMHP,012 Endocrinology,Douglas,4
+RMHP,013 ENT/Otolaryngology,Broomfield,4
+RMHP,013 ENT/Otolaryngology,La Plata,4
+RMHP,014 Gastroenterology,Garfield,4
+RMHP,015 General Surgery,Archuleta,4
+RMHP,015 General Surgery,Grand,4
+RMHP,015 General Surgery,Moffat,4
+RMHP,015 General Surgery,Montrose,4
+RMHP,015 General Surgery,Prowers,4
+RMHP,016 Gynecology (OB/GYN),Alamosa,4
+RMHP,016 Gynecology (OB/GYN),Grand,4
+RMHP,016 Gynecology (OB/GYN),Logan,4
+RMHP,016 Gynecology (OB/GYN),Routt,4
+RMHP,017 Infectious Diseases,Mesa,4
+RMHP,018 Nephrology,Mesa,4
+RMHP,019 Neurology,Morgan,4
+RMHP,021 Medical Oncology & Surgical Oncology,Alamosa,4
+RMHP,021 Medical Oncology & Surgical Oncology,Routt,4
+RMHP,022 Radiation Oncology,Larimer,4
+RMHP,023 Ophthalmology,Delta,4
+RMHP,023 Ophthalmology,Montrose,4
+RMHP,023 Ophthalmology,Otero,4
+RMHP,026 Physical Medicine & Rehabilitation,Eagle,4
+RMHP,026 Physical Medicine & Rehabilitation,La Plata,4
+RMHP,027 Plastic Surgery,Pueblo,4
+RMHP,028 Podiatry,Bent,4
+RMHP,028 Podiatry,Garfield,4
+RMHP,028 Podiatry,Moffat,4
+RMHP,028 Podiatry,Montezuma,4
+RMHP,029 Psychiatry,Logan,4
+RMHP,030 Pulmonology,Summit,4
+RMHP,030 Pulmonology,Yuma,4
+RMHP,031 Rheumatology,Mesa,4
+RMHP,033 Urology,Jefferson,4
+RMHP,033 Urology,Routt,4
+RMHP,035 Cardiothoracic Surgery,Arapahoe,4
+RMHP,035 Cardiothoracic Surgery,La Plata,4
+RMHP,102 Licensed Clinical Social Workers,Gunnison,4
+RMHP,102 Licensed Clinical Social Workers,Park,4
+RMHP,103 Psychology,Cheyenne,4
+RMHP,103 Psychology,Elbert,4
+RMHP,103 Psychology,Lincoln,4
+RMHP,103 Psychology,Phillips,4
+RMHP,103 Psychology,Sedgwick,4
+RMHP,103 Psychology,Washington,4
+RMHP, 000 OTHER,Eagle,3
+RMHP, 003 Internal Medicine,Fremont,3
+RMHP, 004 Geriatrics,Denver,3
+RMHP, 008 Cardiovascular Disease,Adams,3
+RMHP, 016 Gynecology (OB/GYN),Arapahoe,3
+RMHP, 018 Nephrology,Douglas,3
+RMHP, 018 Nephrology,Eagle,3
+RMHP, 021 Medical Oncology & Surgical Oncology,Boulder,3
+RMHP, 025 Orthopedic Surgery,Douglas,3
+RMHP, 025 Orthopedic Surgery,Jefferson,3
+RMHP, 026 Physical Medicine & Rehabilitation,Arapahoe,3
+RMHP, 030 Pulmonology,Boulder,3
+RMHP, 030 Pulmonology,Jefferson,3
+RMHP, 101 Pediatrics - Routine/Primary Care,Denver,3
+RMHP, 101 Pediatrics - Routine/Primary Care,Jefferson,3
+RMHP, 103 Psychology,Cheyenne,3
+RMHP, 103 Psychology,Fremont,3
+RMHP, 103 Psychology,Lake,3
+RMHP, 103 Psychology,Logan,3
+RMHP, 103 Psychology,Phillips,3
+RMHP, 103 Psychology,Sedgwick,3
+RMHP, 103 Psychology,Washington,3
+RMHP,000 OTHER,Gunnison,3
+RMHP,000 OTHER,Lake,3
+RMHP,000 OTHER,Logan,3
+RMHP,000 OTHER,Morgan,3
+RMHP,000 OTHER,Rio Grande,3
+RMHP,002 Family Medicine,Custer,3
+RMHP,002 Family Medicine,Elbert,3
+RMHP,002 Family Medicine,Lincoln,3
+RMHP,002 Family Medicine,Ouray,3
+RMHP,003 Internal Medicine,Chaffee,3
+RMHP,003 Internal Medicine,Grand,3
+RMHP,003 Internal Medicine,Moffat,3
+RMHP,004 Geriatrics,Denver,3
+RMHP,006 Primary Care - Nurse Practitioner,Larimer,3
+RMHP,006 Primary Care - Nurse Practitioner,Mesa,3
+RMHP,007 Allergy and Immunology,Garfield,3
+RMHP,008 Cardiovascular Disease,Archuleta,3
+RMHP,008 Cardiovascular Disease,Moffat,3
+RMHP,008 Cardiovascular Disease,Montrose,3
+RMHP,008 Cardiovascular Disease,Rio Blanco,3
+RMHP,011 Dermatology,Garfield,3
+RMHP,013 ENT/Otolaryngology,Garfield,3
+RMHP,013 ENT/Otolaryngology,Teller,3
+RMHP,014 Gastroenterology,Custer,3
+RMHP,014 Gastroenterology,Eagle,3
+RMHP,014 Gastroenterology,Lake,3
+RMHP,015 General Surgery,Montezuma,3
+RMHP,015 General Surgery,Phillips,3
+RMHP,016 Gynecology (OB/GYN),Fremont,3
+RMHP,016 Gynecology (OB/GYN),Gunnison,3
+RMHP,016 Gynecology (OB/GYN),Yuma,3
+RMHP,017 Infectious Diseases,Weld,3
+RMHP,018 Nephrology,La Plata,3
+RMHP,018 Nephrology,Montezuma,3
+RMHP,020 Neurological Surgery,Garfield,3
+RMHP,020 Neurological Surgery,Pueblo,3
+RMHP,021 Medical Oncology & Surgical Oncology,Delta,3
+RMHP,021 Medical Oncology & Surgical Oncology,Eagle,3
+RMHP,021 Medical Oncology & Surgical Oncology,Garfield,3
+RMHP,021 Medical Oncology & Surgical Oncology,Montrose,3
+RMHP,022 Radiation Oncology,Douglas,3
+RMHP,025 Orthopedic Surgery,Archuleta,3
+RMHP,025 Orthopedic Surgery,Delta,3
+RMHP,026 Physical Medicine & Rehabilitation,Routt,3
+RMHP,027 Plastic Surgery,La Plata,3
+RMHP,028 Podiatry,Eagle,3
+RMHP,028 Podiatry,Grand,3
+RMHP,028 Podiatry,Morgan,3
+RMHP,029 Psychiatry,Chaffee,3
+RMHP,029 Psychiatry,Cheyenne,3
+RMHP,029 Psychiatry,Elbert,3
+RMHP,029 Psychiatry,Lincoln,3
+RMHP,029 Psychiatry,Montrose,3
+RMHP,029 Psychiatry,Phillips,3
+RMHP,029 Psychiatry,Routt,3
+RMHP,029 Psychiatry,Sedgwick,3
+RMHP,029 Psychiatry,Summit,3
+RMHP,029 Psychiatry,Washington,3
+RMHP,030 Pulmonology,Chaffee,3
+RMHP,030 Pulmonology,Garfield,3
+RMHP,031 Rheumatology,Pueblo,3
+RMHP,033 Urology,La Plata,3
+RMHP,033 Urology,Rio Blanco,3
+RMHP,033 Urology,Summit,3
+RMHP,034 Vascular Surgery,Jefferson,3
+RMHP,035 Cardiothoracic Surgery,Logan,3
+RMHP,101 Pediatrics - Routine/Primary Care,Alamosa,3
+RMHP,102 Licensed Clinical Social Workers,Kit Carson,3
+RMHP,102 Licensed Clinical Social Workers,Moffat,3
+RMHP,102 Licensed Clinical Social Workers,Montezuma,3
+RMHP,102 Licensed Clinical Social Workers,Ouray,3
+RMHP,102 Licensed Clinical Social Workers,San Miguel,3
+RMHP,103 Psychology,Custer,3
+RMHP,103 Psychology,Eagle,3
+RMHP,103 Psychology,Fremont,3
+RMHP,103 Psychology,Garfield,3
+RMHP,103 Psychology,Lake,3
+RMHP, 000 OTHER,Mesa,2
+RMHP, 000 OTHER,Summit,2
+RMHP, 004 Geriatrics,Alamosa,2
+RMHP, 004 Geriatrics,Broomfield,2
+RMHP, 004 Geriatrics,El Paso,2
+RMHP, 004 Geriatrics,Pueblo,2
+RMHP, 007 Allergy and Immunology,Boulder,2
+RMHP, 008 Cardiovascular Disease,Denver,2
+RMHP, 008 Cardiovascular Disease,Douglas,2
+RMHP, 012 Endocrinology,Denver,2
+RMHP, 014 Gastroenterology,Adams,2
+RMHP, 014 Gastroenterology,Arapahoe,2
+RMHP, 014 Gastroenterology,Broomfield,2
+RMHP, 016 Gynecology (OB/GYN),Eagle,2
+RMHP, 016 Gynecology (OB/GYN),Garfield,2
+RMHP, 017 Infectious Diseases,Denver,2
+RMHP, 021 Medical Oncology & Surgical Oncology,Denver,2
+RMHP, 021 Medical Oncology & Surgical Oncology,Jefferson,2
+RMHP, 021 Medical Oncology & Surgical Oncology,La Plata,2
+RMHP, 021 Medical Oncology & Surgical Oncology,Larimer,2
+RMHP, 025 Orthopedic Surgery,Adams,2
+RMHP, 025 Orthopedic Surgery,Teller,2
+RMHP, 026 Physical Medicine & Rehabilitation,Denver,2
+RMHP, 027 Plastic Surgery,Douglas,2
+RMHP, 027 Plastic Surgery,Mesa,2
+RMHP, 030 Pulmonology,Douglas,2
+RMHP, 031 Rheumatology,Denver,2
+RMHP, 034 Vascular Surgery,Jefferson,2
+RMHP, 034 Vascular Surgery,Pueblo,2
+RMHP, 103 Psychology,Custer,2
+RMHP, 103 Psychology,Gunnison,2
+RMHP, 103 Psychology,Park,2
+RMHP, 103 Psychology,Prowers,2
+RMHP, 103 Psychology,Summit,2
+RMHP,000 OTHER,Las Animas,2
+RMHP,000 OTHER,San Miguel,2
+RMHP,000 OTHER,Yuma,2
+RMHP,002 Family Medicine,Mineral,2
+RMHP,003 Internal Medicine,Archuleta,2
+RMHP,003 Internal Medicine,Rio Grande,2
+RMHP,003 Internal Medicine,Summit,2
+RMHP,006 Primary Care - Nurse Practitioner,Archuleta,2
+RMHP,006 Primary Care - Nurse Practitioner,Delta,2
+RMHP,006 Primary Care - Nurse Practitioner,Eagle,2
+RMHP,006 Primary Care - Nurse Practitioner,Garfield,2
+RMHP,006 Primary Care - Nurse Practitioner,Jefferson,2
+RMHP,007 Allergy and Immunology,Eagle,2
+RMHP,007 Allergy and Immunology,Mesa,2
+RMHP,007 Allergy and Immunology,Morgan,2
+RMHP,008 Cardiovascular Disease,Gunnison,2
+RMHP,008 Cardiovascular Disease,Kit Carson,2
+RMHP,008 Cardiovascular Disease,Lake,2
+RMHP,011 Dermatology,Montrose,2
+RMHP,011 Dermatology,Yuma,2
+RMHP,012 Endocrinology,Logan,2
+RMHP,012 Endocrinology,Mesa,2
+RMHP,012 Endocrinology,Summit,2
+RMHP,013 ENT/Otolaryngology,Delta,2
+RMHP,013 ENT/Otolaryngology,Moffat,2
+RMHP,013 ENT/Otolaryngology,Routt,2
+RMHP,013 ENT/Otolaryngology,Summit,2
+RMHP,015 General Surgery,Gunnison,2
+RMHP,015 General Surgery,Las Animas,2
+RMHP,015 General Surgery,Otero,2
+RMHP,015 General Surgery,Routt,2
+RMHP,015 General Surgery,Teller,2
+RMHP,015 General Surgery,Yuma,2
+RMHP,016 Gynecology (OB/GYN),Montezuma,2
+RMHP,016 Gynecology (OB/GYN),Phillips,2
+RMHP,017 Infectious Diseases,La Plata,2
+RMHP,017 Infectious Diseases,Pueblo,2
+RMHP,018 Nephrology,Logan,2
+RMHP,018 Nephrology,Morgan,2
+RMHP,018 Nephrology,Weld,2
+RMHP,019 Neurology,Eagle,2
+RMHP,019 Neurology,Garfield,2
+RMHP,019 Neurology,La Plata,2
+RMHP,020 Neurological Surgery,Broomfield,2
+RMHP,022 Radiation Oncology,Garfield,2
+RMHP,022 Radiation Oncology,La Plata,2
+RMHP,022 Radiation Oncology,Logan,2
+RMHP,022 Radiation Oncology,Pueblo,2
+RMHP,022 Radiation Oncology,Weld,2
+RMHP,023 Ophthalmology,Eagle,2
+RMHP,023 Ophthalmology,Logan,2
+RMHP,025 Orthopedic Surgery,Chaffee,2
+RMHP,025 Orthopedic Surgery,Montezuma,2
+RMHP,025 Orthopedic Surgery,Rio Blanco,2
+RMHP,025 Orthopedic Surgery,Rio Grande,2
+RMHP,025 Orthopedic Surgery,San Miguel,2
+RMHP,026 Physical Medicine & Rehabilitation,Grand,2
+RMHP,026 Physical Medicine & Rehabilitation,Montezuma,2
+RMHP,028 Podiatry,Archuleta,2
+RMHP,028 Podiatry,Chaffee,2
+RMHP,028 Podiatry,Delta,2
+RMHP,028 Podiatry,Fremont,2
+RMHP,028 Podiatry,Montrose,2
+RMHP,028 Podiatry,Summit,2
+RMHP,029 Psychiatry,Archuleta,2
+RMHP,029 Psychiatry,Garfield,2
+RMHP,030 Pulmonology,Delta,2
+RMHP,030 Pulmonology,Eagle,2
+RMHP,030 Pulmonology,Montezuma,2
+RMHP,030 Pulmonology,Pueblo,2
+RMHP,030 Pulmonology,Routt,2
+RMHP,031 Rheumatology,La Plata,2
+RMHP,033 Urology,Montrose,2
+RMHP,033 Urology,Morgan,2
+RMHP,033 Urology,Yuma,2
+RMHP,034 Vascular Surgery,Larimer,2
+RMHP,035 Cardiothoracic Surgery,Eagle,2
+RMHP,035 Cardiothoracic Surgery,Summit,2
+RMHP,101 Pediatrics - Routine/Primary Care,Summit,2
+RMHP,102 Licensed Clinical Social Workers,Grand,2
+RMHP,102 Licensed Clinical Social Workers,Huerfano,2
+RMHP,103 Psychology,Delta,2
+RMHP,103 Psychology,Moffat,2
+RMHP,103 Psychology,Routt,2
+RMHP,103 Psychology,Teller,2
+RMHP, 000 OTHER,Broomfield,1
+RMHP, 000 OTHER,Kit Carson,1
+RMHP, 004 Geriatrics,Boulder,1
+RMHP, 004 Geriatrics,Conejos,1
+RMHP, 004 Geriatrics,Moffat,1
+RMHP, 007 Allergy and Immunology,Weld,1
+RMHP, 008 Cardiovascular Disease,Arapahoe,1
+RMHP, 008 Cardiovascular Disease,Boulder,1
+RMHP, 008 Cardiovascular Disease,Grand,1
+RMHP, 008 Cardiovascular Disease,Moffat,1
+RMHP, 008 Cardiovascular Disease,Routt,1
+RMHP, 008 Cardiovascular Disease,Weld,1
+RMHP, 012 Endocrinology,Boulder,1
+RMHP, 012 Endocrinology,Broomfield,1
+RMHP, 012 Endocrinology,Douglas,1
+RMHP, 014 Gastroenterology,Archuleta,1
+RMHP, 014 Gastroenterology,Douglas,1
+RMHP, 014 Gastroenterology,La Plata,1
+RMHP, 015 General Surgery,Baca,1
+RMHP, 015 General Surgery,Boulder,1
+RMHP, 015 General Surgery,Denver,1
+RMHP, 015 General Surgery,Kit Carson,1
+RMHP, 015 General Surgery,Lincoln,1
+RMHP, 015 General Surgery,Yuma,1
+RMHP, 016 Gynecology (OB/GYN),Jefferson,1
+RMHP, 016 Gynecology (OB/GYN),Montrose,1
+RMHP, 017 Infectious Diseases,Garfield,1
+RMHP, 017 Infectious Diseases,Larimer,1
+RMHP, 018 Nephrology,Adams,1
+RMHP, 018 Nephrology,El Paso,1
+RMHP, 018 Nephrology,Jefferson,1
+RMHP, 018 Nephrology,Weld,1
+RMHP, 021 Medical Oncology & Surgical Oncology,El Paso,1
+RMHP, 021 Medical Oncology & Surgical Oncology,Montrose,1
+RMHP, 021 Medical Oncology & Surgical Oncology,Pueblo,1
+RMHP, 025 Orthopedic Surgery,Arapahoe,1
+RMHP, 025 Orthopedic Surgery,Broomfield,1
+RMHP, 025 Orthopedic Surgery,Eagle,1
+RMHP, 026 Physical Medicine & Rehabilitation,El Paso,1
+RMHP, 026 Physical Medicine & Rehabilitation,Larimer,1
+RMHP, 026 Physical Medicine & Rehabilitation,Mesa,1
+RMHP, 026 Physical Medicine & Rehabilitation,Weld,1
+RMHP, 027 Plastic Surgery,Arapahoe,1
+RMHP, 027 Plastic Surgery,Delta,1
+RMHP, 027 Plastic Surgery,Garfield,1
+RMHP, 027 Plastic Surgery,Jefferson,1
+RMHP, 027 Plastic Surgery,Larimer,1
+RMHP, 029 Psychiatry,Boulder,1
+RMHP, 029 Psychiatry,Denver,1
+RMHP, 030 Pulmonology,Adams,1
+RMHP, 030 Pulmonology,Arapahoe,1
+RMHP, 030 Pulmonology,Pueblo,1
+RMHP, 030 Pulmonology,Summit,1
+RMHP, 030 Pulmonology,Yuma,1
+RMHP, 034 Vascular Surgery,Boulder,1
+RMHP, 034 Vascular Surgery,Denver,1
+RMHP, 034 Vascular Surgery,El Paso,1
+RMHP, 035 Cardiothoracic Surgery,Larimer,1
+RMHP, 035 Cardiothoracic Surgery,Morgan,1
+RMHP, 101 Pediatrics - Routine/Primary Care,El Paso,1
+RMHP, 101 Pediatrics - Routine/Primary Care,Garfield,1
+RMHP, 101 Pediatrics - Routine/Primary Care,Mesa,1
+RMHP, 101 Pediatrics - Routine/Primary Care,Pueblo,1
+RMHP, 102 Licensed Clinical Social Workers,San Miguel,1
+RMHP, 103 Psychology,Archuleta,1
+RMHP, 103 Psychology,Clear Creek,1
+RMHP, 103 Psychology,Eagle,1
+RMHP, 103 Psychology,Garfield,1
+RMHP, 103 Psychology,Grand,1
+RMHP, 103 Psychology,Moffat,1
+RMHP, 103 Psychology,Montrose,1
+RMHP, 103 Psychology,Rio Blanco,1
+RMHP, 103 Psychology,Routt,1
+RMHP, 103 Psychology,San Miguel,1
+RMHP,000 OTHER,Archuleta,1
+RMHP,000 OTHER,Conejos,1
+RMHP,000 OTHER,Elbert,1
+RMHP,000 OTHER,Lincoln,1
+RMHP,000 OTHER,Park,1
+RMHP,000 OTHER,Pitkin,1
+RMHP,000 OTHER,Teller,1
+RMHP,002 Family Medicine,Baca,1
+RMHP,002 Family Medicine,Cheyenne,1
+RMHP,002 Family Medicine,Costilla,1
+RMHP,003 Internal Medicine,Conejos,1
+RMHP,003 Internal Medicine,Custer,1
+RMHP,003 Internal Medicine,Gunnison,1
+RMHP,003 Internal Medicine,Lake,1
+RMHP,003 Internal Medicine,San Miguel,1
+RMHP,003 Internal Medicine,Teller,1
+RMHP,003 Internal Medicine,Yuma,1
+RMHP,004 Geriatrics,Broomfield,1
+RMHP,004 Geriatrics,Larimer,1
+RMHP,005 Primary Care - Physician Assistant,Arapahoe,1
+RMHP,005 Primary Care - Physician Assistant,Denver,1
+RMHP,006 Primary Care - Nurse Practitioner,Broomfield,1
+RMHP,006 Primary Care - Nurse Practitioner,Logan,1
+RMHP,006 Primary Care - Nurse Practitioner,Montrose,1
+RMHP,006 Primary Care - Nurse Practitioner,Rio Blanco,1
+RMHP,006 Primary Care - Nurse Practitioner,San Miguel,1
+RMHP,007 Allergy and Immunology,La Plata,1
+RMHP,008 Cardiovascular Disease,Baca,1
+RMHP,008 Cardiovascular Disease,Chaffee,1
+RMHP,008 Cardiovascular Disease,Fremont,1
+RMHP,008 Cardiovascular Disease,Jackson,1
+RMHP,008 Cardiovascular Disease,Lincoln,1
+RMHP,008 Cardiovascular Disease,Otero,1
+RMHP,008 Cardiovascular Disease,Rio Grande,1
+RMHP,011 Dermatology,Broomfield,1
+RMHP,011 Dermatology,Gunnison,1
+RMHP,011 Dermatology,Logan,1
+RMHP,011 Dermatology,Moffat,1
+RMHP,011 Dermatology,Morgan,1
+RMHP,011 Dermatology,Pitkin,1
+RMHP,011 Dermatology,Routt,1
+RMHP,011 Dermatology,Teller,1
+RMHP,012 Endocrinology,Delta,1
+RMHP,012 Endocrinology,Eagle,1
+RMHP,012 Endocrinology,La Plata,1
+RMHP,013 ENT/Otolaryngology,Alamosa,1
+RMHP,013 ENT/Otolaryngology,Archuleta,1
+RMHP,013 ENT/Otolaryngology,Chaffee,1
+RMHP,013 ENT/Otolaryngology,Montrose,1
+RMHP,013 ENT/Otolaryngology,Rio Blanco,1
+RMHP,014 Gastroenterology,Baca,1
+RMHP,014 Gastroenterology,Kit Carson,1
+RMHP,014 Gastroenterology,Lincoln,1
+RMHP,014 Gastroenterology,Logan,1
+RMHP,014 Gastroenterology,Pitkin,1
+RMHP,014 Gastroenterology,Rio Blanco,1
+RMHP,014 Gastroenterology,Routt,1
+RMHP,014 Gastroenterology,Yuma,1
+RMHP,015 General Surgery,Pitkin,1
+RMHP,015 General Surgery,Rio Blanco,1
+RMHP,015 General Surgery,Sedgwick,1
+RMHP,016 Gynecology (OB/GYN),Lake,1
+RMHP,016 Gynecology (OB/GYN),Las Animas,1
+RMHP,016 Gynecology (OB/GYN),Washington,1
+RMHP,018 Nephrology,Chaffee,1
+RMHP,019 Neurology,Alamosa,1
+RMHP,019 Neurology,Custer,1
+RMHP,019 Neurology,Lake,1
+RMHP,019 Neurology,Montrose,1
+RMHP,019 Neurology,Phillips,1
+RMHP,019 Neurology,Routt,1
+RMHP,019 Neurology,Summit,1
+RMHP,019 Neurology,Yuma,1
+RMHP,020 Neurological Surgery,Eagle,1
+RMHP,020 Neurological Surgery,La Plata,1
+RMHP,020 Neurological Surgery,Montezuma,1
+RMHP,021 Medical Oncology & Surgical Oncology,Broomfield,1
+RMHP,021 Medical Oncology & Surgical Oncology,Gunnison,1
+RMHP,021 Medical Oncology & Surgical Oncology,Logan,1
+RMHP,021 Medical Oncology & Surgical Oncology,Morgan,1
+RMHP,021 Medical Oncology & Surgical Oncology,Summit,1
+RMHP,021 Medical Oncology & Surgical Oncology,Yuma,1
+RMHP,022 Radiation Oncology,Montrose,1
+RMHP,022 Radiation Oncology,Routt,1
+RMHP,023 Ophthalmology,Broomfield,1
+RMHP,023 Ophthalmology,Chaffee,1
+RMHP,023 Ophthalmology,Fremont,1
+RMHP,023 Ophthalmology,Las Animas,1
+RMHP,023 Ophthalmology,Lincoln,1
+RMHP,023 Ophthalmology,Moffat,1
+RMHP,023 Ophthalmology,Routt,1
+RMHP,023 Ophthalmology,San Miguel,1
+RMHP,023 Ophthalmology,Teller,1
+RMHP,025 Orthopedic Surgery,Huerfano,1
+RMHP,025 Orthopedic Surgery,Kit Carson,1
+RMHP,025 Orthopedic Surgery,Las Animas,1
+RMHP,025 Orthopedic Surgery,Otero,1
+RMHP,025 Orthopedic Surgery,Phillips,1
+RMHP,025 Orthopedic Surgery,Teller,1
+RMHP,025 Orthopedic Surgery,Yuma,1
+RMHP,026 Physical Medicine & Rehabilitation,Alamosa,1
+RMHP,026 Physical Medicine & Rehabilitation,Broomfield,1
+RMHP,026 Physical Medicine & Rehabilitation,Delta,1
+RMHP,026 Physical Medicine & Rehabilitation,Garfield,1
+RMHP,026 Physical Medicine & Rehabilitation,Gunnison,1
+RMHP,026 Physical Medicine & Rehabilitation,Montrose,1
+RMHP,026 Physical Medicine & Rehabilitation,Summit,1
+RMHP,027 Plastic Surgery,Broomfield,1
+RMHP,027 Plastic Surgery,Eagle,1
+RMHP,027 Plastic Surgery,Garfield,1
+RMHP,027 Plastic Surgery,Grand,1
+RMHP,027 Plastic Surgery,Pitkin,1
+RMHP,027 Plastic Surgery,Routt,1
+RMHP,027 Plastic Surgery,Saguache,1
+RMHP,027 Plastic Surgery,Weld,1
+RMHP,028 Podiatry,Alamosa,1
+RMHP,028 Podiatry,Gunnison,1
+RMHP,028 Podiatry,Huerfano,1
+RMHP,028 Podiatry,Las Animas,1
+RMHP,028 Podiatry,Otero,1
+RMHP,028 Podiatry,Teller,1
+RMHP,029 Psychiatry,Custer,1
+RMHP,029 Psychiatry,Fremont,1
+RMHP,029 Psychiatry,Grand,1
+RMHP,029 Psychiatry,Lake,1
+RMHP,029 Psychiatry,Moffat,1
+RMHP,029 Psychiatry,Montezuma,1
+RMHP,030 Pulmonology,Broomfield,1
+RMHP,030 Pulmonology,Logan,1
+RMHP,030 Pulmonology,Montrose,1
+RMHP,030 Pulmonology,Phillips,1
+RMHP,031 Rheumatology,Delta,1
+RMHP,031 Rheumatology,Montezuma,1
+RMHP,033 Urology,Fremont,1
+RMHP,033 Urology,Logan,1
+RMHP,034 Vascular Surgery,Arapahoe,1
+RMHP,034 Vascular Surgery,Teller,1
+RMHP,035 Cardiothoracic Surgery,Douglas,1
+RMHP,035 Cardiothoracic Surgery,Fremont,1
+RMHP,035 Cardiothoracic Surgery,Garfield,1
+RMHP,035 Cardiothoracic Surgery,Routt,1
+RMHP,101 Pediatrics - Routine/Primary Care,Gunnison,1
+RMHP,101 Pediatrics - Routine/Primary Care,Las Animas,1
+RMHP,101 Pediatrics - Routine/Primary Care,Morgan,1
+RMHP,101 Pediatrics - Routine/Primary Care,Otero,1
+RMHP,101 Pediatrics - Routine/Primary Care,Prowers,1
+RMHP,102 Licensed Clinical Social Workers,Clear Creek,1
+RMHP,102 Licensed Clinical Social Workers,Dolores,1
+RMHP,102 Licensed Clinical Social Workers,Gilpin,1
+RMHP,102 Licensed Clinical Social Workers,Hinsdale,1
+RMHP,102 Licensed Clinical Social Workers,Las Animas,1
+RMHP,102 Licensed Clinical Social Workers,Rio Blanco,1
+RMHP,103 Psychology,Archuleta,1
+RMHP,103 Psychology,Gilpin,1
+RMHP,103 Psychology,Grand,1
+RMHP,103 Psychology,Gunnison,1
+RMHP,103 Psychology,Las Animas,1
+RMHP,103 Psychology,Montezuma,1
+RMHP,103 Psychology,Otero,1
+RMHP,103 Psychology,Pitkin,1
+RMHP,103 Psychology,Rio Blanco,1
+RMHP,103 Psychology,San Miguel,1

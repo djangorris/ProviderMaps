@@ -37,10 +37,11 @@ cols <- c("Anthem BCBS" = "blue",
 # Specialty categories faceted side by side
 ggplot(data, aes(x = Carrier, y = Total, fill = Carrier)) +
   geom_bar(position="dodge", stat="identity") +
+  geom_text(aes(label= format(Total, big.mark=",", trim=TRUE)), vjust = -0.5) +
   facet_wrap(~Specialty) +
   xlab(" ") +
   ylab(NULL) +
-  ggtitle("Colorado Mental Health Providers Grouped by Similar Specialty") +
+  ggtitle("2018 Colorado Mental Health Providers Grouped by Similar Specialty") +
   scale_fill_manual(values = cols) +
   labs(caption = "  Graphic by Colorado Health Insurance Insider / @lukkyjay                                                                                                                                                           Source: SERFF") +
   theme(plot.margin = margin(5, 5, 5, 5),

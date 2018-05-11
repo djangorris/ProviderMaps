@@ -1,5 +1,5 @@
 ###### STATEWIDE BY SPECIALTY #####
-selected_specialty <- "003 Internal Medicine"
+selected_specialty <- "031 Rheumatology"
 clean_selected_specialty <- str_replace_all(selected_specialty, " ", "_")
 STATEWIDE <- ALL_statewide_specialty_count %>%
   filter(Specialty == selected_specialty)
@@ -12,9 +12,10 @@ cols <- c("Anthem BCBS" = "blue",
           "RMHP" = "darkorange")
 ggplot(STATEWIDE, aes(x = Carrier, y = count, fill = Carrier)) +
   geom_bar(position="dodge", stat="identity") +
+  geom_text(aes(label= format(count, big.mark=",", trim=TRUE)), vjust = -0.5) +
   xlab(" ") +
   ylab(NULL) +
-  ggtitle(str_c("Providers listed as ", '"', selected_specialty, '" in Colorado')) +
+  ggtitle(str_c("2018 Providers listed as ", '"', selected_specialty, '" in Colorado')) +
   scale_fill_manual(values = cols) +
   labs(caption = "  Graphic by Colorado Health Insurance Insider / @lukkyjay                                                                                                                                                           Source: SERFF") +
   theme(plot.margin = margin(5, 5, 5, 5),
