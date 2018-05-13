@@ -39,4 +39,5 @@ write_csv(dermatology_011, path = "Processed_CSV/Specialties/dermatology_011.csv
 
 write_csv(SLICE_1_endocrinology_012, path = "Processed_CSV/Specialties/SLICE_1_endocrinology_012.csv")
 
-Sys.time()
+# NOTE THE FINISH TIME - API STARTS OVER IN 24 HOURS
+format(Sys.time(), "%m/%d/%y %l:%M:%S")

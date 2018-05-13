@@ -1,3 +1,8 @@
+# GET COUNT FOR EACH CARRIER
+selected_specialty <- "010 Chiropracty"
+clean_selected_specialty <- str_replace_all(selected_specialty, " ", "_")
+SW_chiropracty <- ALL_statewide_specialty_count %>%
+  filter(Specialty == selected_specialty)
 # DEFINING THE MAP
 col_lon <- c(-109, -102)
 col_lat <- c(36.86204, 41.03)
