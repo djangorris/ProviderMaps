@@ -1,3 +1,10 @@
+# # MONDAY START TIME
+# > start_time
+# [1] "05/14/18  4:06:50"
+#
+# > # MONDAY FINISH TIME - API STARTS OVER IN 24 HOURS
+#   > format(Sys.time(), "%m/%d/%y %l:%M:%S")
+# [1] "05/14/18  4:30:13"
 #### FIRST MAKE SURE THERE ARE QUERIES AVAILABLE ###
 geocodeQueryCheck()
 # MONDAY START TIME - AIM FOR AFTER 4:01 PM

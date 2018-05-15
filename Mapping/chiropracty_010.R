@@ -1,7 +1,7 @@
 # GET COUNT FOR EACH CARRIER
 selected_specialty <- "010 Chiropracty"
 clean_selected_specialty <- str_replace_all(selected_specialty, " ", "_")
-SW_chiropracty <- ALL_statewide_specialty_count %>%
+statewide_count_chiropracty <- ALL_statewide_specialty_count %>%
   filter(Specialty == selected_specialty)
 # DEFINING THE MAP
 col_lon <- c(-109, -102)
@@ -33,6 +33,8 @@ ggmap(co_map, extent = "device") +
   xlab(" ") +
   ylab(NULL) +
   ggtitle('2018 "chiropracty_010" Providers') +
+  geom_text(data = statewide_count_chiropracty, aes(x = -108.5, y = 41, label = count)) +
+            # color = "black", inherit.aes = FALSE, parse = FALSE) +
   labs(caption = "\n\n  Graphic by Colorado Health Insurance Insider | @lukkyjay                                                                                          Source: SERFF") +
   theme_provider_maps +
   ggsave(filename = "Plots/chiropracty_010.png", width = 9, height = 5, dpi = 1200)
