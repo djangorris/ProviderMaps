@@ -51,5 +51,5 @@ TOTAL_Specialty_Count <- FINAL_CO_all_medical_providers %>%
   group_by(Specialty) %>%
   summarise(n = n())
 
-
-
+### BINDING TWO SLICES TOGETHER
+general_surgery_015 <- bind_rows(SLICE_1_general_surgery_015, SLICE_2_general_surgery_015)
