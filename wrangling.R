@@ -51,5 +51,6 @@ TOTAL_Specialty_Count <- FINAL_CO_all_medical_providers %>%
   group_by(Specialty) %>%
   summarise(n = n())
 
-### BINDING TWO SLICES TOGETHER
-general_surgery_015 <- bind_rows(SLICE_1_general_surgery_015, SLICE_2_general_surgery_015)
+### BINDING SLICES TOGETHER
+primary_care_NP_006 <- bind_rows(SLICE_1_primary_care_NP_006, SLICE_2_primary_care_NP_006)
+write_csv(primary_care_NP_006, path = "Processed_CSV/Specialties/primary_care_NP_006.csv")

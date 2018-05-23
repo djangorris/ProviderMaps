@@ -1,4 +1,11 @@
-
+# # PREVIOUS START TIME
+# > clean_start_time
+# [1] "05/20/18  8:35:37"
+# finish_time
+#   [1] "05/20/18  8:58:45"
+#
+#   > difftime(finish_time, start_time)
+#   Time difference of 23.13059 mins
 #### FIRST MAKE SURE THERE ARE QUERIES AVAILABLE ###
 geocodeQueryCheck()
 # START TIME - AIM FOR 4:20 PM

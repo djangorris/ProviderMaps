@@ -1,4 +1,17 @@
-
+# # PREVIOUS START TIME
+# > clean_start_time
+# [1] "05/19/18  8:26:14"
+#
+# > # PREVIOUS FINISH TIME
+#   > finish_time <- Sys.time()
+#
+#   > clean_finish_time <- format(finish_time, "%m/%d/%y %l:%M:%S")
+#
+#   > clean_finish_time
+#   [1] "05/19/18  8:51:36"
+#
+#   > difftime(finish_time, start_time)
+#   Time difference of 25.35965 mins
 #### FIRST MAKE SURE THERE ARE QUERIES AVAILABLE ###
 geocodeQueryCheck()
 # START TIME - AIM FOR 4:20 PM

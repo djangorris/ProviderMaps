@@ -21,6 +21,14 @@ library(extrafont)
 library(scales)
 library(bigtabulate)
 
+# LOAD GEOCODING COMMANDS IN secret.r
+
+#cronR
+devtools::install_github("bnosac/cronR")
+install.packages('miniUI')
+install.packages('shiny')
+install.packages('shinyFiles')
+
 # Provider Map theme
 theme_provider_maps <- theme(plot.margin = margin(10, 10, 10, 10),
                              plot.title = element_text(family = "Arial Narrow",
