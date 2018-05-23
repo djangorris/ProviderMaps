@@ -9,43 +9,43 @@ geocodeQueryCheck()
 start_time <- Sys.time()
 clean_start_time <- format(start_time, "%m/%d/%y %l:%M:%S")
 # FILTER SPECIALTY
-family_medicine_002 <- filter(CO_all_medical_providers, Specialty %in% "002 Family Medicine")
+ophthalmology_023 <- filter(CO_all_medical_providers, Specialty %in% "023 Ophthalmology")
 
-internal_medicine_003 <- filter(CO_all_medical_providers, Specialty %in% "003 Internal Medicine")
+orthopedic_surgery_025 <- filter(CO_all_medical_providers, Specialty %in% "025 Orthopedic Surgery")
 
 # SLICE
 #### Next day: SATURDAY | 2018-05-12 3:56:41 MDT | READY ####
 
-SLICE_4_family_medicine_002 <- slice(family_medicine_002, 6739:n())
+SLICE_2_ophthalmology_023 <- slice(ophthalmology_023, 277:n())
 
-SLICE_1_internal_medicine_003 <- slice(internal_medicine_003, 1:1817)
+SLICE_1_orthopedic_surgery_025 <- slice(orthopedic_surgery_025, 1:1028)
 
 #### CALCULATE sum SHOULD EQUAL 2500
-friday1<- nrow(SLICE_4_family_medicine_002)
+friday1<- nrow(SLICE_2_ophthalmology_023)
 friday1
-friday2<- nrow(SLICE_1_internal_medicine_003)
+friday2<- nrow(SLICE_1_orthopedic_surgery_025)
 friday2
 sum(friday1, friday2)
 
 ## USE THE GEOCODING API INFO IN SECRET.R
-# SLICE_4_family_medicine_002_geo <- geocode(location = SLICE_4_family_medicine_002$locations, output="latlon", source="google")
+# SLICE_2_ophthalmology_023_geo <- geocode(location = SLICE_2_ophthalmology_023$locations, output="latlon", source="google")
 
-SLICE_4_family_medicine_002_geo <- geocode(location = SLICE_4_family_medicine_002$locations, output="latlon", source="google")
+SLICE_2_ophthalmology_023_geo <- geocode(location = SLICE_2_ophthalmology_023$locations, output="latlon", source="google")
 
-SLICE_1_internal_medicine_003_geo <- geocode(location = SLICE_1_internal_medicine_003$locations, output="latlon", source="google")
+SLICE_1_orthopedic_surgery_025_geo <- geocode(location = SLICE_1_orthopedic_surgery_025$locations, output="latlon", source="google")
 
 # Bringing over the longitude and latitude data
 
-SLICE_4_family_medicine_002$lon <- SLICE_4_family_medicine_002_geo$lon
-SLICE_4_family_medicine_002$lat <- SLICE_4_family_medicine_002_geo$lat
+SLICE_2_ophthalmology_023$lon <- SLICE_2_ophthalmology_023_geo$lon
+SLICE_2_ophthalmology_023$lat <- SLICE_2_ophthalmology_023_geo$lat
 
-SLICE_1_internal_medicine_003$lon <- SLICE_1_internal_medicine_003_geo$lon
-SLICE_1_internal_medicine_003$lat <- SLICE_1_internal_medicine_003_geo$lat
+SLICE_1_orthopedic_surgery_025$lon <- SLICE_1_orthopedic_surgery_025_geo$lon
+SLICE_1_orthopedic_surgery_025$lat <- SLICE_1_orthopedic_surgery_025_geo$lat
 
 #### WRITE TO CSV
-write_csv(SLICE_1_internal_medicine_003, path = "Processed_CSV/Specialties/SLICE_1_internal_medicine_003.csv")
+write_csv(SLICE_1_orthopedic_surgery_025, path = "Processed_CSV/Specialties/SLICE_1_orthopedic_surgery_025.csv")
 
-write_csv(SLICE_4_family_medicine_002, path = "Processed_CSV/Specialties/SLICE_4_family_medicine_002.csv")
+write_csv(SLICE_2_ophthalmology_023, path = "Processed_CSV/Specialties/SLICE_2_ophthalmology_023.csv")
 
 # FRIDAY START TIME
 clean_start_time

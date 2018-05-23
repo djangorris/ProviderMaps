@@ -29,7 +29,7 @@ thursday3<- nrow(radiation_oncology_022)
 thursday3
 thursday4<- nrow(SLICE_1_ophthalmology_023)
 thursday4
-2500 - sum(thursday1, thursday2, thursday3, thursday4)
+sum(thursday1, thursday2, thursday3, thursday4)
 
 ## USE THE GEOCODING API INFO IN SECRET.R
 # med_surg_oncology_021_geo <- geocode(location = med_surg_oncology_021$locations, output="latlon", source="google")
