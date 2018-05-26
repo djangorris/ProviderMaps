@@ -52,5 +52,5 @@ TOTAL_Specialty_Count <- FINAL_CO_all_medical_providers %>%
   summarise(n = n())
 
 ### BINDING SLICES TOGETHER
-primary_care_NP_006 <- bind_rows(SLICE_1_primary_care_NP_006, SLICE_2_primary_care_NP_006)
-write_csv(primary_care_NP_006, path = "Processed_CSV/Specialties/primary_care_NP_006.csv")
+ophthalmology_023 <- bind_rows(SLICE_1_ophthalmology_023, SLICE_2_ophthalmology_023)
+write_csv(ophthalmology_023, path = "Processed_CSV/Specialties/ophthalmology_023.csv")

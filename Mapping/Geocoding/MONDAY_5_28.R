@@ -5,7 +5,7 @@ geocodeQueryCheck()
 start_time <- Sys.time()
 clean_start_time <- format(start_time, "%m/%d/%y %l:%M:%S")
 # FILTER SPECIALTY
-pulmonology_030 <- filter(CO_all_medical_providers, Specialty %in% "026 Physical Medicine & Rehabilitation")
+pulmonology_030 <- filter(CO_all_medical_providers, Specialty %in% "030 Pulmonology")
 
 psychiatry_029 <- filter(CO_all_medical_providers, Specialty %in% "029 Psychiatry")
 
