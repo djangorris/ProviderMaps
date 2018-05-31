@@ -1,7 +1,11 @@
-
+# start_time
+# [1] "05/30/18  9:14:31"
+# finish_time
+#   [1] "05/30/18  9:34:31"
+#   Time difference of 20.00409 mins
 #### FIRST MAKE SURE THERE ARE QUERIES AVAILABLE ###
 geocodeQueryCheck()
-# START TIME - AIM FOR 4:20 PM
+# START TIME - AIM FOR 9:15 AM
 start_time <- Sys.time()
 clean_start_time <- format(start_time, "%m/%d/%y %l:%M:%S")
 # FILTER SPECIALTY
@@ -153,9 +157,9 @@ write_csv(ambulatory_057, path = "Processed_CSV/Specialties/ambulatory_057.csv")
 
 write_csv(SLICE_1_pediatrics_101, path = "Processed_CSV/Specialties/SLICE_1_pediatrics_101.csv")
 
-# PREVIOUS START TIME
+# START TIME
 clean_start_time
-# PREVIOUS FINISH TIME
+# FINISH TIME
 finish_time <- Sys.time()
 clean_finish_time <- format(finish_time, "%m/%d/%y %l:%M:%S")
 clean_finish_time

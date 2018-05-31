@@ -5,13 +5,13 @@ geocodeQueryCheck()
 start_time <- Sys.time()
 clean_start_time <- format(start_time, "%m/%d/%y %l:%M:%S")
 # FILTER SPECIALTY
-first_000 <- filter(CO_all_medical_providers, Specialty %in% "000 First")
+first_000 <- filter(CO_all_medical_providers, Specialty %in% "000_First")
 
-second_000 <- filter(CO_all_medical_providers, Specialty %in% "000 Second")
+second_000 <- filter(CO_all_medical_providers, Specialty %in% "000_Second")
 
-third_000 <- filter(CO_all_medical_providers, Specialty %in% "000 Third")
+third_000 <- filter(CO_all_medical_providers, Specialty %in% "000_Third")
 
-fourth_000 <- filter(CO_all_medical_providers, Specialty %in% "000 Fourth")
+fourth_000 <- filter(CO_all_medical_providers, Specialty %in% "000_Fourth")
 
 # SLICE
 SLICE_2_first_000 <- slice(first_000, 323:n())
@@ -65,9 +65,9 @@ write_csv(third_000, path = "Processed_CSV/Specialties/third_000.csv")
 
 write_csv(SLICE_1_fourth_000, path = "Processed_CSV/Specialties/SLICE_1_fourth_000.csv")
 
-# PREVIOUS START TIME
+# START TIME
 clean_start_time
-# PREVIOUS FINISH TIME
+# FINISH TIME
 finish_time <- Sys.time()
 clean_finish_time <- format(finish_time, "%m/%d/%y %l:%M:%S")
 clean_finish_time
