@@ -1,7 +1,11 @@
-
+# start_time
+# [1] "06/04/18 10:01:14"
+# finish_time
+#   [1] "06/04/18 10:22:39"
+#   Time difference of 21.4139 mins
 #### FIRST MAKE SURE THERE ARE QUERIES AVAILABLE ###
 geocodeQueryCheck()
-# START TIME - AIM FOR 4:20 PM
+# START TIME - AIM FOR 10:15 PM
 start_time <- Sys.time()
 clean_start_time <- format(start_time, "%m/%d/%y %l:%M:%S")
 # FILTER SPECIALTY

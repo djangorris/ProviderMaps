@@ -1,4 +1,8 @@
-
+# start_time
+# [1] "06/07/18 10:54:53"
+# finish_time
+#   [1] "06/07/18 11:17:15"
+#   Time difference of 22.3641 mins
 #### FIRST MAKE SURE THERE ARE QUERIES AVAILABLE ###
 geocodeQueryCheck()
 # START TIME - AIM FOR 4:20 PM
